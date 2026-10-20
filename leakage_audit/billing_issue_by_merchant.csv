@@ -1,0 +1,24 @@
+error_type,issue,merchant_id,first_ship_date,last_ship_date,shipments,underbilled_inr,overbilled_inr,net_impact_inr
+COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,M08,2026-07-01,2026-09-30,216,4125.0,0.0,4125.0
+COD,Schedule A COD fee used instead of contract COD fee,M08,2026-07-06,2026-09-12,6,90.0,0.0,90.0
+Discount,Discount amendment to 15% not applied (billed 8%),M09,2026-08-25,2026-09-30,161,0.0,1477.84,-1477.84
+Weight,Chargeable weight billed below measured weight,M05,2026-07-01,2026-09-30,582,14158.28,0.0,14158.28
+Weight,Chargeable weight billed below measured weight,M11,2026-09-03,2026-09-16,20,970.9,0.0,970.9
+Weight,Chargeable weight billed below measured weight,M06,2026-09-04,2026-09-16,13,628.0,0.0,628.0
+Weight,Chargeable weight billed below measured weight,M08,2026-09-03,2026-09-16,18,625.1,0.0,625.1
+Weight,Chargeable weight billed below measured weight,M02,2026-09-03,2026-09-16,21,589.0,0.0,589.0
+Weight,Chargeable weight billed below measured weight,M12,2026-09-03,2026-09-15,12,378.0,0.0,378.0
+Weight,Chargeable weight billed below measured weight,M10,2026-09-07,2026-09-16,10,325.5,0.0,325.5
+Weight,Chargeable weight billed below measured weight,M01,2026-09-03,2026-09-13,10,312.8,0.0,312.8
+Weight,Chargeable weight billed below measured weight,M04,2026-09-04,2026-09-16,10,271.04,0.0,271.04
+Weight,Chargeable weight billed below measured weight,M03,2026-09-04,2026-09-14,10,264.6,0.0,264.6
+Weight,Chargeable weight billed below measured weight,M09,2026-09-03,2026-09-14,7,180.32,0.0,180.32
+Weight,Chargeable weight billed below measured weight,M07,2026-09-05,2026-09-13,7,162.0,0.0,162.0
+Weight,Minimum chargeable weight 1 kg not applied,M07,2026-07-01,2026-09-30,419,9489.6,0.0,9489.6
+Weight,Volumetric divisor 5000 used instead of 4500,M11,2026-07-02,2026-09-30,88,2547.9,0.0,2547.9
+Zone,Zone D billed instead of C,M05,2026-07-01,2026-09-29,46,0.0,517.0,-517.0
+Zone,Zone D billed instead of C,M06,2026-07-01,2026-09-24,33,0.0,675.0,-675.0
+Zone,Zone D billed instead of C,M01,2026-07-02,2026-09-29,44,0.0,776.48,-776.48
+Zone,Zone D billed instead of C,M02,2026-07-02,2026-09-30,49,0.0,781.85,-781.85
+Zone,Zone D billed instead of C,M08,2026-07-03,2026-09-22,59,0.0,867.35,-867.35
+Zone,Zone D billed instead of C,M07,2026-07-01,2026-09-30,420,0.0,3708.0,-3708.0

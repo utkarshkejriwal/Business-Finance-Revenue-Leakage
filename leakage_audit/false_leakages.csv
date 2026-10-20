@@ -1,0 +1,421 @@
+awb,ship_date,merchant_id,origin_city,dest_city,dest_state,declared_wt_kg,dead_wt_kg,length_cm,width_cm,height_cm,payment_mode,cod_value,billed_zone,billed_chargeable_kg,billed_freight,billed_cod_fee,billed_total,dispute_raised,expected_zone,expected_weight,expected_discount_pct,expected_freight,expected_cod_fee,expected_total,standard_total,contract_terms_applied,variance,audit_status,standard_variance,false_leakage_inr,false_leakage_reason
+SFX3104823431,2026-07-12,M02,Mumbai,Mysuru,Karnataka,0.51,0.51,14,13,10,COD,2300,D,1.0,76.0,34.5,110.5,0.0,D,1.0,5.0,76.0,34.5,110.5,116.25,Custom COD fee,0.0,No variance,5.75,5.75,Custom COD fee
+SFX3105214520,2026-07-25,M02,Mumbai,Bhopal,Madhya Pradesh,1.2,1.2,16,16,12,COD,2450,D,1.5,102.6,36.75,139.35,0.0,D,1.5,5.0,102.6,36.75,139.35,145.48,Custom COD fee,0.0,No variance,6.13,6.13,Custom COD fee
+SFX3105735972,2026-07-09,M02,Mumbai,Nagpur,Maharashtra,0.59,0.59,17,14,16,COD,700,B,1.0,53.2,25.0,78.2,0.0,B,1.0,5.0,53.2,25.0,78.2,83.2,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107561054,2026-07-21,M02,Mumbai,Lucknow,Uttar Pradesh,1.36,1.36,18,13,13,COD,2500,D,1.5,102.6,37.5,140.1,0.0,D,1.5,5.0,102.6,37.5,140.1,146.35,Custom COD fee,0.0,No variance,6.25,6.25,Custom COD fee
+SFX3100125410,2026-07-16,M02,Mumbai,Jaipur,Rajasthan,1.41,2.05,22,16,18,COD,650,D,2.5,155.8,25.0,180.8,1.0,D,2.5,5.0,155.8,25.0,180.8,185.8,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3104688115,2026-07-08,M02,Mumbai,Bengaluru,Karnataka,0.73,1.08,20,17,14,COD,2450,C,1.5,88.35,36.75,125.1,0.0,C,1.5,5.0,88.35,36.75,125.1,131.23,Custom COD fee,0.0,No variance,6.13,6.13,Custom COD fee
+SFX3107165012,2026-07-28,M02,Mumbai,Bengaluru,Karnataka,1.29,1.29,22,18,14,COD,2700,C,1.5,88.35,40.5,128.85,0.0,C,1.5,5.0,88.35,40.5,128.85,135.6,Custom COD fee,0.0,No variance,6.75,6.75,Custom COD fee
+SFX3104552799,2026-07-23,M02,Mumbai,Hyderabad,Telangana,1.87,2.09,20,16,20,COD,2850,C,2.5,133.95,42.75,176.7,0.0,C,2.5,5.0,133.95,42.75,176.7,183.83,Custom COD fee,0.0,No variance,7.13,7.13,Custom COD fee
+SFX3107290422,2026-07-31,M06,Bengaluru,Kolkata,West Bengal,0.51,0.91,13,11,9,COD,2800,C,1.0,69.0,40.0,109.0,0.0,C,1.0,0.0,69.0,40.0,109.0,118.0,Custom COD fee,0.0,No variance,9.0,9.0,Custom COD fee
+SFX3107420785,2026-07-12,M06,Bengaluru,Indore,Madhya Pradesh,0.67,0.91,13,9,12,COD,2800,D,1.0,80.0,40.0,120.0,0.0,D,1.0,0.0,80.0,40.0,120.0,129.0,Custom COD fee,0.0,No variance,9.0,9.0,Custom COD fee
+SFX3103113853,2026-07-18,M02,Mumbai,Delhi,Delhi,4.91,5.28,47,32,35,COD,2700,C,11.0,521.55,40.5,562.05,1.0,C,11.0,5.0,521.55,40.5,562.05,568.8,Custom COD fee,0.0,No variance,6.75,6.75,Custom COD fee
+SFX3106372928,2026-07-16,M02,Mumbai,Mumbai,Maharashtra,1.67,1.67,26,19,17,COD,900,A,2.0,70.3,25.0,95.3,1.0,A,2.0,5.0,70.3,25.0,95.3,100.3,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107546195,2026-07-29,M06,Bengaluru,Mumbai,Maharashtra,1.33,1.33,25,19,16,COD,2600,C,2.0,117.0,40.0,157.0,0.0,C,2.0,0.0,117.0,40.0,157.0,162.5,Custom COD fee,0.0,No variance,5.5,5.5,Custom COD fee
+SFX3100501640,2026-07-04,M02,Mumbai,Jaipur,Rajasthan,1.23,1.24,22,16,21,COD,1050,D,1.5,102.6,25.0,127.6,0.0,D,1.5,5.0,102.6,25.0,127.6,132.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101153455,2026-07-21,M02,Mumbai,Bengaluru,Karnataka,1.43,1.65,20,17,15,COD,1650,C,2.0,111.15,25.0,136.15,0.0,C,2.0,5.0,111.15,25.0,136.15,141.15,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102717811,2026-07-22,M02,Mumbai,Kolkata,West Bengal,0.8,0.81,17,16,12,COD,2600,C,1.0,65.55,39.0,104.55,0.0,C,1.0,5.0,65.55,39.0,104.55,111.05,Custom COD fee,0.0,No variance,6.5,6.5,Custom COD fee
+SFX3105585797,2026-07-09,M02,Mumbai,Hyderabad,Telangana,0.63,0.64,10,8,7,COD,2750,C,1.0,65.55,41.25,106.8,0.0,C,1.0,5.0,65.55,41.25,106.8,113.68,Custom COD fee,0.0,No variance,6.88,6.88,Custom COD fee
+SFX3105846523,2026-07-14,M02,Mumbai,Lucknow,Uttar Pradesh,0.29,0.37,14,11,10,COD,300,D,0.5,49.4,25.0,74.4,0.0,D,0.5,5.0,49.4,25.0,74.4,79.4,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107932331,2026-07-17,M02,Mumbai,Hyderabad,Telangana,0.66,1.08,20,17,16,COD,1950,C,1.5,88.35,29.25,117.6,0.0,C,1.5,5.0,88.35,29.25,117.6,122.47,Custom COD fee,0.0,No variance,4.87,4.87,Custom COD fee
+SFX3101409228,2026-07-07,M02,Mumbai,Mumbai,Maharashtra,0.88,0.94,17,11,16,COD,2650,A,1.0,43.7,39.75,83.45,0.0,A,1.0,5.0,43.7,39.75,83.45,90.08,Custom COD fee,0.0,No variance,6.63,6.63,Custom COD fee
+SFX3107405926,2026-07-30,M02,Mumbai,Lucknow,Uttar Pradesh,0.42,0.68,13,9,15,COD,2500,D,1.0,76.0,37.5,113.5,0.0,D,1.0,5.0,76.0,37.5,113.5,119.75,Custom COD fee,0.0,No variance,6.25,6.25,Custom COD fee
+SFX3107666652,2026-07-17,M02,Mumbai,Bhubaneswar,Odisha,1.02,1.03,23,18,17,COD,2850,D,1.5,102.6,42.75,145.35,0.0,D,1.5,5.0,102.6,42.75,145.35,152.48,Custom COD fee,0.0,No variance,7.13,7.13,Custom COD fee
+SFX3102968631,2026-07-26,M02,Mumbai,Jaipur,Rajasthan,0.4,0.72,15,9,13,COD,1950,D,1.0,76.0,29.25,105.25,0.0,D,1.0,5.0,76.0,29.25,105.25,110.12,Custom COD fee,0.0,No variance,4.87,4.87,Custom COD fee
+SFX3100747507,2026-07-28,M02,Mumbai,Bengaluru,Karnataka,1.65,2.13,26,23,21,COD,1500,C,3.0,156.75,25.0,181.75,0.0,C,3.0,5.0,156.75,25.0,181.75,186.75,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103485130,2026-07-15,M02,Mumbai,Ahmedabad,Gujarat,1.85,3.01,30,26,18,COD,1600,D,3.5,209.0,25.0,234.0,0.0,D,3.5,5.0,209.0,25.0,234.0,239.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3106483479,2026-07-02,M06,Bengaluru,Mumbai,Maharashtra,2.4,3.58,21,15,16,COD,2500,C,4.0,213.0,40.0,253.0,0.0,C,4.0,0.0,213.0,40.0,253.0,256.75,Custom COD fee,0.0,No variance,3.75,3.75,Custom COD fee
+SFX3108178198,2026-07-07,M02,Mumbai,Hyderabad,Telangana,1.48,1.69,24,21,16,COD,2000,C,2.0,111.15,30.0,141.15,0.0,C,2.0,5.0,111.15,30.0,141.15,146.15,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108960376,2026-07-24,M02,Mumbai,Bengaluru,Karnataka,1.6,1.6,22,21,15,COD,2450,C,2.0,111.15,36.75,147.9,0.0,C,2.0,5.0,111.15,36.75,147.9,154.03,Custom COD fee,0.0,No variance,6.13,6.13,Custom COD fee
+SFX3101133643,2026-07-31,M02,Mumbai,Warangal,Telangana,5.07,5.58,31,27,24,COD,2700,D,6.0,342.0,40.5,382.5,0.0,D,6.0,5.0,342.0,40.5,382.5,389.25,Custom COD fee,0.0,No variance,6.75,6.75,Custom COD fee
+SFX3101915821,2026-07-20,M02,Mumbai,Jaipur,Rajasthan,0.75,1.24,28,18,27,COD,1700,D,3.0,182.4,25.5,207.9,0.0,D,3.0,5.0,182.4,25.5,207.9,212.4,Custom COD fee,0.0,No variance,4.5,4.5,Custom COD fee
+SFX3104653444,2026-07-29,M02,Mumbai,Mumbai,Maharashtra,1.65,1.65,19,13,17,COD,2500,A,2.0,70.3,37.5,107.8,0.0,A,2.0,5.0,70.3,37.5,107.8,114.05,Custom COD fee,0.0,No variance,6.25,6.25,Custom COD fee
+SFX3104783807,2026-07-19,M02,Mumbai,Bengaluru,Karnataka,0.12,0.12,10,8,7,COD,2800,C,0.5,42.75,42.0,84.75,0.0,C,0.5,5.0,42.75,42.0,84.75,91.75,Custom COD fee,0.0,No variance,7.0,7.0,Custom COD fee
+SFX3106608889,2026-07-06,M02,Mumbai,Warangal,Telangana,1.29,1.57,21,21,16,COD,2150,D,2.0,129.2,32.25,161.45,0.0,D,2.0,5.0,129.2,32.25,161.45,166.83,Custom COD fee,0.0,No variance,5.38,5.38,Custom COD fee
+SFX3100346512,2026-07-02,M02,Mumbai,Delhi,Delhi,0.56,0.56,12,10,10,COD,1800,C,1.0,65.55,27.0,92.55,0.0,C,1.0,5.0,65.55,27.0,92.55,97.05,Custom COD fee,0.0,No variance,4.5,4.5,Custom COD fee
+SFX3103605587,2026-07-07,M02,Mumbai,Bengaluru,Karnataka,0.53,0.53,15,10,12,COD,1950,C,1.0,65.55,29.25,94.8,0.0,C,1.0,5.0,65.55,29.25,94.8,99.67,Custom COD fee,0.0,No variance,4.87,4.87,Custom COD fee
+SFX3106864662,2026-07-06,M06,Bengaluru,Hyderabad,Telangana,3.15,3.15,29,27,22,COD,2900,C,3.5,189.0,40.0,229.0,0.0,C,3.5,0.0,189.0,40.0,229.0,239.75,Custom COD fee,0.0,No variance,10.75,10.75,Custom COD fee
+SFX3108689744,2026-07-18,M02,Mumbai,Delhi,Delhi,0.37,0.43,10,9,8,COD,1250,C,0.5,42.75,25.0,67.75,0.0,C,0.5,5.0,42.75,25.0,67.75,72.75,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101645189,2026-07-11,M02,Mumbai,Bengaluru,Karnataka,1.45,1.96,22,19,15,COD,1000,C,2.0,111.15,25.0,136.15,0.0,C,2.0,5.0,111.15,25.0,136.15,141.15,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102166641,2026-07-01,M02,Mumbai,Delhi,Delhi,0.58,1.03,13,12,9,COD,2100,C,1.5,88.35,31.5,119.85,0.0,C,1.5,5.0,88.35,31.5,119.85,125.1,Custom COD fee,0.0,No variance,5.25,5.25,Custom COD fee
+SFX3105034627,2026-07-17,M02,Mumbai,Kolkata,West Bengal,0.18,0.32,11,9,8,COD,2800,C,0.5,42.75,42.0,84.75,0.0,C,0.5,5.0,42.75,42.0,84.75,91.75,Custom COD fee,0.0,No variance,7.0,7.0,Custom COD fee
+SFX3106207894,2026-07-28,M02,Mumbai,Ahmedabad,Gujarat,5.14,5.86,31,30,21,COD,1650,D,6.0,342.0,25.0,367.0,0.0,D,6.0,5.0,342.0,25.0,367.0,372.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108684791,2026-07-10,M02,Mumbai,Kolkata,West Bengal,2.86,2.86,23,17,15,COD,300,C,3.0,156.75,25.0,181.75,0.0,C,3.0,5.0,156.75,25.0,181.75,186.75,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101379510,2026-07-09,M02,Mumbai,Mysuru,Karnataka,0.36,0.36,11,9,8,COD,2950,D,0.5,49.4,44.25,93.65,0.0,D,0.5,5.0,49.4,44.25,93.65,101.03,Custom COD fee,0.0,No variance,7.38,7.38,Custom COD fee
+SFX3101509873,2026-07-20,M02,Mumbai,Bengaluru,Karnataka,2.1,2.1,20,19,15,COD,2200,C,2.5,133.95,33.0,166.95,0.0,C,2.5,5.0,133.95,33.0,166.95,172.45,Custom COD fee,0.0,No variance,5.5,5.5,Custom COD fee
+SFX3101770599,2026-07-10,M02,Mumbai,Hyderabad,Telangana,1.42,1.55,22,15,19,COD,2450,C,2.0,111.15,36.75,147.9,0.0,C,2.0,5.0,111.15,36.75,147.9,154.03,Custom COD fee,0.0,No variance,6.13,6.13,Custom COD fee
+SFX3102287098,2026-07-17,M02,Mumbai,Ahmedabad,Gujarat,0.97,1.36,21,17,13,COD,1600,D,1.5,102.6,25.0,127.6,0.0,D,1.5,5.0,102.6,25.0,127.6,132.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102938913,2026-07-27,M02,Mumbai,Mysuru,Karnataka,2.06,2.06,23,19,21,COD,1850,D,2.5,155.8,27.75,183.55,0.0,D,2.5,5.0,155.8,27.75,183.55,188.18,Custom COD fee,0.0,No variance,4.63,4.63,Custom COD fee
+SFX3104242543,2026-07-25,M02,Mumbai,Indore,Madhya Pradesh,6.1,6.1,39,28,31,COD,1200,D,7.0,395.2,25.0,420.2,0.0,D,7.0,5.0,395.2,25.0,420.2,425.2,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105676536,2026-07-05,M02,Mumbai,Ahmedabad,Gujarat,0.72,0.86,19,14,19,COD,600,D,1.5,102.6,25.0,127.6,0.0,D,1.5,5.0,102.6,25.0,127.6,132.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107501618,2026-07-23,M02,Mumbai,Delhi,Delhi,1.47,2.3,30,28,24,COD,150,C,4.5,225.15,25.0,250.15,1.0,C,4.5,5.0,225.15,25.0,250.15,255.15,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107762344,2026-07-09,M02,Mumbai,Mumbai,Maharashtra,0.84,1.0,24,16,19,COD,2600,A,1.5,57.0,39.0,96.0,1.0,A,1.5,5.0,57.0,39.0,96.0,102.5,Custom COD fee,0.0,No variance,6.5,6.5,Custom COD fee
+SFX3108153433,2026-07-06,M02,Mumbai,Kolkata,West Bengal,1.06,1.06,18,17,14,COD,1000,C,1.5,88.35,25.0,113.35,0.0,C,1.5,5.0,88.35,25.0,113.35,118.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100848152,2026-07-18,M06,Bengaluru,Delhi,Delhi,1.12,1.94,26,18,20,COD,2400,C,2.0,117.0,40.0,157.0,0.0,C,2.0,0.0,117.0,40.0,157.0,159.0,Custom COD fee,0.0,No variance,2.0,2.0,Custom COD fee
+SFX3102151782,2026-07-29,M02,Mumbai,Chandigarh,Chandigarh,0.7,1.2,27,24,23,COD,450,D,3.0,182.4,25.0,207.4,0.0,D,3.0,5.0,182.4,25.0,207.4,212.4,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103716138,2026-07-21,M02,Mumbai,Patna,Bihar,0.84,0.85,19,14,15,COD,400,D,1.0,76.0,25.0,101.0,0.0,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107757391,2026-07-31,M02,Mumbai,Kolkata,West Bengal,0.65,0.84,14,12,13,COD,1200,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108278843,2026-07-31,M02,Mumbai,Mumbai,Maharashtra,0.17,0.24,13,10,9,COD,800,A,0.5,30.4,25.0,55.4,0.0,A,0.5,5.0,30.4,25.0,55.4,60.4,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108539569,2026-07-12,M02,Mumbai,Patna,Bihar,0.44,0.5,20,13,18,COD,2300,D,1.0,76.0,34.5,110.5,0.0,D,1.0,5.0,76.0,34.5,110.5,116.25,Custom COD fee,0.0,No variance,5.75,5.75,Custom COD fee
+SFX3100973562,2026-07-03,M02,Mumbai,Mumbai,Maharashtra,0.57,0.63,18,16,13,COD,750,A,1.0,43.7,25.0,68.7,0.0,A,1.0,5.0,43.7,25.0,68.7,73.7,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101625377,2026-07-06,M02,Mumbai,Kolkata,West Bengal,0.48,0.8,10,8,11,COD,350,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102537918,2026-07-13,M02,Mumbai,Patna,Bihar,0.87,0.87,19,17,12,COD,850,D,1.0,76.0,25.0,101.0,0.0,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102668281,2026-07-22,M02,Mumbai,Bengaluru,Karnataka,3.36,3.36,34,29,25,COD,1900,C,5.0,247.95,28.5,276.45,0.0,C,5.0,5.0,247.95,28.5,276.45,281.2,Custom COD fee,0.0,No variance,4.75,4.75,Custom COD fee
+SFX3105927356,2026-07-14,M02,Mumbai,Bengaluru,Karnataka,2.99,3.08,23,17,16,COD,1650,C,3.5,179.55,25.0,204.55,0.0,C,3.5,5.0,179.55,25.0,204.55,209.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107622075,2026-07-03,M02,Mumbai,Kolkata,West Bengal,0.67,0.67,13,9,12,COD,700,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102924054,2026-07-17,M02,Mumbai,Patna,Bihar,2.21,2.4,20,14,14,COD,400,D,2.5,155.8,25.0,180.8,0.0,D,2.5,5.0,155.8,25.0,180.8,185.8,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103054417,2026-07-13,M02,Mumbai,Hyderabad,Telangana,0.57,0.63,19,14,14,COD,1800,C,1.0,65.55,27.0,92.55,0.0,C,1.0,5.0,65.55,27.0,92.55,97.05,Custom COD fee,0.0,No variance,4.5,4.5,Custom COD fee
+SFX3103575869,2026-07-29,M02,Mumbai,Surat,Gujarat,2.22,3.44,32,21,29,COD,2450,D,4.0,235.6,36.75,272.35,0.0,D,4.0,5.0,235.6,36.75,272.35,278.48,Custom COD fee,0.0,No variance,6.13,6.13,Custom COD fee
+SFX3104488410,2026-07-01,M02,Mumbai,Kolkata,West Bengal,0.41,0.67,19,13,15,COD,1500,C,1.0,65.55,25.0,90.55,1.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3106183129,2026-07-10,M02,Mumbai,Delhi,Delhi,0.53,0.53,15,11,13,COD,2850,C,1.0,65.55,42.75,108.3,0.0,C,1.0,5.0,65.55,42.75,108.3,115.43,Custom COD fee,0.0,No variance,7.13,7.13,Custom COD fee
+SFX3107486759,2026-07-06,M02,Mumbai,Hyderabad,Telangana,0.23,0.39,20,14,19,COD,2450,C,1.5,88.35,36.75,125.1,0.0,C,1.5,5.0,88.35,36.75,125.1,131.23,Custom COD fee,0.0,No variance,6.13,6.13,Custom COD fee
+SFX3101094019,2026-07-19,M02,Mumbai,Mumbai,Maharashtra,0.93,1.47,21,15,21,COD,2800,A,1.5,57.0,42.0,99.0,0.0,A,1.5,5.0,57.0,42.0,99.0,106.0,Custom COD fee,0.0,No variance,7.0,7.0,Custom COD fee
+SFX3102136923,2026-07-20,M02,Mumbai,Lucknow,Uttar Pradesh,4.69,6.27,24,18,21,COD,1600,D,6.5,368.6,25.0,393.6,0.0,D,6.5,5.0,368.6,25.0,393.6,398.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3104483457,2026-07-05,M02,Mumbai,Lucknow,Uttar Pradesh,0.64,0.64,12,9,13,COD,600,D,1.0,76.0,25.0,101.0,0.0,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105004909,2026-07-28,M02,Mumbai,Mumbai,Maharashtra,0.62,0.62,14,12,11,COD,1650,A,1.0,43.7,25.0,68.7,0.0,A,1.0,5.0,43.7,25.0,68.7,73.7,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105265635,2026-07-02,M02,Mumbai,Jaipur,Rajasthan,0.53,0.75,17,13,16,COD,600,D,1.0,76.0,25.0,101.0,0.0,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105656724,2026-07-11,M02,Mumbai,Lucknow,Uttar Pradesh,0.92,0.92,22,18,15,COD,150,D,1.5,102.6,25.0,127.6,0.0,D,1.5,5.0,102.6,25.0,127.6,132.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3106047813,2026-07-08,M02,Mumbai,Mumbai,Maharashtra,1.18,1.18,23,19,15,COD,650,A,1.5,57.0,25.0,82.0,0.0,A,1.5,5.0,57.0,25.0,82.0,87.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3106178176,2026-07-29,M02,Mumbai,Guwahati,Assam,0.62,0.62,14,11,11,COD,2700,E,1.0,102.6,40.5,143.1,0.0,E,1.0,5.0,102.6,40.5,143.1,149.85,Custom COD fee,0.0,No variance,6.75,6.75,Custom COD fee
+SFX3107090717,2026-07-09,M02,Mumbai,Nagpur,Maharashtra,0.83,1.13,27,19,21,COD,2300,B,2.5,104.5,34.5,139.0,0.0,B,2.5,5.0,104.5,34.5,139.0,144.75,Custom COD fee,0.0,No variance,5.75,5.75,Custom COD fee
+SFX3108263984,2026-07-23,M06,Bengaluru,Ahmedabad,Gujarat,1.58,1.85,27,24,22,COD,2600,D,3.0,192.0,40.0,232.0,0.0,D,3.0,0.0,192.0,40.0,232.0,237.5,Custom COD fee,0.0,No variance,5.5,5.5,Custom COD fee
+SFX3108524710,2026-07-06,M02,Mumbai,Kolkata,West Bengal,0.1,0.14,10,8,5,COD,1500,C,0.5,42.75,25.0,67.75,0.0,C,0.5,5.0,42.75,25.0,67.75,72.75,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100306888,2026-07-08,M02,Mumbai,Pune,Maharashtra,2.04,2.94,27,19,26,COD,150,B,3.0,121.6,25.0,146.6,0.0,B,3.0,5.0,121.6,25.0,146.6,151.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100437251,2026-07-07,M02,Mumbai,Bengaluru,Karnataka,1.28,2.1,23,19,16,COD,300,C,2.5,133.95,25.0,158.95,0.0,C,2.5,5.0,133.95,25.0,158.95,163.95,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103435600,2026-07-30,M02,Mumbai,Kolkata,West Bengal,3.21,3.41,23,17,24,COD,950,C,3.5,179.55,25.0,204.55,0.0,C,3.5,5.0,179.55,25.0,204.55,209.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105912497,2026-07-24,M02,Mumbai,Bengaluru,Karnataka,0.4,0.4,18,12,16,COD,800,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3106042860,2026-07-25,M02,Mumbai,Bhopal,Madhya Pradesh,1.48,1.48,23,18,17,COD,450,D,1.5,102.6,25.0,127.6,0.0,D,1.5,5.0,102.6,25.0,127.6,132.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101344839,2026-07-05,M02,Mumbai,Ahmedabad,Gujarat,0.94,1.1,17,15,10,COD,2350,D,1.5,102.6,35.25,137.85,0.0,D,1.5,5.0,102.6,35.25,137.85,143.73,Custom COD fee,0.0,No variance,5.88,5.88,Custom COD fee
+SFX3103952099,2026-07-29,M02,Mumbai,Chandigarh,Chandigarh,1.25,1.74,32,21,29,COD,450,D,4.0,235.6,25.0,260.6,0.0,D,4.0,5.0,235.6,25.0,260.6,265.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107471900,2026-07-18,M02,Mumbai,Lucknow,Uttar Pradesh,0.29,0.42,13,14,11,COD,1100,D,0.5,49.4,25.0,74.4,0.0,D,0.5,5.0,49.4,25.0,74.4,79.4,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108514804,2026-07-02,M02,Mumbai,Nagpur,Maharashtra,1.97,2.29,24,19,21,COD,600,B,2.5,104.5,25.0,129.5,0.0,B,2.5,5.0,104.5,25.0,129.5,134.5,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103686420,2026-07-13,M02,Mumbai,Ahmedabad,Gujarat,1.69,2.06,19,20,15,COD,2200,D,2.5,155.8,33.0,188.8,0.0,D,2.5,5.0,155.8,33.0,188.8,194.3,Custom COD fee,0.0,No variance,5.5,5.5,Custom COD fee
+SFX3106945495,2026-07-02,M02,Mumbai,Bhopal,Madhya Pradesh,1.45,1.7,23,23,16,COD,450,D,2.0,129.2,25.0,154.2,0.0,D,2.0,5.0,129.2,25.0,154.2,159.2,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108509851,2026-07-05,M02,Mumbai,Delhi,Delhi,0.3,0.31,13,13,11,COD,850,C,0.5,42.75,25.0,67.75,0.0,C,0.5,5.0,42.75,25.0,67.75,72.75,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100683118,2026-07-28,M02,Mumbai,Kolkata,West Bengal,0.9,1.03,20,14,15,COD,1950,C,1.5,88.35,29.25,117.6,0.0,C,1.5,5.0,88.35,29.25,117.6,122.47,Custom COD fee,0.0,No variance,4.87,4.87,Custom COD fee
+SFX3101204570,2026-07-05,M02,Mumbai,Indore,Madhya Pradesh,1.28,1.28,25,17,21,COD,950,D,2.0,129.2,25.0,154.2,1.0,D,2.0,5.0,129.2,25.0,154.2,159.2,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102768926,2026-07-14,M02,Mumbai,Mumbai,Maharashtra,0.35,0.35,10,8,5,COD,150,A,0.5,30.4,25.0,55.4,0.0,A,0.5,5.0,30.4,25.0,55.4,60.4,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103160015,2026-07-28,M02,Mumbai,Bhopal,Madhya Pradesh,0.85,0.85,19,15,19,COD,2250,D,1.5,102.6,33.75,136.35,0.0,D,1.5,5.0,102.6,33.75,136.35,141.98,Custom COD fee,0.0,No variance,5.63,5.63,Custom COD fee
+SFX3104202919,2026-07-29,M02,Mumbai,Bengaluru,Karnataka,0.9,1.38,20,16,19,COD,2000,C,1.5,88.35,30.0,118.35,1.0,C,1.5,5.0,88.35,30.0,118.35,123.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105636912,2026-07-04,M06,Bengaluru,Shillong,Meghalaya,0.57,0.9,18,12,16,COD,2300,E,1.0,108.0,40.0,148.0,0.0,E,1.0,0.0,108.0,40.0,148.0,148.25,Custom COD fee,0.0,No variance,0.25,0.25,Custom COD fee
+SFX3103415788,2026-07-05,M02,Mumbai,Ahmedabad,Gujarat,0.98,1.15,16,12,17,COD,1450,D,1.5,102.6,25.0,127.6,0.0,D,1.5,5.0,102.6,25.0,127.6,132.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105631959,2026-07-10,M02,Mumbai,Delhi,Delhi,0.18,0.25,12,10,7,COD,1050,C,0.5,42.75,25.0,67.75,0.0,C,0.5,5.0,42.75,25.0,67.75,72.75,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3106935589,2026-07-02,M02,Mumbai,Hyderabad,Telangana,1.07,1.64,33,28,21,COD,600,C,4.0,202.35,25.0,227.35,0.0,C,4.0,5.0,202.35,25.0,227.35,232.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101846479,2026-07-24,M02,Mumbai,Pune,Maharashtra,0.35,0.39,15,12,10,COD,2600,B,0.5,36.1,39.0,75.1,0.0,B,0.5,5.0,36.1,39.0,75.1,81.6,Custom COD fee,0.0,No variance,6.5,6.5,Custom COD fee
+SFX3102107205,2026-07-07,M02,Mumbai,Coimbatore,Tamil Nadu,0.71,0.71,18,12,17,COD,1750,D,1.0,76.0,26.25,102.25,1.0,D,1.0,5.0,76.0,26.25,102.25,106.63,Custom COD fee,0.0,No variance,4.38,4.38,Custom COD fee
+SFX3104062650,2026-07-09,M02,Mumbai,Bengaluru,Karnataka,1.15,1.15,19,14,15,COD,1650,C,1.5,88.35,25.0,113.35,0.0,C,1.5,5.0,88.35,25.0,113.35,118.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105105554,2026-07-25,M06,Bengaluru,Guwahati,Assam,5.96,5.96,30,24,20,COD,2700,E,6.0,488.0,40.0,528.0,1.0,E,6.0,0.0,488.0,40.0,528.0,535.25,Custom COD fee,0.0,No variance,7.25,7.25,Custom COD fee
+SFX3105235917,2026-07-16,M02,Mumbai,Mumbai,Maharashtra,0.27,0.27,13,11,9,COD,2500,A,0.5,30.4,37.5,67.9,0.0,A,0.5,5.0,30.4,37.5,67.9,74.15,Custom COD fee,0.0,No variance,6.25,6.25,Custom COD fee
+SFX3107060999,2026-07-09,M02,Mumbai,Bengaluru,Karnataka,0.24,0.24,13,11,10,COD,2950,C,0.5,42.75,44.25,87.0,0.0,C,0.5,5.0,42.75,44.25,87.0,94.38,Custom COD fee,0.0,No variance,7.38,7.38,Custom COD fee
+SFX3108755718,2026-07-26,M02,Mumbai,Bhubaneswar,Odisha,0.79,0.79,21,14,18,COD,900,D,1.5,102.6,25.0,127.6,0.0,D,1.5,5.0,102.6,25.0,127.6,132.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100537896,2026-07-15,M02,Mumbai,Bengaluru,Karnataka,0.45,0.45,15,10,13,COD,1600,C,0.5,42.75,25.0,67.75,0.0,C,0.5,5.0,42.75,25.0,67.75,72.75,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103666608,2026-07-21,M02,Mumbai,Bengaluru,Karnataka,0.31,0.31,12,11,8,COD,600,C,0.5,42.75,25.0,67.75,0.0,C,0.5,5.0,42.75,25.0,67.75,72.75,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105752416,2026-07-19,M02,Mumbai,Mumbai,Maharashtra,0.47,0.73,21,17,18,COD,2500,A,1.5,57.0,37.5,94.5,0.0,A,1.5,5.0,57.0,37.5,94.5,100.75,Custom COD fee,0.0,No variance,6.25,6.25,Custom COD fee
+SFX3100011491,2026-07-27,M02,Mumbai,Ahmedabad,Gujarat,0.46,0.63,20,16,19,COD,2800,D,1.5,102.6,42.0,144.6,0.0,D,1.5,5.0,102.6,42.0,144.6,151.6,Custom COD fee,0.0,No variance,7.0,7.0,Custom COD fee
+SFX3103531292,2026-07-18,M02,Mumbai,Bhopal,Madhya Pradesh,0.74,1.21,18,14,16,COD,2050,D,1.5,102.6,30.75,133.35,0.0,D,1.5,5.0,102.6,30.75,133.35,138.48,Custom COD fee,0.0,No variance,5.13,5.13,Custom COD fee
+SFX3104834922,2026-07-19,M02,Mumbai,Patna,Bihar,2.84,2.84,22,15,18,COD,1750,D,3.0,182.4,26.25,208.65,0.0,D,3.0,5.0,182.4,26.25,208.65,213.03,Custom COD fee,0.0,No variance,4.38,4.38,Custom COD fee
+SFX3105486737,2026-07-02,M02,Mumbai,Coimbatore,Tamil Nadu,0.56,0.69,23,19,14,COD,2550,D,1.5,102.6,38.25,140.85,1.0,D,1.5,5.0,102.6,38.25,140.85,147.23,Custom COD fee,0.0,No variance,6.38,6.38,Custom COD fee
+SFX3106008189,2026-07-23,M02,Mumbai,Pune,Maharashtra,0.53,0.53,14,11,14,COD,2050,B,1.0,53.2,30.75,83.95,0.0,B,1.0,5.0,53.2,30.75,83.95,89.08,Custom COD fee,0.0,No variance,5.13,5.13,Custom COD fee
+SFX3106529641,2026-07-11,M02,Mumbai,Surat,Gujarat,1.49,1.49,23,15,19,COD,2300,D,1.5,102.6,34.5,137.1,0.0,D,1.5,5.0,102.6,34.5,137.1,142.85,Custom COD fee,0.0,No variance,5.75,5.75,Custom COD fee
+SFX3107963634,2026-07-20,M02,Mumbai,Delhi,Delhi,1.05,1.05,21,16,16,COD,1250,C,1.5,88.35,25.0,113.35,0.0,C,1.5,5.0,88.35,25.0,113.35,118.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3104178154,2026-07-13,M02,Mumbai,Mumbai,Maharashtra,1.13,1.27,19,15,13,COD,1850,A,1.5,57.0,27.75,84.75,0.0,A,1.5,5.0,57.0,27.75,84.75,89.38,Custom COD fee,0.0,No variance,4.63,4.63,Custom COD fee
+SFX3107958681,2026-07-24,M02,Mumbai,Hyderabad,Telangana,0.49,0.49,21,18,16,COD,2200,C,1.5,88.35,33.0,121.35,0.0,C,1.5,5.0,88.35,33.0,121.35,126.85,Custom COD fee,0.0,No variance,5.5,5.5,Custom COD fee
+SFX3108871222,2026-07-07,M06,Bengaluru,Pune,Maharashtra,4.01,4.01,36,27,25,COD,2800,D,5.0,304.0,40.0,344.0,1.0,D,5.0,0.0,304.0,40.0,344.0,353.0,Custom COD fee,0.0,No variance,9.0,9.0,Custom COD fee
+SFX3100001585,2026-07-09,M02,Mumbai,Bengaluru,Karnataka,0.39,0.49,22,18,16,COD,1650,C,1.5,88.35,25.0,113.35,0.0,C,1.5,5.0,88.35,25.0,113.35,118.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100131948,2026-07-03,M02,Mumbai,Hyderabad,Telangana,1.79,1.79,14,14,11,COD,1550,C,2.0,111.15,25.0,136.15,0.0,C,2.0,5.0,111.15,25.0,136.15,141.15,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102217756,2026-07-26,M02,Mumbai,Kolkata,West Bengal,1.08,1.08,19,15,13,COD,1150,C,1.5,88.35,25.0,113.35,0.0,C,1.5,5.0,88.35,25.0,113.35,118.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102478482,2026-07-11,M02,Mumbai,Hyderabad,Telangana,0.6,0.68,14,11,13,COD,2750,C,1.0,65.55,41.25,106.8,0.0,C,1.0,5.0,65.55,41.25,106.8,113.68,Custom COD fee,0.0,No variance,6.88,6.88,Custom COD fee
+SFX3104433927,2026-07-22,M06,Bengaluru,Bengaluru,Karnataka,0.98,0.98,15,13,11,COD,2750,A,1.0,46.0,40.0,86.0,0.0,A,1.0,0.0,46.0,40.0,86.0,94.13,Custom COD fee,0.0,No variance,8.13,8.13,Custom COD fee
+SFX3105085742,2026-07-05,M06,Bengaluru,Lucknow,Uttar Pradesh,1.26,1.33,22,21,15,COD,2500,D,1.5,108.0,40.0,148.0,0.0,D,1.5,0.0,108.0,40.0,148.0,151.75,Custom COD fee,0.0,No variance,3.75,3.75,Custom COD fee
+SFX3108996632,2026-07-30,M02,Mumbai,Bengaluru,Karnataka,0.79,1.24,20,13,19,COD,2200,C,1.5,88.35,33.0,121.35,0.0,C,1.5,5.0,88.35,33.0,121.35,126.85,Custom COD fee,0.0,No variance,5.5,5.5,Custom COD fee
+SFX3102473529,2026-07-10,M02,Mumbai,Kochi,Kerala,0.28,0.41,14,10,14,COD,2000,D,0.5,49.4,30.0,79.4,0.0,D,0.5,5.0,49.4,30.0,79.4,84.4,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3104037885,2026-07-22,M02,Mumbai,Hyderabad,Telangana,1.95,2.48,18,15,12,COD,2900,C,2.5,133.95,43.5,177.45,0.0,C,2.5,5.0,133.95,43.5,177.45,184.7,Custom COD fee,0.0,No variance,7.25,7.25,Custom COD fee
+SFX3105993330,2026-07-05,M02,Mumbai,Pune,Maharashtra,0.52,0.52,10,8,8,COD,150,B,1.0,53.2,25.0,78.2,0.0,B,1.0,5.0,53.2,25.0,78.2,83.2,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3106384419,2026-07-16,M02,Mumbai,Patna,Bihar,0.15,0.24,12,12,10,COD,2100,D,0.5,49.4,31.5,80.9,0.0,D,0.5,5.0,49.4,31.5,80.9,86.15,Custom COD fee,0.0,No variance,5.25,5.25,Custom COD fee
+SFX3106514782,2026-07-22,M02,Mumbai,Kochi,Kerala,1.28,1.28,17,17,13,COD,2800,D,1.5,102.6,42.0,144.6,0.0,D,1.5,5.0,102.6,42.0,144.6,151.6,Custom COD fee,0.0,No variance,7.0,7.0,Custom COD fee
+SFX3107296960,2026-07-27,M02,Mumbai,Mysuru,Karnataka,1.25,1.25,23,20,16,COD,150,D,1.5,102.6,25.0,127.6,0.0,D,1.5,5.0,102.6,25.0,127.6,132.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108991679,2026-07-31,M02,Mumbai,Jaipur,Rajasthan,0.37,0.64,22,19,14,COD,2750,D,1.5,102.6,41.25,143.85,0.0,D,1.5,5.0,102.6,41.25,143.85,150.73,Custom COD fee,0.0,No variance,6.88,6.88,Custom COD fee
+SFX3100773857,2026-07-05,M02,Mumbai,Ahmedabad,Gujarat,1.89,2.36,33,20,31,COD,350,D,4.5,262.2,25.0,287.2,0.0,D,4.5,5.0,262.2,25.0,287.2,292.2,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101034583,2026-07-23,M02,Mumbai,Pune,Maharashtra,0.41,0.41,19,12,15,COD,150,B,1.0,53.2,25.0,78.2,0.0,B,1.0,5.0,53.2,25.0,78.2,83.2,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102207850,2026-07-22,M02,Mumbai,Hyderabad,Telangana,0.78,0.97,18,15,12,COD,2100,C,1.0,65.55,31.5,97.05,0.0,C,1.0,5.0,65.55,31.5,97.05,102.3,Custom COD fee,0.0,No variance,5.25,5.25,Custom COD fee
+SFX3102990028,2026-07-27,M02,Mumbai,Warangal,Telangana,3.69,4.49,38,32,24,COD,2750,D,6.0,342.0,41.25,383.25,0.0,D,6.0,5.0,342.0,41.25,383.25,390.13,Custom COD fee,0.0,No variance,6.88,6.88,Custom COD fee
+SFX3103641843,2026-07-25,M02,Mumbai,Ahmedabad,Gujarat,0.54,0.54,12,10,9,COD,150,D,1.0,76.0,25.0,101.0,0.0,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3104163295,2026-07-20,M02,Mumbai,Bengaluru,Karnataka,0.53,0.63,16,14,11,COD,500,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107813459,2026-07-29,M02,Mumbai,Bhopal,Madhya Pradesh,0.73,0.73,19,14,17,COD,2550,D,1.0,76.0,38.25,114.25,0.0,D,1.0,5.0,76.0,38.25,114.25,120.63,Custom COD fee,0.0,No variance,6.38,6.38,Custom COD fee
+SFX3100508178,2026-07-13,M02,Mumbai,Guwahati,Assam,0.47,0.47,15,11,11,COD,2000,E,0.5,66.5,30.0,96.5,0.0,E,0.5,5.0,66.5,30.0,96.5,101.5,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102202897,2026-07-10,M02,Mumbai,Lucknow,Uttar Pradesh,0.29,0.5,21,13,17,COD,2050,D,1.0,76.0,30.75,106.75,0.0,D,1.0,5.0,76.0,30.75,106.75,111.88,Custom COD fee,0.0,No variance,5.13,5.13,Custom COD fee
+SFX3103115438,2026-07-12,M02,Mumbai,Patna,Bihar,0.64,0.67,15,10,13,COD,1950,D,1.0,76.0,29.25,105.25,0.0,D,1.0,5.0,76.0,29.25,105.25,110.12,Custom COD fee,0.0,No variance,4.87,4.87,Custom COD fee
+SFX3106895965,2026-07-30,M06,Bengaluru,Jammu,Jammu and Kashmir,0.23,0.29,17,14,13,COD,2450,E,1.0,108.0,40.0,148.0,0.0,E,1.0,0.0,108.0,40.0,148.0,150.88,Custom COD fee,0.0,No variance,2.88,2.88,Custom COD fee
+SFX3107156691,2026-07-04,M02,Mumbai,Jaipur,Rajasthan,1.84,1.84,22,21,16,COD,2800,D,2.0,129.2,42.0,171.2,0.0,D,2.0,5.0,129.2,42.0,171.2,178.2,Custom COD fee,0.0,No variance,7.0,7.0,Custom COD fee
+SFX3108199595,2026-07-13,M02,Mumbai,Delhi,Delhi,1.17,1.17,24,17,23,COD,1850,C,2.0,111.15,27.75,138.9,0.0,C,2.0,5.0,111.15,27.75,138.9,143.53,Custom COD fee,0.0,No variance,4.63,4.63,Custom COD fee
+SFX3101155040,2026-07-05,M02,Mumbai,Kolkata,West Bengal,0.7,1.02,21,17,12,COD,1800,C,1.5,88.35,27.0,115.35,0.0,C,1.5,5.0,88.35,27.0,115.35,119.85,Custom COD fee,0.0,No variance,4.5,4.5,Custom COD fee
+SFX3104669888,2026-07-10,M02,Mumbai,Hyderabad,Telangana,0.39,0.53,16,10,15,COD,1600,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3104800251,2026-07-03,M02,Mumbai,Hyderabad,Telangana,1.36,1.52,15,10,18,COD,2850,C,2.0,111.15,42.75,153.9,0.0,C,2.0,5.0,111.15,42.75,153.9,161.03,Custom COD fee,0.0,No variance,7.13,7.13,Custom COD fee
+SFX3108580778,2026-07-01,M02,Mumbai,Delhi,Delhi,0.5,0.5,16,10,17,COD,2900,C,1.0,65.55,43.5,109.05,0.0,C,1.0,5.0,65.55,43.5,109.05,116.3,Custom COD fee,0.0,No variance,7.25,7.25,Custom COD fee
+SFX3100884408,2026-07-12,M02,Mumbai,Bhubaneswar,Odisha,0.28,0.45,18,15,14,COD,2350,D,1.0,76.0,35.25,111.25,0.0,D,1.0,5.0,76.0,35.25,111.25,117.13,Custom COD fee,0.0,No variance,5.88,5.88,Custom COD fee
+SFX3101405860,2026-07-03,M02,Mumbai,Hyderabad,Telangana,1.64,1.64,14,12,12,COD,150,C,2.0,111.15,25.0,136.15,0.0,C,2.0,5.0,111.15,25.0,136.15,141.15,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101796949,2026-07-30,M02,Mumbai,Coimbatore,Tamil Nadu,1.67,2.1,20,14,20,COD,2300,D,2.5,155.8,34.5,190.3,0.0,D,2.5,5.0,155.8,34.5,190.3,196.05,Custom COD fee,0.0,No variance,5.75,5.75,Custom COD fee
+SFX3101927312,2026-07-26,M02,Mumbai,Kolkata,West Bengal,0.54,0.64,15,10,14,COD,650,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3104013120,2026-07-07,M02,Mumbai,Hyderabad,Telangana,0.45,0.61,16,11,15,COD,1150,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107402558,2026-07-24,M02,Mumbai,Nagpur,Maharashtra,0.79,0.79,25,18,22,COD,2550,B,2.0,87.4,38.25,125.65,0.0,B,2.0,5.0,87.4,38.25,125.65,132.03,Custom COD fee,0.0,No variance,6.38,6.38,Custom COD fee
+SFX3108315099,2026-07-31,M02,Mumbai,Bengaluru,Karnataka,0.87,0.87,18,14,20,COD,1100,C,1.5,88.35,25.0,113.35,0.0,C,1.5,5.0,88.35,25.0,113.35,118.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100358003,2026-07-08,M06,Bengaluru,Kolkata,West Bengal,0.41,0.65,13,11,10,COD,2450,C,1.0,69.0,40.0,109.0,0.0,C,1.0,0.0,69.0,40.0,109.0,111.88,Custom COD fee,0.0,No variance,2.88,2.88,Custom COD fee
+SFX3104008167,2026-07-11,M02,Mumbai,Bengaluru,Karnataka,1.6,1.6,31,21,22,COD,950,C,3.0,156.75,25.0,181.75,0.0,C,3.0,5.0,156.75,25.0,181.75,186.75,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3104790345,2026-07-01,M02,Mumbai,Hyderabad,Telangana,0.32,0.32,18,14,17,COD,1950,C,1.0,65.55,29.25,94.8,0.0,C,1.0,5.0,65.55,29.25,94.8,99.67,Custom COD fee,0.0,No variance,4.87,4.87,Custom COD fee
+SFX3105833249,2026-07-07,M02,Mumbai,Jaipur,Rajasthan,0.82,0.82,15,13,15,COD,1150,D,1.0,76.0,25.0,101.0,0.0,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3106745790,2026-07-20,M02,Mumbai,Warangal,Telangana,0.56,0.58,14,13,10,COD,2000,D,1.0,76.0,30.0,106.0,0.0,D,1.0,5.0,76.0,30.0,106.0,111.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3106876153,2026-07-04,M02,Mumbai,Patna,Bihar,0.75,0.93,27,22,17,COD,600,D,2.5,155.8,25.0,180.8,0.0,D,2.5,5.0,155.8,25.0,180.8,185.8,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100092324,2026-07-10,M02,Mumbai,Jaipur,Rajasthan,0.59,0.59,16,13,11,COD,1700,D,1.0,76.0,25.5,101.5,0.0,D,1.0,5.0,76.0,25.5,101.5,106.0,Custom COD fee,0.0,No variance,4.5,4.5,Custom COD fee
+SFX3104003214,2026-07-03,M02,Mumbai,Kochi,Kerala,0.45,0.45,19,14,15,COD,950,D,1.0,76.0,25.0,101.0,0.0,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108826645,2026-07-27,M02,Mumbai,Bhopal,Madhya Pradesh,0.98,0.98,19,16,13,COD,800,D,1.0,76.0,25.0,101.0,0.0,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100608823,2026-07-20,M02,Mumbai,Bhubaneswar,Odisha,3.42,4.13,37,27,28,COD,1950,D,6.0,342.0,29.25,371.25,0.0,D,6.0,5.0,342.0,29.25,371.25,376.12,Custom COD fee,0.0,No variance,4.87,4.87,Custom COD fee
+SFX3102564268,2026-07-08,M02,Mumbai,Mumbai,Maharashtra,0.78,1.4,27,16,25,COD,1750,A,2.5,83.6,26.25,109.85,0.0,A,2.5,5.0,83.6,26.25,109.85,114.23,Custom COD fee,0.0,No variance,4.38,4.38,Custom COD fee
+SFX3101386048,2026-07-21,M02,Mumbai,Hyderabad,Telangana,2.15,2.36,18,14,12,COD,350,C,2.5,133.95,25.0,158.95,0.0,C,2.5,5.0,133.95,25.0,158.95,163.95,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102298589,2026-07-04,M02,Mumbai,Pune,Maharashtra,0.57,0.74,15,11,13,COD,150,B,1.0,53.2,25.0,78.2,0.0,B,1.0,5.0,53.2,25.0,78.2,83.2,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103080767,2026-07-04,M02,Mumbai,Hyderabad,Telangana,1.06,1.06,26,20,20,COD,2700,C,2.5,133.95,40.5,174.45,0.0,C,2.5,5.0,133.95,40.5,174.45,181.2,Custom COD fee,0.0,No variance,6.75,6.75,Custom COD fee
+SFX3107904198,2026-07-23,M02,Mumbai,Patna,Bihar,1.29,2.34,31,27,23,COD,2150,D,4.0,235.6,32.25,267.85,0.0,D,4.0,5.0,235.6,32.25,267.85,273.23,Custom COD fee,0.0,No variance,5.38,5.38,Custom COD fee
+SFX3108295287,2026-07-17,M02,Mumbai,Delhi,Delhi,0.78,1.3,18,15,15,COD,2500,C,1.5,88.35,37.5,125.85,0.0,C,1.5,5.0,88.35,37.5,125.85,132.1,Custom COD fee,0.0,No variance,6.25,6.25,Custom COD fee
+SFX3108425650,2026-07-22,M02,Mumbai,Delhi,Delhi,1.23,1.23,29,21,21,COD,1300,C,3.0,156.75,25.0,181.75,0.0,C,3.0,5.0,156.75,25.0,181.75,186.75,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108947102,2026-07-30,M02,Mumbai,Coimbatore,Tamil Nadu,0.29,0.5,14,14,11,COD,450,D,0.5,49.4,25.0,74.4,0.0,D,0.5,5.0,49.4,25.0,74.4,79.4,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3104900896,2026-07-11,M02,Mumbai,Kolkata,West Bengal,0.89,1.05,17,10,16,COD,2350,C,1.5,88.35,35.25,123.6,0.0,C,1.5,5.0,88.35,35.25,123.6,129.48,Custom COD fee,0.0,No variance,5.88,5.88,Custom COD fee
+SFX3107508156,2026-08-15,M02,Mumbai,Delhi,Delhi,1.17,1.17,24,19,17,COD,450,C,2.0,111.15,25.0,136.15,0.0,C,2.0,5.0,111.15,25.0,136.15,141.15,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107638519,2026-08-06,M02,Mumbai,Lucknow,Uttar Pradesh,0.34,0.34,11,8,9,COD,2150,D,0.5,49.4,32.25,81.65,0.0,D,0.5,5.0,49.4,32.25,81.65,87.03,Custom COD fee,0.0,No variance,5.38,5.38,Custom COD fee
+SFX3108942149,2026-08-31,M02,Mumbai,Ahmedabad,Gujarat,0.87,1.53,24,19,17,COD,2200,D,2.0,129.2,33.0,162.2,0.0,D,2.0,5.0,129.2,33.0,162.2,167.7,Custom COD fee,0.0,No variance,5.5,5.5,Custom COD fee
+SFX3100854690,2026-08-05,M02,Mumbai,Mumbai,Maharashtra,1.31,1.31,19,17,17,COD,1900,A,1.5,57.0,28.5,85.5,0.0,A,1.5,5.0,57.0,28.5,85.5,90.25,Custom COD fee,0.0,No variance,4.75,4.75,Custom COD fee
+SFX3102940498,2026-08-26,M02,Mumbai,Pune,Maharashtra,0.68,0.91,19,15,13,COD,1900,B,1.0,53.2,28.5,81.7,0.0,B,1.0,5.0,53.2,28.5,81.7,86.45,Custom COD fee,0.0,No variance,4.75,4.75,Custom COD fee
+SFX3104374491,2026-08-06,M02,Mumbai,Mumbai,Maharashtra,0.3,0.39,11,9,7,COD,2450,A,0.5,30.4,36.75,67.15,0.0,A,0.5,5.0,30.4,36.75,67.15,73.28,Custom COD fee,0.0,No variance,6.13,6.13,Custom COD fee
+SFX3106721025,2026-08-17,M06,Bengaluru,Jaipur,Rajasthan,0.45,0.45,15,12,11,COD,2650,D,0.5,52.0,40.0,92.0,0.0,D,0.5,0.0,52.0,40.0,92.0,98.38,Custom COD fee,0.0,No variance,6.38,6.38,Custom COD fee
+SFX3106851388,2026-08-24,M02,Mumbai,Hyderabad,Telangana,0.76,0.9,27,18,26,COD,300,C,3.0,156.75,25.0,181.75,0.0,C,3.0,5.0,156.75,25.0,181.75,186.75,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100719374,2026-08-20,M02,Mumbai,Hyderabad,Telangana,0.83,0.83,18,15,15,COD,450,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102674819,2026-08-23,M02,Mumbai,Bengaluru,Karnataka,0.88,0.88,24,17,26,COD,1800,C,2.5,133.95,27.0,160.95,0.0,C,2.5,5.0,133.95,27.0,160.95,165.45,Custom COD fee,0.0,No variance,4.5,4.5,Custom COD fee
+SFX3102805182,2026-08-25,M02,Mumbai,Coimbatore,Tamil Nadu,0.49,0.8,14,12,11,COD,2250,D,1.0,76.0,33.75,109.75,0.0,D,1.0,5.0,76.0,33.75,109.75,115.38,Custom COD fee,0.0,No variance,5.63,5.63,Custom COD fee
+SFX3103065908,2026-08-28,M02,Mumbai,Hyderabad,Telangana,0.22,0.22,12,8,9,COD,2100,C,0.5,42.75,31.5,74.25,0.0,C,0.5,5.0,42.75,31.5,74.25,79.5,Custom COD fee,0.0,No variance,5.25,5.25,Custom COD fee
+SFX3105021353,2026-08-07,M06,Bengaluru,Guwahati,Assam,0.78,0.78,17,12,16,COD,2500,E,1.0,108.0,40.0,148.0,1.0,E,1.0,0.0,108.0,40.0,148.0,151.75,Custom COD fee,0.0,No variance,3.75,3.75,Custom COD fee
+SFX3106194620,2026-08-26,M02,Mumbai,Kolkata,West Bengal,0.86,1.04,17,14,13,COD,2250,C,1.5,88.35,33.75,122.1,0.0,C,1.5,5.0,88.35,33.75,122.1,127.73,Custom COD fee,0.0,No variance,5.63,5.63,Custom COD fee
+SFX3108671517,2026-08-15,M02,Mumbai,Bhopal,Madhya Pradesh,0.81,0.81,14,10,14,COD,250,D,1.0,76.0,25.0,101.0,0.0,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100323332,2026-08-30,M06,Bengaluru,Delhi,Delhi,1.69,1.86,23,17,20,COD,2350,C,2.0,117.0,40.0,157.0,0.0,C,2.0,0.0,117.0,40.0,157.0,158.13,Custom COD fee,0.0,No variance,1.13,1.13,Custom COD fee
+SFX3104494948,2026-08-05,M02,Mumbai,Bengaluru,Karnataka,1.44,1.44,25,21,22,COD,2450,C,2.5,133.95,36.75,170.7,0.0,C,2.5,5.0,133.95,36.75,170.7,176.83,Custom COD fee,0.0,No variance,6.13,6.13,Custom COD fee
+SFX3108145112,2026-08-27,M02,Mumbai,Lucknow,Uttar Pradesh,0.65,0.65,13,9,12,COD,1750,D,1.0,76.0,26.25,102.25,0.0,D,1.0,5.0,76.0,26.25,102.25,106.63,Custom COD fee,0.0,No variance,4.38,4.38,Custom COD fee
+SFX3102534550,2026-08-16,M02,Mumbai,Ahmedabad,Gujarat,1.44,1.93,17,15,12,COD,2700,D,2.0,129.2,40.5,169.7,0.0,D,2.0,5.0,129.2,40.5,169.7,176.45,Custom COD fee,0.0,No variance,6.75,6.75,Custom COD fee
+SFX3104229269,2026-08-24,M02,Mumbai,Delhi,Delhi,2.57,2.57,25,21,16,COD,750,C,3.0,156.75,25.0,181.75,0.0,C,3.0,5.0,156.75,25.0,181.75,186.75,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3106054351,2026-08-05,M02,Mumbai,Ahmedabad,Gujarat,5.22,6.28,35,25,25,COD,1350,D,6.5,368.6,25.0,393.6,0.0,D,6.5,5.0,368.6,25.0,393.6,398.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3106445440,2026-08-30,M02,Mumbai,Shillong,Meghalaya,0.71,0.9,18,13,14,COD,2150,E,1.0,102.6,32.25,134.85,0.0,E,1.0,5.0,102.6,32.25,134.85,140.23,Custom COD fee,0.0,No variance,5.38,5.38,Custom COD fee
+SFX3107227618,2026-08-15,M02,Mumbai,Indore,Madhya Pradesh,0.81,0.84,16,11,17,COD,1350,D,1.0,76.0,25.0,101.0,0.0,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100704515,2026-08-17,M02,Mumbai,Bengaluru,Karnataka,3.69,3.69,36,28,25,COD,650,C,5.5,270.75,25.0,295.75,0.0,C,5.5,5.0,270.75,25.0,295.75,300.75,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102920686,2026-08-15,M02,Mumbai,Mumbai,Maharashtra,1.55,1.55,19,15,16,COD,2300,A,2.0,70.3,34.5,104.8,0.0,A,2.0,5.0,70.3,34.5,104.8,110.55,Custom COD fee,0.0,No variance,5.75,5.75,Custom COD fee
+SFX3103051049,2026-08-09,M02,Mumbai,Kochi,Kerala,1.08,1.34,26,15,25,COD,2100,D,2.0,129.2,31.5,160.7,0.0,D,2.0,5.0,129.2,31.5,160.7,165.95,Custom COD fee,0.0,No variance,5.25,5.25,Custom COD fee
+SFX3106701213,2026-08-17,M02,Mumbai,Ahmedabad,Gujarat,1.34,1.65,21,13,21,COD,2700,D,2.0,129.2,40.5,169.7,0.0,D,2.0,5.0,129.2,40.5,169.7,176.45,Custom COD fee,0.0,No variance,6.75,6.75,Custom COD fee
+SFX3101481740,2026-08-01,M02,Mumbai,Bengaluru,Karnataka,0.9,0.9,14,11,12,COD,1200,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101612103,2026-08-26,M02,Mumbai,Jaipur,Rajasthan,0.88,1.05,16,13,15,COD,2050,D,1.5,102.6,30.75,133.35,0.0,D,1.5,5.0,102.6,30.75,133.35,138.48,Custom COD fee,0.0,No variance,5.13,5.13,Custom COD fee
+SFX3106174808,2026-08-17,M02,Mumbai,Mumbai,Maharashtra,0.44,0.59,15,11,13,COD,1900,A,1.0,43.7,28.5,72.2,0.0,A,1.0,5.0,43.7,28.5,72.2,76.95,Custom COD fee,0.0,No variance,4.75,4.75,Custom COD fee
+SFX3106305171,2026-08-02,M02,Mumbai,Kochi,Kerala,0.63,0.63,11,10,8,COD,2300,D,1.0,76.0,34.5,110.5,0.0,D,1.0,5.0,76.0,34.5,110.5,116.25,Custom COD fee,0.0,No variance,5.75,5.75,Custom COD fee
+SFX3107087349,2026-08-23,M02,Mumbai,Bhopal,Madhya Pradesh,1.22,1.22,15,13,12,COD,1850,D,1.5,102.6,27.75,130.35,0.0,D,1.5,5.0,102.6,27.75,130.35,134.98,Custom COD fee,0.0,No variance,4.63,4.63,Custom COD fee
+SFX3107217712,2026-08-09,M02,Mumbai,Bengaluru,Karnataka,0.46,0.46,17,11,16,COD,650,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107999890,2026-08-08,M02,Mumbai,Kolkata,West Bengal,1.01,1.01,14,12,9,COD,2700,C,1.5,88.35,40.5,128.85,0.0,C,1.5,5.0,88.35,40.5,128.85,135.6,Custom COD fee,0.0,No variance,6.75,6.75,Custom COD fee
+SFX3100173157,2026-08-24,M02,Mumbai,Delhi,Delhi,1.88,2.27,19,19,13,COD,1150,C,2.5,133.95,25.0,158.95,0.0,C,2.5,5.0,133.95,25.0,158.95,163.95,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100694609,2026-08-03,M02,Mumbai,Jaipur,Rajasthan,1.09,1.09,16,15,12,COD,2300,D,1.5,102.6,34.5,137.1,0.0,D,1.5,5.0,102.6,34.5,137.1,142.85,Custom COD fee,0.0,No variance,5.75,5.75,Custom COD fee
+SFX3102519691,2026-08-10,M02,Mumbai,Pune,Maharashtra,0.47,0.47,11,8,9,COD,2000,B,0.5,36.1,30.0,66.1,0.0,B,0.5,5.0,36.1,30.0,66.1,71.1,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102650054,2026-08-06,M02,Mumbai,Mumbai,Maharashtra,1.35,1.35,21,20,15,COD,2000,A,1.5,57.0,30.0,87.0,0.0,A,1.5,5.0,57.0,30.0,87.0,92.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103041143,2026-08-19,M02,Mumbai,Mumbai,Maharashtra,0.94,0.94,18,16,12,COD,2450,A,1.0,43.7,36.75,80.45,0.0,A,1.0,5.0,43.7,36.75,80.45,86.58,Custom COD fee,0.0,No variance,6.13,6.13,Custom COD fee
+SFX3105387677,2026-08-19,M02,Mumbai,Bengaluru,Karnataka,0.89,1.15,18,14,15,COD,900,C,1.5,88.35,25.0,113.35,0.0,C,1.5,5.0,88.35,25.0,113.35,118.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107212759,2026-08-01,M02,Mumbai,Kolkata,West Bengal,0.79,0.79,18,16,15,COD,550,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102775464,2026-08-05,M02,Mumbai,Pune,Maharashtra,1.33,1.39,18,12,15,COD,1450,B,1.5,70.3,25.0,95.3,0.0,B,1.5,5.0,70.3,25.0,95.3,100.3,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105904176,2026-08-20,M02,Mumbai,Guwahati,Assam,0.27,0.32,12,9,10,COD,650,E,0.5,66.5,25.0,91.5,0.0,E,0.5,5.0,66.5,25.0,91.5,96.5,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101206155,2026-08-04,M02,Mumbai,Mysuru,Karnataka,0.41,0.62,15,10,12,COD,2500,D,1.0,76.0,37.5,113.5,0.0,D,1.0,5.0,76.0,37.5,113.5,119.75,Custom COD fee,0.0,No variance,6.25,6.25,Custom COD fee
+SFX3104595593,2026-08-02,M02,Mumbai,Guwahati,Assam,1.42,1.42,16,12,13,COD,2650,E,1.5,138.7,39.75,178.45,0.0,E,1.5,5.0,138.7,39.75,178.45,185.08,Custom COD fee,0.0,No variance,6.63,6.63,Custom COD fee
+SFX3106420675,2026-08-30,M02,Mumbai,Surat,Gujarat,0.19,0.19,11,8,9,COD,2750,D,0.5,49.4,41.25,90.65,0.0,D,0.5,5.0,49.4,41.25,90.65,97.53,Custom COD fee,0.0,No variance,6.88,6.88,Custom COD fee
+SFX3101461928,2026-08-27,M02,Mumbai,Pune,Maharashtra,1.66,2.47,18,14,14,COD,900,B,2.5,104.5,25.0,129.5,0.0,B,2.5,5.0,104.5,25.0,129.5,134.5,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3104069188,2026-08-26,M02,Mumbai,Bhopal,Madhya Pradesh,0.62,0.92,28,20,28,COD,1750,D,3.5,209.0,26.25,235.25,0.0,D,3.5,5.0,209.0,26.25,235.25,239.63,Custom COD fee,0.0,No variance,4.38,4.38,Custom COD fee
+SFX3108501530,2026-08-21,M02,Mumbai,Ahmedabad,Gujarat,0.16,0.29,12,10,9,COD,2100,D,0.5,49.4,31.5,80.9,0.0,D,0.5,5.0,49.4,31.5,80.9,86.15,Custom COD fee,0.0,No variance,5.25,5.25,Custom COD fee
+SFX3103542783,2026-08-30,M02,Mumbai,Delhi,Delhi,2.59,2.59,29,26,19,COD,450,C,3.0,156.75,25.0,181.75,0.0,C,3.0,5.0,156.75,25.0,181.75,186.75,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100930570,2026-08-07,M02,Mumbai,Delhi,Delhi,0.67,0.81,13,8,12,COD,1750,C,1.0,65.55,26.25,91.8,0.0,C,1.0,5.0,65.55,26.25,91.8,96.18,Custom COD fee,0.0,No variance,4.38,4.38,Custom COD fee
+SFX3106275453,2026-08-25,M02,Mumbai,Mumbai,Maharashtra,1.68,1.81,27,18,23,COD,1500,A,2.5,83.6,25.0,108.6,0.0,A,2.5,5.0,83.6,25.0,108.6,113.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101055980,2026-08-02,M02,Mumbai,Warangal,Telangana,1.03,1.03,27,19,21,COD,1350,D,2.5,155.8,25.0,180.8,0.0,D,2.5,5.0,155.8,25.0,180.8,185.8,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103532877,2026-08-12,M02,Mumbai,Kolkata,West Bengal,15.0,15.0,36,22,31,COD,1350,C,15.0,703.95,25.0,728.95,1.0,C,15.0,5.0,703.95,25.0,728.95,733.95,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3104054329,2026-08-23,M02,Mumbai,Hyderabad,Telangana,2.24,2.24,19,14,18,COD,750,C,2.5,133.95,25.0,158.95,0.0,C,2.5,5.0,133.95,25.0,158.95,163.95,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105097233,2026-08-11,M02,Mumbai,Hyderabad,Telangana,0.12,0.18,11,8,8,COD,1900,C,0.5,42.75,28.5,71.25,0.0,C,0.5,5.0,42.75,28.5,71.25,76.0,Custom COD fee,0.0,No variance,4.75,4.75,Custom COD fee
+SFX3101833205,2026-08-25,M02,Mumbai,Mumbai,Maharashtra,0.64,0.64,14,11,13,COD,2700,A,1.0,43.7,40.5,84.2,1.0,A,1.0,5.0,43.7,40.5,84.2,90.95,Custom COD fee,0.0,No variance,6.75,6.75,Custom COD fee
+SFX3102745746,2026-08-19,M02,Mumbai,Nagpur,Maharashtra,0.33,0.54,13,10,11,COD,800,B,1.0,53.2,25.0,78.2,0.0,B,1.0,5.0,53.2,25.0,78.2,83.2,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102876109,2026-08-29,M02,Mumbai,Delhi,Delhi,0.29,0.45,11,9,9,COD,2700,C,0.5,42.75,40.5,83.25,0.0,C,0.5,5.0,42.75,40.5,83.25,90.0,Custom COD fee,0.0,No variance,6.75,6.75,Custom COD fee
+SFX3105483369,2026-08-07,M02,Mumbai,Delhi,Delhi,1.7,1.77,17,14,12,COD,1650,C,2.0,111.15,25.0,136.15,0.0,C,2.0,5.0,111.15,25.0,136.15,141.15,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107308451,2026-08-24,M02,Mumbai,Jammu,Jammu and Kashmir,0.64,0.64,16,13,14,COD,250,E,1.0,102.6,25.0,127.6,0.0,E,1.0,5.0,102.6,25.0,127.6,132.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100654985,2026-08-21,M02,Mumbai,Delhi,Delhi,0.94,1.37,23,21,15,COD,1550,C,1.5,88.35,25.0,113.35,0.0,C,1.5,5.0,88.35,25.0,113.35,118.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101176437,2026-08-01,M02,Mumbai,Mumbai,Maharashtra,0.29,0.36,13,10,8,COD,1950,A,0.5,30.4,29.25,59.65,0.0,A,0.5,5.0,30.4,29.25,59.65,64.52,Custom COD fee,0.0,No variance,4.87,4.87,Custom COD fee
+SFX3102871156,2026-08-04,M02,Mumbai,Patna,Bihar,1.11,1.11,19,14,18,COD,2150,D,1.5,102.6,32.25,134.85,0.0,D,1.5,5.0,102.6,32.25,134.85,140.23,Custom COD fee,0.0,No variance,5.38,5.38,Custom COD fee
+SFX3104044423,2026-08-23,M02,Mumbai,Jammu,Jammu and Kashmir,0.3,0.3,13,11,10,COD,1350,E,0.5,66.5,25.0,91.5,0.0,E,0.5,5.0,66.5,25.0,91.5,96.5,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108737491,2026-08-26,M02,Mumbai,Jaipur,Rajasthan,0.8,0.8,18,12,15,COD,2450,D,1.0,76.0,36.75,112.75,0.0,D,1.0,5.0,76.0,36.75,112.75,118.88,Custom COD fee,0.0,No variance,6.13,6.13,Custom COD fee
+SFX3100389306,2026-08-28,M02,Mumbai,Delhi,Delhi,1.57,2.02,19,16,19,COD,300,C,2.5,133.95,25.0,158.95,0.0,C,2.5,5.0,133.95,25.0,158.95,163.95,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103126929,2026-08-10,M02,Mumbai,Mumbai,Maharashtra,0.23,0.35,12,8,12,COD,1200,A,0.5,30.4,25.0,55.4,0.0,A,0.5,5.0,30.4,25.0,55.4,60.4,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103518018,2026-08-29,M02,Mumbai,Delhi,Delhi,2.78,3.06,31,23,23,COD,150,C,3.5,179.55,25.0,204.55,0.0,C,3.5,5.0,179.55,25.0,204.55,209.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105603826,2026-08-23,M02,Mumbai,Coimbatore,Tamil Nadu,0.25,0.39,15,13,14,COD,2500,D,1.0,76.0,37.5,113.5,1.0,D,1.0,5.0,76.0,37.5,113.5,119.75,Custom COD fee,0.0,No variance,6.25,6.25,Custom COD fee
+SFX3108862901,2026-08-10,M02,Mumbai,Coimbatore,Tamil Nadu,2.26,2.26,20,15,16,COD,400,D,2.5,155.8,25.0,180.8,0.0,D,2.5,5.0,155.8,25.0,180.8,185.8,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103773791,2026-08-19,M02,Mumbai,Patna,Bihar,0.59,0.65,16,9,14,COD,1450,D,1.0,76.0,25.0,101.0,0.0,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105598873,2026-08-26,M02,Mumbai,Mysuru,Karnataka,5.12,5.12,38,31,37,COD,1700,D,9.0,501.6,25.5,527.1,1.0,D,9.0,5.0,501.6,25.5,527.1,531.6,Custom COD fee,0.0,No variance,4.5,4.5,Custom COD fee
+SFX3108857948,2026-08-15,M02,Mumbai,Jammu,Jammu and Kashmir,0.74,0.81,13,11,9,COD,1800,E,1.0,102.6,27.0,129.6,1.0,E,1.0,5.0,102.6,27.0,129.6,134.1,Custom COD fee,0.0,No variance,4.5,4.5,Custom COD fee
+SFX3103117023,2026-08-13,M02,Mumbai,Mumbai,Maharashtra,1.24,1.73,18,17,13,COD,2000,A,2.0,70.3,30.0,100.3,0.0,A,2.0,5.0,70.3,30.0,100.3,105.3,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103377749,2026-08-11,M02,Mumbai,Mumbai,Maharashtra,0.14,0.19,10,9,8,COD,750,A,0.5,30.4,25.0,55.4,0.0,A,0.5,5.0,30.4,25.0,55.4,60.4,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103638475,2026-08-08,M02,Mumbai,Jammu,Jammu and Kashmir,0.08,0.1,10,9,8,COD,1200,E,0.5,66.5,25.0,91.5,0.0,E,0.5,5.0,66.5,25.0,91.5,96.5,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3106245735,2026-08-27,M02,Mumbai,Patna,Bihar,1.03,1.1,20,14,16,COD,1850,D,1.5,102.6,27.75,130.35,0.0,D,1.5,5.0,102.6,27.75,130.35,134.98,Custom COD fee,0.0,No variance,4.63,4.63,Custom COD fee
+SFX3105980056,2026-08-08,M06,Bengaluru,Pune,Maharashtra,0.44,0.66,18,11,15,COD,2950,D,1.0,80.0,40.0,120.0,0.0,D,1.0,0.0,80.0,40.0,120.0,131.63,Custom COD fee,0.0,No variance,11.63,11.63,Custom COD fee
+SFX3108326590,2026-08-31,M02,Mumbai,Mumbai,Maharashtra,0.59,0.8,14,13,11,COD,1950,A,1.0,43.7,29.25,72.95,0.0,A,1.0,5.0,43.7,29.25,72.95,77.82,Custom COD fee,0.0,No variance,4.87,4.87,Custom COD fee
+SFX3101282035,2026-08-02,M02,Mumbai,Jaipur,Rajasthan,1.77,2.35,17,14,14,COD,350,D,2.5,155.8,25.0,180.8,1.0,D,2.5,5.0,155.8,25.0,180.8,185.8,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105453651,2026-08-27,M02,Mumbai,Ahmedabad,Gujarat,0.61,0.71,16,14,11,COD,2500,D,1.0,76.0,37.5,113.5,0.0,D,1.0,5.0,76.0,37.5,113.5,119.75,Custom COD fee,0.0,No variance,6.25,6.25,Custom COD fee
+SFX3106235829,2026-08-30,M02,Mumbai,Ahmedabad,Gujarat,0.47,0.47,16,14,14,COD,800,D,1.0,76.0,25.0,101.0,0.0,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105448698,2026-08-05,M02,Mumbai,Mumbai,Maharashtra,0.41,0.43,20,15,14,COD,1200,A,1.0,43.7,25.0,68.7,0.0,A,1.0,5.0,43.7,25.0,68.7,73.7,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108316684,2026-08-09,M02,Mumbai,Mumbai,Maharashtra,1.01,1.03,24,23,17,COD,1100,A,2.0,70.3,25.0,95.3,0.0,A,2.0,5.0,70.3,25.0,95.3,100.3,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100881040,2026-08-10,M02,Mumbai,Jaipur,Rajasthan,0.59,0.79,18,12,14,COD,1450,D,1.0,76.0,25.0,101.0,0.0,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105965197,2026-08-12,M02,Mumbai,Hyderabad,Telangana,0.62,0.66,17,13,13,COD,2500,C,1.0,65.55,37.5,103.05,0.0,C,1.0,5.0,65.55,37.5,103.05,109.3,Custom COD fee,0.0,No variance,6.25,6.25,Custom COD fee
+SFX3108437141,2026-08-26,M02,Mumbai,Hyderabad,Telangana,0.73,0.87,23,16,19,COD,200,C,1.5,88.35,25.0,113.35,0.0,C,1.5,5.0,88.35,25.0,113.35,118.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101914038,2026-08-16,M02,Mumbai,Kolkata,West Bengal,1.57,1.57,19,15,19,COD,700,C,2.0,111.15,25.0,136.15,0.0,C,2.0,5.0,111.15,25.0,136.15,141.15,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100339776,2026-08-24,M02,Mumbai,Hyderabad,Telangana,0.69,0.69,14,12,10,COD,2350,C,1.0,65.55,35.25,100.8,0.0,C,1.0,5.0,65.55,35.25,100.8,106.68,Custom COD fee,0.0,No variance,5.88,5.88,Custom COD fee
+SFX3103207762,2026-08-24,M02,Mumbai,Mumbai,Maharashtra,0.22,0.24,10,8,6,COD,2250,A,0.5,30.4,33.75,64.15,0.0,A,0.5,5.0,30.4,33.75,64.15,69.78,Custom COD fee,0.0,No variance,5.63,5.63,Custom COD fee
+SFX3105163207,2026-08-29,M02,Mumbai,Patna,Bihar,0.71,0.76,15,14,11,COD,750,D,1.0,76.0,25.0,101.0,0.0,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107118652,2026-08-13,M02,Mumbai,Coimbatore,Tamil Nadu,1.29,1.37,23,20,16,COD,2900,D,1.5,102.6,43.5,146.1,0.0,D,1.5,5.0,102.6,43.5,146.1,153.35,Custom COD fee,0.0,No variance,7.25,7.25,Custom COD fee
+SFX3105288617,2026-08-09,M02,Mumbai,Pune,Maharashtra,1.41,1.41,17,12,12,COD,2350,B,1.5,70.3,35.25,105.55,0.0,B,1.5,5.0,70.3,35.25,105.55,111.43,Custom COD fee,0.0,No variance,5.88,5.88,Custom COD fee
+SFX3107244062,2026-08-04,M02,Mumbai,Lucknow,Uttar Pradesh,0.48,0.54,13,14,10,COD,350,D,1.0,76.0,25.0,101.0,0.0,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100069144,2026-08-16,M02,Mumbai,Hyderabad,Telangana,1.58,1.58,27,20,25,COD,1100,C,3.0,156.75,25.0,181.75,0.0,C,3.0,5.0,156.75,25.0,181.75,186.75,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101503137,2026-08-07,M02,Mumbai,Shillong,Meghalaya,0.89,0.89,18,13,15,COD,2350,E,1.0,102.6,35.25,137.85,0.0,E,1.0,5.0,102.6,35.25,137.85,143.73,Custom COD fee,0.0,No variance,5.88,5.88,Custom COD fee
+SFX3103458582,2026-08-11,M02,Mumbai,Bhubaneswar,Odisha,3.91,3.91,26,25,18,COD,1150,D,4.0,235.6,25.0,260.6,0.0,D,4.0,5.0,235.6,25.0,260.6,265.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3106326568,2026-08-07,M02,Mumbai,Mumbai,Maharashtra,1.26,1.66,22,21,18,COD,750,A,2.0,70.3,25.0,95.3,0.0,A,2.0,5.0,70.3,25.0,95.3,100.3,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108412376,2026-08-26,M02,Mumbai,Patna,Bihar,0.53,0.79,20,17,14,COD,2200,D,1.0,76.0,33.0,109.0,0.0,D,1.0,5.0,76.0,33.0,109.0,114.5,Custom COD fee,0.0,No variance,5.5,5.5,Custom COD fee
+SFX3100716006,2026-08-21,M02,Mumbai,Mumbai,Maharashtra,1.36,1.36,17,14,16,COD,2300,A,1.5,57.0,34.5,91.5,0.0,A,1.5,5.0,57.0,34.5,91.5,97.25,Custom COD fee,0.0,No variance,5.75,5.75,Custom COD fee
+SFX3104235807,2026-08-03,M02,Mumbai,Delhi,Delhi,2.71,2.71,29,27,22,COD,1700,C,3.5,179.55,25.5,205.05,0.0,C,3.5,5.0,179.55,25.5,205.05,209.55,Custom COD fee,0.0,No variance,4.5,4.5,Custom COD fee
+SFX3107103793,2026-08-28,M02,Mumbai,Mumbai,Maharashtra,0.51,0.51,13,13,9,COD,1600,A,1.0,43.7,25.0,68.7,0.0,A,1.0,5.0,43.7,25.0,68.7,73.7,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100841416,2026-08-21,M02,Mumbai,Kochi,Kerala,0.41,0.41,13,8,12,COD,700,D,0.5,49.4,25.0,74.4,0.0,D,0.5,5.0,49.4,25.0,74.4,79.4,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3104491580,2026-08-22,M02,Mumbai,Mumbai,Maharashtra,0.31,0.5,18,12,14,COD,150,A,1.0,43.7,25.0,68.7,1.0,A,1.0,5.0,43.7,25.0,68.7,73.7,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107229203,2026-08-11,M06,Bengaluru,Kolkata,West Bengal,0.34,0.34,14,11,10,COD,2800,C,0.5,45.0,40.0,85.0,0.0,C,0.5,0.0,45.0,40.0,85.0,94.0,Custom COD fee,0.0,No variance,9.0,9.0,Custom COD fee
+SFX3108402470,2026-08-31,M02,Mumbai,Hyderabad,Telangana,1.41,1.64,20,20,18,COD,2300,C,2.0,111.15,34.5,145.65,0.0,C,2.0,5.0,111.15,34.5,145.65,151.4,Custom COD fee,0.0,No variance,5.75,5.75,Custom COD fee
+SFX3108793559,2026-08-09,M02,Mumbai,Hyderabad,Telangana,1.02,1.02,22,15,20,COD,850,C,1.5,88.35,25.0,113.35,0.0,C,1.5,5.0,88.35,25.0,113.35,118.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102791908,2026-08-27,M02,Mumbai,Hyderabad,Telangana,0.97,0.97,25,17,24,COD,1150,C,2.5,133.95,25.0,158.95,0.0,C,2.5,5.0,133.95,25.0,158.95,163.95,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103443723,2026-08-19,M02,Mumbai,Ahmedabad,Gujarat,1.77,1.77,25,19,19,COD,1400,D,2.0,129.2,25.0,154.2,0.0,D,2.0,5.0,129.2,25.0,154.2,159.2,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103704449,2026-08-22,M02,Mumbai,Jammu,Jammu and Kashmir,1.61,2.52,17,14,11,COD,800,E,3.0,247.0,25.0,272.0,0.0,E,3.0,5.0,247.0,25.0,272.0,277.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101613688,2026-08-23,M02,Mumbai,Hyderabad,Telangana,0.71,0.77,20,21,16,COD,800,C,1.5,88.35,25.0,113.35,0.0,C,1.5,5.0,88.35,25.0,113.35,118.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102135140,2026-08-19,M02,Mumbai,Bengaluru,Karnataka,0.86,0.88,19,12,19,COD,550,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107610386,2026-08-26,M02,Mumbai,Hyderabad,Telangana,0.14,0.14,10,8,11,COD,2900,C,0.5,42.75,43.5,86.25,1.0,C,0.5,5.0,42.75,43.5,86.25,93.5,Custom COD fee,0.0,No variance,7.25,7.25,Custom COD fee
+SFX3108914016,2026-08-06,M02,Mumbai,Mumbai,Maharashtra,1.01,1.01,19,12,15,COD,1300,A,1.5,57.0,25.0,82.0,0.0,A,1.5,5.0,57.0,25.0,82.0,87.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101348009,2026-08-23,M02,Mumbai,Pune,Maharashtra,1.14,1.78,23,17,22,COD,950,B,2.0,87.4,25.0,112.4,0.0,B,2.0,5.0,87.4,25.0,112.4,117.4,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102912365,2026-08-05,M02,Mumbai,Bhubaneswar,Odisha,1.34,1.54,22,18,16,COD,1650,D,2.0,129.2,25.0,154.2,0.0,D,2.0,5.0,129.2,25.0,154.2,159.2,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3104346358,2026-08-31,M02,Mumbai,Guwahati,Assam,0.76,0.76,18,15,14,COD,2500,E,1.0,102.6,37.5,140.1,0.0,E,1.0,5.0,102.6,37.5,140.1,146.35,Custom COD fee,0.0,No variance,6.25,6.25,Custom COD fee
+SFX3106953618,2026-08-26,M02,Mumbai,Jaipur,Rajasthan,1.16,1.16,13,12,11,COD,2650,D,1.5,102.6,39.75,142.35,0.0,D,1.5,5.0,102.6,39.75,142.35,148.98,Custom COD fee,0.0,No variance,6.63,6.63,Custom COD fee
+SFX3108257248,2026-08-31,M02,Mumbai,Mumbai,Maharashtra,0.84,1.07,19,11,17,COD,700,A,1.5,57.0,25.0,82.0,0.0,A,1.5,5.0,57.0,25.0,82.0,87.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101473419,2026-08-17,M02,Mumbai,Jammu,Jammu and Kashmir,1.61,2.45,24,21,16,COD,1100,E,2.5,210.9,25.0,235.9,0.0,E,2.5,5.0,210.9,25.0,235.9,240.9,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3104080679,2026-08-16,M02,Mumbai,Kochi,Kerala,1.07,1.07,23,13,21,COD,200,D,1.5,102.6,25.0,127.6,0.0,D,1.5,5.0,102.6,25.0,127.6,132.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105775398,2026-08-17,M02,Mumbai,Hyderabad,Telangana,0.98,0.98,17,12,13,COD,350,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101207740,2026-08-24,M02,Mumbai,Delhi,Delhi,0.76,0.76,21,13,18,COD,400,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101859555,2026-08-02,M02,Mumbai,Bengaluru,Karnataka,0.82,1.01,17,17,13,COD,300,C,1.5,88.35,25.0,113.35,0.0,C,1.5,5.0,88.35,25.0,113.35,118.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3104466815,2026-08-01,M06,Bengaluru,Kolkata,West Bengal,0.93,0.93,15,13,10,COD,2600,C,1.0,69.0,40.0,109.0,0.0,C,1.0,0.0,69.0,40.0,109.0,114.5,Custom COD fee,0.0,No variance,5.5,5.5,Custom COD fee
+SFX3105509719,2026-08-08,M06,Bengaluru,Nagpur,Maharashtra,1.98,1.98,22,23,17,COD,2650,D,2.0,136.0,40.0,176.0,0.0,D,2.0,0.0,136.0,40.0,176.0,182.38,Custom COD fee,0.0,No variance,6.38,6.38,Custom COD fee
+SFX3106291897,2026-08-02,M02,Mumbai,Lucknow,Uttar Pradesh,2.32,3.79,27,25,22,COD,850,D,4.0,235.6,25.0,260.6,0.0,D,4.0,5.0,235.6,25.0,260.6,265.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107465164,2026-08-12,M02,Mumbai,Bengaluru,Karnataka,0.43,0.43,17,12,14,COD,1150,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107725890,2026-08-22,M02,Mumbai,Delhi,Delhi,1.38,1.38,23,17,18,COD,750,C,1.5,88.35,25.0,113.35,0.0,C,1.5,5.0,88.35,25.0,113.35,118.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107981663,2026-08-25,M02,Mumbai,Hyderabad,Telangana,0.69,0.69,21,15,17,COD,200,C,1.5,88.35,25.0,113.35,0.0,C,1.5,5.0,88.35,25.0,113.35,118.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108372752,2026-08-18,M02,Mumbai,Coimbatore,Tamil Nadu,0.9,0.96,18,17,16,COD,1250,D,1.0,76.0,25.0,101.0,0.0,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108763841,2026-08-03,M02,Mumbai,Ahmedabad,Gujarat,1.88,2.91,21,18,13,COD,250,D,3.0,182.4,25.0,207.4,0.0,D,3.0,5.0,182.4,25.0,207.4,212.4,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100415656,2026-08-20,M02,Mumbai,Nagpur,Maharashtra,1.01,1.01,28,23,22,COD,2900,B,3.0,121.6,43.5,165.1,0.0,B,3.0,5.0,121.6,43.5,165.1,172.35,Custom COD fee,0.0,No variance,7.25,7.25,Custom COD fee
+SFX3101719286,2026-08-22,M06,Bengaluru,Bhopal,Madhya Pradesh,2.24,2.24,28,19,24,COD,2550,D,3.0,192.0,40.0,232.0,0.0,D,3.0,0.0,192.0,40.0,232.0,236.63,Custom COD fee,0.0,No variance,4.63,4.63,Custom COD fee
+SFX3103544368,2026-08-18,M02,Mumbai,Jaipur,Rajasthan,0.54,0.86,15,14,12,COD,2600,D,1.0,76.0,39.0,115.0,0.0,D,1.0,5.0,76.0,39.0,115.0,121.5,Custom COD fee,0.0,No variance,6.5,6.5,Custom COD fee
+SFX3106673080,2026-08-10,M02,Mumbai,Indore,Madhya Pradesh,0.47,0.72,18,13,13,COD,2900,D,1.0,76.0,43.5,119.5,0.0,D,1.0,5.0,76.0,43.5,119.5,126.75,Custom COD fee,0.0,No variance,7.25,7.25,Custom COD fee
+SFX3107064169,2026-08-14,M02,Mumbai,Bengaluru,Karnataka,0.46,0.55,17,11,15,COD,1800,C,1.0,65.55,27.0,92.55,0.0,C,1.0,5.0,65.55,27.0,92.55,97.05,Custom COD fee,0.0,No variance,4.5,4.5,Custom COD fee
+SFX3108367799,2026-08-26,M02,Mumbai,Kolkata,West Bengal,0.31,0.45,21,19,14,COD,1300,C,1.5,88.35,25.0,113.35,1.0,C,1.5,5.0,88.35,25.0,113.35,118.35,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108758888,2026-08-13,M02,Mumbai,Ahmedabad,Gujarat,0.42,0.69,17,14,13,COD,2700,D,1.0,76.0,40.5,116.5,0.0,D,1.0,5.0,76.0,40.5,116.5,123.25,Custom COD fee,0.0,No variance,6.75,6.75,Custom COD fee
+SFX3101062518,2026-08-24,M02,Mumbai,Delhi,Delhi,0.36,0.36,16,13,15,COD,1550,C,1.0,65.55,25.0,90.55,0.0,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102105422,2026-08-04,M02,Mumbai,Mumbai,Maharashtra,0.27,0.27,13,10,14,COD,500,A,0.5,30.4,25.0,55.4,1.0,A,0.5,5.0,30.4,25.0,55.4,60.4,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102235785,2026-08-02,M02,Mumbai,Indore,Madhya Pradesh,2.89,2.89,45,33,44,COD,2450,D,13.5,741.0,36.75,777.75,0.0,D,13.5,5.0,741.0,36.75,777.75,783.88,Custom COD fee,0.0,No variance,6.13,6.13,Custom COD fee
+SFX3102496511,2026-08-22,M02,Mumbai,Kolkata,West Bengal,0.36,0.53,14,10,10,COD,2400,C,1.0,65.55,36.0,101.55,0.0,C,1.0,5.0,65.55,36.0,101.55,107.55,Custom COD fee,0.0,No variance,6.0,6.0,Custom COD fee
+SFX3104838092,2026-09-28,M02,Mumbai,Pune,Maharashtra,4.04,4.81,28,25,25,COD,200,B,5.0,190.0,25.0,215.0,,B,5.0,5.0,190.0,25.0,215.0,220.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105489907,2026-09-26,M02,Mumbai,Jaipur,Rajasthan,0.81,0.81,15,12,11,COD,1950,D,1.0,76.0,29.25,105.25,,D,1.0,5.0,76.0,29.25,105.25,110.12,Custom COD fee,0.0,No variance,4.87,4.87,Custom COD fee
+SFX3103659872,2026-09-25,M02,Mumbai,Bengaluru,Karnataka,2.8,2.8,22,16,16,COD,1650,C,3.0,156.75,25.0,181.75,,C,3.0,5.0,156.75,25.0,181.75,186.75,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100526207,2026-09-28,M02,Mumbai,Mumbai,Maharashtra,1.33,1.33,24,18,20,COD,2350,A,2.0,70.3,35.25,105.55,,A,2.0,5.0,70.3,35.25,105.55,111.43,Custom COD fee,0.0,No variance,5.88,5.88,Custom COD fee
+SFX3101438748,2026-09-09,M02,Mumbai,Patna,Bihar,0.65,0.86,12,9,13,COD,750,D,1.0,76.0,0.0,76.0,,D,1.0,5.0,76.0,0.0,76.0,106.0,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3102872741,2026-09-18,M06,Bengaluru,Bhopal,Madhya Pradesh,0.58,0.89,19,14,19,COD,2300,D,1.5,108.0,40.0,148.0,,D,1.5,0.0,108.0,40.0,148.0,148.25,Custom COD fee,0.0,No variance,0.25,0.25,Custom COD fee
+SFX3103133467,2026-09-02,M02,Mumbai,Hyderabad,Telangana,0.96,0.96,19,20,14,COD,2600,C,1.5,88.35,0.0,88.35,,C,1.5,5.0,88.35,0.0,88.35,133.85,COD fee waiver,0.0,No variance,45.5,45.5,COD fee waiver
+SFX3103785282,2026-09-24,M02,Mumbai,Kolkata,West Bengal,0.22,0.37,12,8,13,COD,2150,C,0.5,42.75,32.25,75.0,,C,0.5,5.0,42.75,32.25,75.0,80.38,Custom COD fee,0.0,No variance,5.38,5.38,Custom COD fee
+SFX3106653268,2026-09-22,M02,Mumbai,Hyderabad,Telangana,0.43,0.54,14,8,12,COD,1600,C,1.0,65.55,25.0,90.55,,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108217624,2026-09-09,M02,Mumbai,Delhi,Delhi,0.39,0.4,15,12,12,COD,700,C,0.5,42.75,0.0,42.75,,C,0.5,5.0,42.75,0.0,42.75,72.75,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3108478350,2026-09-23,M02,Mumbai,Pune,Maharashtra,0.58,0.63,16,13,12,COD,550,B,1.0,53.2,25.0,78.2,,B,1.0,5.0,53.2,25.0,78.2,83.2,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108999802,2026-09-13,M02,Mumbai,Mumbai,Maharashtra,0.93,1.07,14,10,17,COD,1550,A,1.5,57.0,0.0,57.0,,A,1.5,5.0,57.0,0.0,57.0,87.0,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3100651617,2026-09-05,M02,Mumbai,Bengaluru,Karnataka,1.17,1.18,18,15,14,COD,1900,C,1.5,88.35,0.0,88.35,,C,1.5,5.0,88.35,0.0,88.35,121.6,COD fee waiver,0.0,No variance,33.25,33.25,COD fee waiver
+SFX3103128514,2026-09-27,M02,Mumbai,Pune,Maharashtra,1.01,1.69,18,15,12,COD,1250,B,2.0,87.4,25.0,112.4,,B,2.0,5.0,87.4,25.0,112.4,117.4,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100646664,2026-09-20,M02,Mumbai,Indore,Madhya Pradesh,0.32,0.49,15,11,11,COD,1900,D,0.5,49.4,0.0,49.4,,D,0.5,5.0,49.4,0.0,49.4,82.65,COD fee waiver,0.0,No variance,33.25,33.25,COD fee waiver
+SFX3101819931,2026-09-09,M02,Mumbai,Hyderabad,Telangana,0.48,0.48,15,10,15,COD,1400,C,0.5,42.75,0.0,42.75,,C,0.5,5.0,42.75,0.0,42.75,72.75,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3102211020,2026-09-17,M02,Mumbai,Delhi,Delhi,0.25,0.31,14,13,9,COD,1700,C,0.5,42.75,0.0,42.75,,C,0.5,5.0,42.75,0.0,42.75,72.75,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3108077355,2026-09-28,M02,Mumbai,Kolkata,West Bengal,1.65,2.03,21,14,19,COD,800,C,2.5,133.95,25.0,158.95,,C,2.5,5.0,133.95,25.0,158.95,163.95,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108207718,2026-09-23,M02,Mumbai,Bengaluru,Karnataka,1.06,1.56,21,14,18,COD,1050,C,2.0,111.15,25.0,136.15,,C,2.0,5.0,111.15,25.0,136.15,141.15,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108859533,2026-09-08,M02,Mumbai,Bengaluru,Karnataka,2.09,2.09,25,20,16,COD,350,C,2.5,133.95,0.0,133.95,,C,2.5,5.0,133.95,0.0,133.95,163.95,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3101293526,2026-09-29,M02,Mumbai,Surat,Gujarat,0.69,0.69,18,13,14,COD,1400,D,1.0,76.0,25.0,101.0,,D,1.0,5.0,76.0,25.0,101.0,106.0,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103509697,2026-09-10,M02,Mumbai,Hyderabad,Telangana,3.02,3.02,28,23,22,COD,800,C,3.5,179.55,0.0,179.55,,C,3.5,5.0,179.55,0.0,179.55,209.55,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3106768772,2026-09-15,M02,Mumbai,Mysuru,Karnataka,0.65,0.65,14,9,15,COD,2000,D,1.0,76.0,0.0,76.0,,D,1.0,5.0,76.0,0.0,76.0,111.0,COD fee waiver,0.0,No variance,35.0,35.0,COD fee waiver
+SFX3102852929,2026-09-05,M02,Mumbai,Delhi,Delhi,1.0,1.28,13,9,13,COD,1400,C,1.5,88.35,0.0,88.35,,C,1.5,5.0,88.35,0.0,88.35,118.35,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3103244018,2026-09-11,M06,Bengaluru,Coimbatore,Tamil Nadu,1.27,1.66,20,14,21,COD,2650,D,2.0,136.0,40.0,176.0,,D,2.0,0.0,136.0,40.0,176.0,182.38,Custom COD fee,0.0,No variance,6.38,6.38,Custom COD fee
+SFX3104286922,2026-09-02,M02,Mumbai,Mumbai,Maharashtra,2.12,2.12,32,28,20,COD,2150,A,4.0,123.5,0.0,123.5,,A,4.0,5.0,123.5,0.0,123.5,161.13,COD fee waiver,0.0,No variance,37.63,37.63,COD fee waiver
+SFX3105851278,2026-09-07,M02,Mumbai,Delhi,Delhi,0.67,0.67,14,12,12,COD,2950,C,1.0,65.55,0.0,65.55,,C,1.0,5.0,65.55,0.0,65.55,117.18,COD fee waiver,0.0,No variance,51.63,51.63,COD fee waiver
+SFX3107415634,2026-09-23,M02,Mumbai,Bengaluru,Karnataka,0.44,0.53,18,14,13,COD,1350,C,1.0,65.55,25.0,90.55,,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108849627,2026-09-26,M02,Mumbai,Kolkata,West Bengal,1.21,1.21,26,23,19,COD,2050,C,2.5,133.95,30.75,164.7,,C,2.5,5.0,133.95,30.75,164.7,169.83,Custom COD fee,0.0,No variance,5.13,5.13,Custom COD fee
+SFX3102456887,2026-09-08,M02,Mumbai,Kolkata,West Bengal,1.47,1.47,23,18,15,COD,450,C,1.5,88.35,0.0,88.35,,C,1.5,5.0,88.35,0.0,88.35,118.35,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3108583948,2026-09-04,M02,Mumbai,Delhi,Delhi,0.51,0.72,17,13,16,COD,650,C,1.0,65.55,0.0,65.55,,C,1.0,5.0,65.55,0.0,65.55,95.55,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3100626852,2026-09-03,M02,Mumbai,Mysuru,Karnataka,0.68,0.68,17,12,15,COD,2300,D,1.0,76.0,0.0,76.0,,D,1.0,5.0,76.0,0.0,76.0,116.25,COD fee waiver,0.0,No variance,40.25,40.25,COD fee waiver
+SFX3103885927,2026-09-08,M02,Mumbai,Nagpur,Maharashtra,0.57,0.77,21,16,22,COD,2500,B,1.5,70.3,0.0,70.3,,B,1.5,5.0,70.3,0.0,70.3,114.05,COD fee waiver,0.0,No variance,43.75,43.75,COD fee waiver
+SFX3107275365,2026-09-08,M02,Mumbai,Warangal,Telangana,0.58,0.81,13,9,15,COD,1200,D,1.0,76.0,0.0,76.0,,D,1.0,5.0,76.0,0.0,76.0,106.0,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3107666454,2026-09-30,M02,Mumbai,Delhi,Delhi,2.81,3.76,35,23,29,COD,650,C,5.0,247.95,25.0,272.95,,C,5.0,5.0,247.95,25.0,272.95,277.95,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3103098796,2026-09-10,M02,Mumbai,Nagpur,Maharashtra,0.57,0.76,11,9,9,COD,2750,B,1.0,53.2,0.0,53.2,,B,1.0,5.0,53.2,0.0,53.2,101.33,COD fee waiver,0.0,No variance,48.13,48.13,COD fee waiver
+SFX3105575693,2026-09-11,M02,Mumbai,Surat,Gujarat,0.77,0.77,19,15,13,COD,1400,D,1.0,76.0,0.0,76.0,,D,1.0,5.0,76.0,0.0,76.0,106.0,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3106097145,2026-09-22,M02,Mumbai,Hyderabad,Telangana,0.84,0.84,18,14,14,COD,650,C,1.0,65.55,25.0,90.55,,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3106618597,2026-09-11,M02,Mumbai,Hyderabad,Telangana,1.19,1.32,20,18,17,COD,2050,C,1.5,88.35,0.0,88.35,,C,1.5,5.0,88.35,0.0,88.35,124.23,COD fee waiver,0.0,No variance,35.88,35.88,COD fee waiver
+SFX3103224206,2026-09-22,M02,Mumbai,Coimbatore,Tamil Nadu,1.86,1.86,18,14,13,COD,1900,D,2.0,129.2,28.5,157.7,,D,2.0,5.0,129.2,28.5,157.7,162.45,Custom COD fee,0.0,No variance,4.75,4.75,Custom COD fee
+SFX3104006384,2026-09-28,M02,Mumbai,Indore,Madhya Pradesh,1.1,1.27,20,16,13,COD,2700,D,1.5,102.6,40.5,143.1,,D,1.5,5.0,102.6,40.5,143.1,149.85,Custom COD fee,0.0,No variance,6.75,6.75,Custom COD fee
+SFX3106613644,2026-09-24,M02,Mumbai,Bhopal,Madhya Pradesh,1.42,1.42,28,21,22,COD,2400,D,3.0,182.4,36.0,218.4,,D,3.0,5.0,182.4,36.0,218.4,224.4,Custom COD fee,0.0,No variance,6.0,6.0,Custom COD fee
+SFX3107004733,2026-09-05,M02,Mumbai,Warangal,Telangana,0.6,1.0,21,18,18,COD,1250,D,1.5,102.6,0.0,102.6,,D,1.5,5.0,102.6,0.0,102.6,132.6,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3108960178,2026-09-24,M02,Mumbai,Shillong,Meghalaya,0.56,0.56,16,11,14,COD,950,E,1.0,102.6,25.0,127.6,,E,1.0,5.0,102.6,25.0,127.6,132.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101654897,2026-09-06,M02,Mumbai,Indore,Madhya Pradesh,1.14,1.68,22,15,19,COD,1900,D,2.0,129.2,0.0,129.2,,D,2.0,5.0,129.2,0.0,129.2,162.45,COD fee waiver,0.0,No variance,33.25,33.25,COD fee waiver
+SFX3104783609,2026-09-01,M02,Mumbai,Pune,Maharashtra,0.47,0.78,17,15,15,COD,2850,B,1.0,53.2,0.0,53.2,,B,1.0,5.0,53.2,0.0,53.2,103.08,COD fee waiver,0.0,No variance,49.88,49.88,COD fee waiver
+SFX3105305061,2026-09-24,M02,Mumbai,Ahmedabad,Gujarat,0.83,0.83,16,13,13,COD,2750,D,1.0,76.0,41.25,117.25,,D,1.0,5.0,76.0,41.25,117.25,124.13,Custom COD fee,0.0,No variance,6.88,6.88,Custom COD fee
+SFX3105826513,2026-09-12,M02,Mumbai,Bengaluru,Karnataka,2.21,3.07,26,15,24,COD,350,C,3.5,179.55,0.0,179.55,,C,3.5,5.0,179.55,0.0,179.55,209.55,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3107651595,2026-09-21,M02,Mumbai,Lucknow,Uttar Pradesh,1.81,2.4,23,17,17,COD,1800,D,2.5,155.8,27.0,182.8,,D,2.5,5.0,155.8,27.0,182.8,187.3,Custom COD fee,0.0,No variance,4.5,4.5,Custom COD fee
+SFX3100607040,2026-09-22,M02,Mumbai,Bengaluru,Karnataka,0.35,0.45,18,14,14,COD,2700,C,1.0,65.55,40.5,106.05,,C,1.0,5.0,65.55,40.5,106.05,112.8,Custom COD fee,0.0,No variance,6.75,6.75,Custom COD fee
+SFX3102041033,2026-09-18,M02,Mumbai,Hyderabad,Telangana,0.69,0.77,15,13,11,COD,2050,C,1.0,65.55,0.0,65.55,,C,1.0,5.0,65.55,0.0,65.55,101.43,COD fee waiver,0.0,No variance,35.88,35.88,COD fee waiver
+SFX3106603738,2026-09-24,M02,Mumbai,Patna,Bihar,0.25,0.33,11,8,8,COD,2250,D,0.5,49.4,33.75,83.15,,D,0.5,5.0,49.4,33.75,83.15,88.78,Custom COD fee,0.0,No variance,5.63,5.63,Custom COD fee
+SFX3101514628,2026-09-10,M06,Bengaluru,Mumbai,Maharashtra,1.23,2.02,16,13,12,COD,2400,C,2.5,141.0,40.0,181.0,,C,2.5,0.0,141.0,40.0,181.0,183.0,Custom COD fee,0.0,No variance,2.0,2.0,Custom COD fee
+SFX3103861162,2026-09-24,M02,Mumbai,Bengaluru,Karnataka,1.62,1.62,25,19,26,COD,2550,C,2.5,133.95,38.25,172.2,,C,2.5,5.0,133.95,38.25,172.2,178.58,Custom COD fee,0.0,No variance,6.38,6.38,Custom COD fee
+SFX3103991525,2026-09-22,M02,Mumbai,Mysuru,Karnataka,1.64,1.64,20,18,16,COD,1750,D,2.0,129.2,26.25,155.45,,D,2.0,5.0,129.2,26.25,155.45,159.83,Custom COD fee,0.0,No variance,4.38,4.38,Custom COD fee
+SFX3106207696,2026-09-24,M02,Mumbai,Chandigarh,Chandigarh,1.37,1.37,20,15,17,COD,600,D,1.5,102.6,25.0,127.6,,D,1.5,5.0,102.6,25.0,127.6,132.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107902415,2026-09-09,M02,Mumbai,Jaipur,Rajasthan,0.94,1.44,20,21,16,COD,1050,D,1.5,102.6,0.0,102.6,,D,1.5,5.0,102.6,0.0,102.6,132.6,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3104377661,2026-09-02,M02,Mumbai,Mumbai,Maharashtra,0.4,0.59,13,9,15,COD,450,A,1.0,43.7,0.0,43.7,,A,1.0,5.0,43.7,0.0,43.7,73.7,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3106072380,2026-09-28,M02,Mumbai,Indore,Madhya Pradesh,0.06,0.1,10,8,4,COD,600,D,0.5,49.4,25.0,74.4,,D,0.5,5.0,49.4,25.0,74.4,79.4,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3106202743,2026-09-29,M02,Mumbai,Bengaluru,Karnataka,0.74,0.74,15,10,15,COD,2950,C,1.0,65.55,44.25,109.8,,C,1.0,5.0,65.55,44.25,109.8,117.18,Custom COD fee,0.0,No variance,7.38,7.38,Custom COD fee
+SFX3107636736,2026-09-07,M02,Mumbai,Kolkata,West Bengal,4.05,4.05,35,27,22,COD,2950,C,4.5,225.15,0.0,225.15,,C,4.5,5.0,225.15,0.0,225.15,276.78,COD fee waiver,0.0,No variance,51.63,51.63,COD fee waiver
+SFX3104503071,2026-09-01,M02,Mumbai,Mumbai,Maharashtra,6.03,6.03,45,32,41,COD,1850,A,12.0,336.3,0.0,336.3,,A,12.0,5.0,336.3,0.0,336.3,368.68,COD fee waiver,0.0,No variance,32.38,32.38,COD fee waiver
+SFX3106067427,2026-09-05,M02,Mumbai,Hyderabad,Telangana,0.75,0.81,18,15,18,COD,650,C,1.0,65.55,0.0,65.55,,C,1.0,5.0,65.55,0.0,65.55,95.55,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3106197790,2026-09-24,M02,Mumbai,Hyderabad,Telangana,0.2,0.27,14,12,13,COD,1800,C,0.5,42.75,27.0,69.75,,C,0.5,5.0,42.75,27.0,69.75,74.25,Custom COD fee,0.0,No variance,4.5,4.5,Custom COD fee
+SFX3103064125,2026-09-03,M02,Mumbai,Nagpur,Maharashtra,0.41,0.55,16,15,12,COD,2500,B,1.0,53.2,0.0,53.2,,B,1.0,5.0,53.2,0.0,53.2,96.95,COD fee waiver,0.0,No variance,43.75,43.75,COD fee waiver
+SFX3102276994,2026-09-04,M02,Mumbai,Bhopal,Madhya Pradesh,0.55,0.84,20,18,18,COD,2100,D,1.5,102.6,0.0,102.6,,D,1.5,5.0,102.6,0.0,102.6,139.35,COD fee waiver,0.0,No variance,36.75,36.75,COD fee waiver
+SFX3102668083,2026-09-11,M02,Mumbai,Jaipur,Rajasthan,1.23,1.23,20,18,15,COD,2700,D,1.5,102.6,0.0,102.6,,D,1.5,5.0,102.6,0.0,102.6,149.85,COD fee waiver,0.0,No variance,47.25,47.25,COD fee waiver
+SFX3108273692,2026-09-17,M02,Mumbai,Mumbai,Maharashtra,1.58,1.58,28,25,21,COD,1700,A,3.0,96.9,0.0,96.9,,A,3.0,5.0,96.9,0.0,96.9,126.9,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3108534418,2026-09-08,M02,Mumbai,Kolkata,West Bengal,0.25,0.27,13,11,10,COD,2100,C,0.5,42.75,0.0,42.75,,C,0.5,5.0,42.75,0.0,42.75,79.5,COD fee waiver,0.0,No variance,36.75,36.75,COD fee waiver
+SFX3101359500,2026-09-06,M02,Mumbai,Ahmedabad,Gujarat,1.53,1.53,20,16,13,COD,250,D,2.0,129.2,0.0,129.2,,D,2.0,5.0,129.2,0.0,129.2,159.2,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3102141678,2026-09-28,M02,Mumbai,Chandigarh,Chandigarh,1.18,1.52,19,17,12,COD,1850,D,2.0,129.2,27.75,156.95,,D,2.0,5.0,129.2,27.75,156.95,161.58,Custom COD fee,0.0,No variance,4.63,4.63,Custom COD fee
+SFX3102793493,2026-09-11,M02,Mumbai,Bengaluru,Karnataka,1.34,1.37,16,14,12,COD,1850,C,1.5,88.35,0.0,88.35,,C,1.5,5.0,88.35,0.0,88.35,120.73,COD fee waiver,0.0,No variance,32.38,32.38,COD fee waiver
+SFX3103706034,2026-09-10,M02,Mumbai,Delhi,Delhi,1.65,1.9,23,19,15,COD,1300,C,2.0,111.15,0.0,111.15,,C,2.0,5.0,111.15,0.0,111.15,141.15,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3107225835,2026-09-18,M02,Mumbai,Delhi,Delhi,1.06,1.06,15,13,10,COD,650,C,1.5,88.35,0.0,88.35,,C,1.5,5.0,88.35,0.0,88.35,118.35,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3108138376,2026-09-04,M02,Mumbai,Bengaluru,Karnataka,0.48,0.61,18,13,17,COD,1600,C,1.0,65.55,0.0,65.55,,C,1.0,5.0,65.55,0.0,65.55,95.55,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3100833095,2026-09-23,M02,Mumbai,Delhi,Delhi,2.98,3.0,15,9,16,COD,2400,C,3.0,156.75,36.0,192.75,,C,3.0,5.0,156.75,36.0,192.75,198.75,Custom COD fee,0.0,No variance,6.0,6.0,Custom COD fee
+SFX3102136725,2026-09-12,M02,Mumbai,Guwahati,Assam,0.27,0.37,14,11,11,COD,1450,E,0.5,66.5,0.0,66.5,,E,0.5,5.0,66.5,0.0,66.5,96.5,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3102918903,2026-09-26,M02,Mumbai,Mysuru,Karnataka,3.72,3.92,30,26,22,COD,1500,D,4.0,235.6,25.0,260.6,,D,4.0,5.0,235.6,25.0,260.6,265.6,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108263786,2026-09-10,M02,Mumbai,Mumbai,Maharashtra,1.59,1.59,24,18,16,COD,2200,A,2.0,70.3,0.0,70.3,,A,2.0,5.0,70.3,0.0,70.3,108.8,COD fee waiver,0.0,No variance,38.5,38.5,COD fee waiver
+SFX3108524512,2026-09-13,M02,Mumbai,Patna,Bihar,3.68,3.68,29,20,23,COD,1750,D,4.0,235.6,0.0,235.6,,D,4.0,5.0,235.6,0.0,235.6,266.23,COD fee waiver,0.0,No variance,30.63,30.63,COD fee waiver
+SFX3100697779,2026-09-28,M02,Mumbai,Delhi,Delhi,2.21,2.21,21,17,19,COD,1450,C,2.5,133.95,25.0,158.95,,C,2.5,5.0,133.95,25.0,158.95,163.95,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3107346292,2026-09-01,M02,Mumbai,Ahmedabad,Gujarat,1.45,2.0,24,21,16,COD,1100,D,2.0,129.2,0.0,129.2,,D,2.0,5.0,129.2,0.0,129.2,159.2,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3107607018,2026-09-07,M02,Mumbai,Bengaluru,Karnataka,0.86,1.13,19,17,13,COD,300,C,1.5,88.35,0.0,88.35,,C,1.5,5.0,88.35,0.0,88.35,118.35,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3100041011,2026-09-27,M02,Mumbai,Coimbatore,Tamil Nadu,0.87,1.26,16,16,12,COD,2400,D,1.5,102.6,36.0,138.6,,D,1.5,5.0,102.6,36.0,138.6,144.6,Custom COD fee,0.0,No variance,6.0,6.0,Custom COD fee
+SFX3102387545,2026-09-30,M02,Mumbai,Pune,Maharashtra,0.4,0.71,20,20,15,COD,450,B,1.5,70.3,25.0,95.3,,B,1.5,5.0,70.3,25.0,95.3,100.3,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3108640016,2026-09-14,M02,Mumbai,Bengaluru,Karnataka,0.87,0.87,16,14,11,COD,150,C,1.0,65.55,0.0,65.55,,C,1.0,5.0,65.55,0.0,65.55,95.55,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3108770379,2026-09-24,M02,Mumbai,Mumbai,Maharashtra,0.33,0.5,15,14,13,COD,2000,A,1.0,43.7,30.0,73.7,,A,1.0,5.0,43.7,30.0,73.7,78.7,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3100813283,2026-09-22,M02,Mumbai,Kolkata,West Bengal,0.6,0.95,16,14,13,COD,1250,C,1.0,65.55,25.0,90.55,,C,1.0,5.0,65.55,25.0,90.55,95.55,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3102247276,2026-09-21,M02,Mumbai,Lucknow,Uttar Pradesh,0.72,0.72,13,12,9,COD,2600,D,1.0,76.0,39.0,115.0,,D,1.0,5.0,76.0,39.0,115.0,121.5,Custom COD fee,0.0,No variance,6.5,6.5,Custom COD fee
+SFX3105897440,2026-09-16,M02,Mumbai,Kolkata,West Bengal,0.25,0.44,11,10,8,COD,1050,C,0.5,42.75,0.0,42.75,,C,0.5,5.0,42.75,0.0,42.75,72.75,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3106940344,2026-09-04,M06,Bengaluru,Hyderabad,Telangana,2.76,2.76,22,15,17,COD,2300,C,3.0,165.0,40.0,205.0,,C,3.0,0.0,165.0,40.0,205.0,205.25,Custom COD fee,0.0,No variance,0.25,0.25,Custom COD fee
+SFX3101460145,2026-09-17,M02,Mumbai,Coimbatore,Tamil Nadu,0.4,0.62,22,17,16,COD,200,D,1.5,102.6,0.0,102.6,,D,1.5,5.0,102.6,0.0,102.6,132.6,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3102111960,2026-09-24,M02,Mumbai,Ahmedabad,Gujarat,0.31,0.31,11,8,8,COD,200,D,0.5,49.4,25.0,74.4,,D,0.5,5.0,49.4,25.0,74.4,79.4,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3105371035,2026-09-18,M02,Mumbai,Chandigarh,Chandigarh,1.53,1.53,18,12,15,COD,1550,D,2.0,129.2,0.0,129.2,,D,2.0,5.0,129.2,0.0,129.2,159.2,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver
+SFX3101846281,2026-09-26,M02,Mumbai,Jaipur,Rajasthan,0.9,1.46,24,16,21,COD,250,D,2.0,129.2,25.0,154.2,,D,2.0,5.0,129.2,25.0,154.2,159.2,Custom COD fee,0.0,No variance,5.0,5.0,Custom COD fee
+SFX3101976644,2026-09-30,M02,Mumbai,Pune,Maharashtra,0.91,0.91,31,19,26,COD,2700,B,3.5,138.7,40.5,179.2,,B,3.5,5.0,138.7,40.5,179.2,185.95,Custom COD fee,0.0,No variance,6.75,6.75,Custom COD fee
+SFX3103149911,2026-09-04,M02,Mumbai,Chandigarh,Chandigarh,0.77,0.77,13,13,11,COD,950,D,1.0,76.0,0.0,76.0,,D,1.0,5.0,76.0,0.0,76.0,106.0,COD fee waiver,0.0,No variance,30.0,30.0,COD fee waiver

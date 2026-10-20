@@ -1,0 +1,12 @@
+section,parameter,default_value,unit,description
+A.3,chargeable_weight_basis,max(dead_weight; volumetric_weight),kg,Chargeable weight is the higher of dead weight and volumetric weight
+A.3,volumetric_divisor,5000,cm3/kg,Volumetric weight = L x W x H (cm) / divisor; agreement may specify a different divisor
+A.3,weight_rounding_slab,0.5,kg,Chargeable weight rounded up to the next 0.5 kg slab
+A.3,min_chargeable_weight,0.5,kg,Minimum chargeable weight unless the agreement specifies otherwise
+A.4,cod_min_fee,30,INR,COD fee is the higher of this amount or cod_rate_pct of COD value
+A.4,cod_rate_pct,1.75,%,Percentage of COD value; COD fee = max(cod_min_fee; cod_rate_pct x COD value)
+A.4,cod_fee_on_prepaid,0,INR,No COD fee applies to prepaid shipments
+A.5,discount_base,Schedule A forward freight (A.1),,Discount applied as % of A.1 freight after chargeable weight and zone are determined
+A.5,discount_applies_to_cod,No,,Discounts never apply to the COD fee
+General,currency,INR,,All amounts in INR
+General,gst,Exclusive,,All amounts exclusive of GST

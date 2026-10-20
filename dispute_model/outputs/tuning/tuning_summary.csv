@@ -1,0 +1,5 @@
+model,combinations,best_params,current_params,best_val_pr_auc,current_val_pr_auc,best_test_pr_auc,current_test_pr_auc,best_test_roc_auc,best_test_f1,max_test_pr_auc_in_grid,not_converged
+logistic_regression,5,{'C': 0.01},{'C': 0.5},0.4347,0.4173,0.5166,0.5036,0.7729,0.4768,0.5166,0
+logistic_elastic_net,35,"{'C': 0.01, 'l1_ratio': 0.1}","{'C': 0.5, 'l1_ratio': 0.2}",0.4317,0.4182,0.5195,0.5064,0.7705,0.5061,0.5234,0
+random_forest,16,"{'max_depth': 5.0, 'min_samples_leaf': 2}","{'max_depth': None, 'min_samples_leaf': 5}",0.4265,0.4047,0.5055,0.4998,0.7623,0.4887,0.508,0
+gradient_boosting,256,"{'learning_rate': 0.05, 'max_iter': 300, 'max_depth': 2, 'min_samples_leaf': 10}","{'learning_rate': 0.05, 'max_iter': 300, 'max_depth': 4, 'min_samples_leaf': 20}",0.4328,0.3844,0.5275,0.5191,0.7692,0.4971,0.5354,0

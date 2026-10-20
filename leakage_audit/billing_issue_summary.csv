@@ -1,0 +1,8 @@
+error_type,issue,merchants,first_ship_date,last_ship_date,shipments,underbilled_inr,overbilled_inr,net_impact_inr
+Weight,Chargeable weight billed below measured weight,"M01, M02, M03, M04, M05, M06, M07, M08, M09, M10, M11, M12",2026-07-01,2026-09-30,720,18865.54,0.0,18865.54
+Weight,Minimum chargeable weight 1 kg not applied,M07,2026-07-01,2026-09-30,419,9489.6,0.0,9489.6
+Zone,Zone D billed instead of C,"M01, M02, M05, M06, M07, M08",2026-07-01,2026-09-30,651,0.0,7325.68,-7325.68
+COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,M08,2026-07-01,2026-09-30,216,4125.0,0.0,4125.0
+Weight,Volumetric divisor 5000 used instead of 4500,M11,2026-07-02,2026-09-30,88,2547.9,0.0,2547.9
+Discount,Discount amendment to 15% not applied (billed 8%),M09,2026-08-25,2026-09-30,161,0.0,1477.84,-1477.84
+COD,Schedule A COD fee used instead of contract COD fee,M08,2026-07-06,2026-09-12,6,90.0,0.0,90.0

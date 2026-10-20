@@ -1,0 +1,8 @@
+{
+  "source": "contracts_and_rate_card.md",
+  "source_sha256": "a369b23ac12f8bbf3d68bdec576d68f9ad9d51e4079f082cf49707e6be310a72",
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "dimensions": 384,
+  "chunk_count": 116,
+  "built_at": "2026-10-20T14:47:17.850404+00:00"
+}

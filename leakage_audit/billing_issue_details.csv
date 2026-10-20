@@ -1,0 +1,2262 @@
+awb,merchant_id,ship_date,error_type,issue,impact
+SFX3100521452,M05,2026-07-12,Weight,Chargeable weight billed below measured weight,13.16
+SFX3100782178,M07,2026-07-20,Zone,Zone D billed instead of C,-6.3
+SFX3100782178,M07,2026-07-20,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101173267,M07,2026-07-06,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101303630,M07,2026-07-19,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101564356,M08,2026-07-13,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,10.0
+SFX3102216171,M05,2026-07-04,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102737623,M08,2026-07-04,Zone,Zone D billed instead of C,-6.65
+SFX3102998349,M02,2026-07-20,Zone,Zone D billed instead of C,-25.65
+SFX3103128712,M11,2026-07-03,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3103650164,M07,2026-07-02,Weight,Minimum chargeable weight 1 kg not applied,16.2
+SFX3103780527,M07,2026-07-08,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3103910890,M08,2026-07-17,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,30.0
+SFX3104953794,M01,2026-07-13,Zone,Zone D billed instead of C,-10.12
+SFX3105084157,M05,2026-07-16,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105475246,M01,2026-07-09,Zone,Zone D billed instead of C,-17.48
+SFX3105996698,M02,2026-07-21,Zone,Zone D billed instead of C,-10.45
+SFX3106257424,M07,2026-07-15,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106387787,M05,2026-07-01,Zone,Zone D billed instead of C,-17.86
+SFX3106387787,M05,2026-07-01,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107039602,M05,2026-07-04,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107169965,M07,2026-07-11,Zone,Zone D billed instead of C,-6.3
+SFX3107169965,M07,2026-07-11,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108212869,M07,2026-07-06,Zone,Zone D billed instead of C,-6.3
+SFX3108212869,M07,2026-07-06,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108343232,M05,2026-07-23,Zone,Zone D billed instead of C,-6.58
+SFX3108343232,M05,2026-07-23,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108734321,M07,2026-07-26,Zone,Zone D billed instead of C,-6.3
+SFX3108734321,M07,2026-07-26,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100516499,M07,2026-07-05,Zone,Zone D billed instead of C,-6.3
+SFX3100516499,M07,2026-07-05,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101950492,M08,2026-07-05,Zone,Zone D billed instead of C,-18.05
+SFX3101950492,M08,2026-07-05,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,16.25
+SFX3102080855,M05,2026-07-11,Weight,Chargeable weight billed below measured weight,13.16
+SFX3102732670,M08,2026-07-08,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,33.75
+SFX3104036300,M01,2026-07-31,Zone,Zone D billed instead of C,-21.16
+SFX3104297026,M07,2026-07-03,Zone,Zone D billed instead of C,-6.3
+SFX3104297026,M07,2026-07-03,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104557752,M07,2026-07-25,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105079204,M05,2026-07-20,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105339930,M07,2026-07-06,Zone,Zone D billed instead of C,-9.9
+SFX3106122108,M02,2026-07-30,Zone,Zone D billed instead of C,-18.05
+SFX3106252471,M07,2026-07-13,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106382834,M05,2026-07-20,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106513197,M07,2026-07-22,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106773923,M07,2026-07-07,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3107686464,M05,2026-07-16,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107947190,M05,2026-07-27,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108338279,M08,2026-07-31,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,32.5
+SFX3108599005,M05,2026-07-27,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108729368,M07,2026-07-25,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3100641909,M05,2026-07-08,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101293724,M08,2026-07-28,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,16.25
+SFX3101684813,M05,2026-07-19,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102075902,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102206265,M05,2026-07-17,Zone,Zone D billed instead of C,-10.34
+SFX3102206265,M05,2026-07-17,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102466991,M05,2026-07-19,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103249169,M01,2026-07-10,Zone,Zone D billed instead of C,-21.16
+SFX3105334977,M07,2026-07-21,Zone,Zone D billed instead of C,-6.3
+SFX3105334977,M07,2026-07-21,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106117155,M05,2026-07-26,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106899333,M07,2026-07-19,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3107160059,M07,2026-07-03,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3108724415,M08,2026-07-17,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,25.0
+SFX3100115504,M05,2026-07-14,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100767319,M07,2026-07-22,Zone,Zone D billed instead of C,-6.3
+SFX3100767319,M07,2026-07-22,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101288771,M07,2026-07-28,Zone,Zone D billed instead of C,-9.9
+SFX3101419134,M05,2026-07-06,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101549497,M05,2026-07-14,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101810223,M08,2026-07-09,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,35.0
+SFX3102592401,M05,2026-07-12,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102983490,M05,2026-07-30,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103504942,M07,2026-07-27,Zone,Zone D billed instead of C,-6.3
+SFX3103504942,M07,2026-07-27,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103635305,M05,2026-07-01,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104547846,M11,2026-07-09,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3104678209,M06,2026-07-16,Zone,Zone D billed instead of C,-11.0
+SFX3104938935,M07,2026-07-12,Zone,Zone D billed instead of C,-6.3
+SFX3104938935,M07,2026-07-12,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105721113,M05,2026-07-28,Weight,Chargeable weight billed below measured weight,35.72
+SFX3106894380,M08,2026-07-26,Zone,Zone D billed instead of C,-6.65
+SFX3107415832,M07,2026-07-28,Weight,Minimum chargeable weight 1 kg not applied,16.2
+SFX3107676558,M07,2026-07-27,Weight,Minimum chargeable weight 1 kg not applied,16.2
+SFX3100371277,M07,2026-07-07,Zone,Zone D billed instead of C,-6.3
+SFX3100371277,M07,2026-07-07,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100632003,M07,2026-07-25,Zone,Zone D billed instead of C,-9.9
+SFX3101935633,M07,2026-07-31,Zone,Zone D billed instead of C,-6.3
+SFX3101935633,M07,2026-07-31,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103108900,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103891078,M07,2026-07-16,Zone,Zone D billed instead of C,-6.3
+SFX3103891078,M07,2026-07-16,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104282167,M08,2026-07-12,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,13.75
+SFX3104542893,M07,2026-07-18,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3104673256,M05,2026-07-04,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104803619,M11,2026-07-31,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3106628701,M08,2026-07-13,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,6.25
+SFX3107150153,M07,2026-07-20,Zone,Zone D billed instead of C,-6.3
+SFX3107150153,M07,2026-07-20,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108975235,M05,2026-07-09,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100496687,M05,2026-07-07,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101018139,M07,2026-07-18,Zone,Zone D billed instead of C,-9.9
+SFX3101148502,M07,2026-07-29,Zone,Zone D billed instead of C,-24.3
+SFX3101669954,M05,2026-07-23,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101800317,M07,2026-07-14,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3102321769,M08,2026-07-07,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,32.5
+SFX3102452132,M07,2026-07-19,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3102973584,M08,2026-07-30,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,10.0
+SFX3103103947,M02,2026-07-02,Zone,Zone D billed instead of C,-14.25
+SFX3103364673,M05,2026-07-16,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104146851,M05,2026-07-28,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104277214,M05,2026-07-19,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104537940,M11,2026-07-23,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3105841570,M05,2026-07-10,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106754111,M11,2026-07-22,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3106884474,M07,2026-07-06,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3107145200,M05,2026-07-01,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107275563,M05,2026-07-23,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107927378,M07,2026-07-20,Zone,Zone D billed instead of C,-6.3
+SFX3107927378,M07,2026-07-20,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108579193,M11,2026-07-15,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3108970282,M11,2026-07-22,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3100361371,M07,2026-07-19,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100491734,M07,2026-07-24,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100622097,M11,2026-07-26,Weight,Volumetric divisor 5000 used instead of 4500,72.2
+SFX3101013186,M07,2026-07-01,Zone,Zone D billed instead of C,-9.9
+SFX3102056090,M11,2026-07-17,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3102577542,M08,2026-07-25,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,36.25
+SFX3102838268,M07,2026-07-07,Zone,Zone D billed instead of C,-6.3
+SFX3102838268,M07,2026-07-07,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103098994,M05,2026-07-12,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104141898,M07,2026-07-22,Zone,Zone D billed instead of C,-6.3
+SFX3104141898,M07,2026-07-22,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104272261,M07,2026-07-01,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105836617,M07,2026-07-16,Zone,Zone D billed instead of C,-9.9
+SFX3106618795,M05,2026-07-08,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106879521,M05,2026-07-17,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107009884,M08,2026-07-12,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,23.75
+SFX3107792062,M05,2026-07-17,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108965329,M11,2026-07-13,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3100095692,M07,2026-07-02,Zone,Zone D billed instead of C,-6.3
+SFX3100095692,M07,2026-07-02,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100617144,M05,2026-07-25,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101399322,M08,2026-07-18,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,10.0
+SFX3101790411,M05,2026-07-20,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102572589,M08,2026-07-20,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,30.0
+SFX3103094041,M05,2026-07-09,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103224404,M05,2026-07-14,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103876219,M08,2026-07-03,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,37.5
+SFX3104136945,M05,2026-07-30,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104267308,M07,2026-07-31,Zone,Zone D billed instead of C,-17.1
+SFX3104397671,M07,2026-07-10,Zone,Zone D billed instead of C,-6.3
+SFX3104397671,M07,2026-07-10,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104788760,M05,2026-07-17,Weight,Chargeable weight billed below measured weight,13.16
+SFX3105049486,M05,2026-07-02,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105440575,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105701301,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,13.16
+SFX3105962027,M05,2026-07-30,Weight,Chargeable weight billed below measured weight,13.16
+SFX3106222753,M07,2026-07-01,Zone,Zone D billed instead of C,-9.9
+SFX3106744205,M05,2026-07-19,Zone,Zone D billed instead of C,-6.58
+SFX3106744205,M05,2026-07-19,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107917472,M07,2026-07-02,Zone,Zone D billed instead of C,-6.3
+SFX3107917472,M07,2026-07-02,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101264006,M07,2026-07-24,Zone,Zone D billed instead of C,-6.3
+SFX3101264006,M07,2026-07-24,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101524732,M07,2026-07-12,Zone,Zone D billed instead of C,-9.9
+SFX3101655095,M07,2026-07-26,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3102176547,M05,2026-07-15,Zone,Zone D billed instead of C,-6.58
+SFX3102828362,M07,2026-07-23,Zone,Zone D billed instead of C,-9.9
+SFX3103089088,M07,2026-07-09,Zone,Zone D billed instead of C,-9.9
+SFX3103480177,M05,2026-07-05,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103610540,M02,2026-07-15,Zone,Zone D billed instead of C,-48.45
+SFX3104392718,M08,2026-07-11,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,32.5
+SFX3105435622,M08,2026-07-05,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,36.25
+SFX3105565985,M07,2026-07-22,Weight,Minimum chargeable weight 1 kg not applied,16.2
+SFX3105826711,M07,2026-07-08,Zone,Zone D billed instead of C,-6.3
+SFX3105826711,M07,2026-07-08,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105957074,M05,2026-07-14,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107651793,M01,2026-07-15,Zone,Zone D billed instead of C,-13.8
+SFX3108173245,M05,2026-07-25,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108303608,M02,2026-07-08,Zone,Zone D billed instead of C,-10.45
+SFX3108433971,M05,2026-07-20,Weight,Chargeable weight billed below measured weight,13.16
+SFX3108564334,M11,2026-07-21,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3108694697,M07,2026-07-14,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100476875,M07,2026-07-06,Zone,Zone D billed instead of C,-9.9
+SFX3102041231,M07,2026-07-26,Zone,Zone D billed instead of C,-6.3
+SFX3102041231,M07,2026-07-26,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102432320,M05,2026-07-04,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102953772,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103214498,M05,2026-07-31,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103735950,M05,2026-07-19,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103996676,M05,2026-07-08,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104127039,M01,2026-07-16,Zone,Zone D billed instead of C,-6.44
+SFX3104257402,M08,2026-07-23,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,8.75
+SFX3104387765,M05,2026-07-19,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104648491,M11,2026-07-30,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3104778854,M07,2026-07-29,Zone,Zone D billed instead of C,-9.9
+SFX3105169943,M08,2026-07-19,Zone,Zone D billed instead of C,-14.25
+SFX3105300306,M05,2026-07-08,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105561032,M11,2026-07-19,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3106343210,M07,2026-07-09,Zone,Zone D billed instead of C,-6.3
+SFX3106343210,M07,2026-07-09,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107255751,M07,2026-07-05,Zone,Zone D billed instead of C,-9.9
+SFX3107907566,M07,2026-07-27,Zone,Zone D billed instead of C,-9.9
+SFX3108298655,M05,2026-07-21,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108559381,M08,2026-07-02,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,38.75
+SFX3108820107,M05,2026-07-12,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100341559,M07,2026-07-02,Zone,Zone D billed instead of C,-6.3
+SFX3100341559,M07,2026-07-02,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100732648,M07,2026-07-06,Zone,Zone D billed instead of C,-6.3
+SFX3100732648,M07,2026-07-06,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102036278,M08,2026-07-24,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,31.25
+SFX3102557730,M05,2026-07-26,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104122086,M05,2026-07-07,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104252449,M05,2026-07-10,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104773901,M07,2026-07-08,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3104904264,M05,2026-07-13,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106077531,M07,2026-07-20,Zone,Zone D billed instead of C,-13.5
+SFX3106598983,M07,2026-07-23,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3106859709,M08,2026-07-08,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,12.5
+SFX3107902613,M05,2026-07-04,Weight,Chargeable weight billed below measured weight,13.16
+SFX3100075880,M08,2026-07-03,Zone,Zone D billed instead of C,-10.45
+SFX3100206243,M07,2026-07-25,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100336606,M05,2026-07-13,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100466969,M05,2026-07-13,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101118784,M07,2026-07-18,Zone,Zone D billed instead of C,-9.9
+SFX3101249147,M07,2026-07-06,Zone,Zone D billed instead of C,-6.3
+SFX3101249147,M07,2026-07-06,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101900962,M07,2026-07-12,Zone,Zone D billed instead of C,-6.3
+SFX3101900962,M07,2026-07-12,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103074229,M07,2026-07-18,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3103986770,M07,2026-07-29,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3104768948,M07,2026-07-28,Zone,Zone D billed instead of C,-6.3
+SFX3104768948,M07,2026-07-28,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105029674,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105160037,M05,2026-07-08,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105942215,M08,2026-07-05,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,25.0
+SFX3106072578,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106594030,M05,2026-07-05,Zone,Zone D billed instead of C,-6.58
+SFX3106724393,M06,2026-07-22,Zone,Zone D billed instead of C,-23.0
+SFX3107115482,M08,2026-07-18,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,35.0
+SFX3107767297,M05,2026-07-07,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108288749,M11,2026-07-31,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3108940564,M07,2026-07-03,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100462016,M05,2026-07-05,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100592379,M07,2026-07-13,Zone,Zone D billed instead of C,-9.9
+SFX3101896009,M06,2026-07-21,Zone,Zone D billed instead of C,-11.0
+SFX3102026372,M05,2026-07-01,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102808550,M05,2026-07-02,Zone,Zone D billed instead of C,-14.1
+SFX3102808550,M05,2026-07-02,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103330002,M07,2026-07-10,Zone,Zone D billed instead of C,-9.9
+SFX3103590728,M07,2026-07-05,Zone,Zone D billed instead of C,-6.3
+SFX3103590728,M07,2026-07-05,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103721091,M01,2026-07-12,Zone,Zone D billed instead of C,-54.28
+SFX3106589077,M05,2026-07-11,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106719440,M07,2026-07-10,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106849803,M11,2026-07-17,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3108935611,M08,2026-07-15,Zone,Zone D billed instead of C,-10.45
+SFX3100065974,M05,2026-07-04,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100717789,M07,2026-07-14,Zone,Zone D billed instead of C,-9.9
+SFX3101369604,M11,2026-07-16,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3101630330,M07,2026-07-11,Zone,Zone D billed instead of C,-13.5
+SFX3102542871,M07,2026-07-08,Zone,Zone D billed instead of C,-6.3
+SFX3102542871,M07,2026-07-08,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103325049,M05,2026-07-21,Weight,Chargeable weight billed below measured weight,13.16
+SFX3103585775,M07,2026-07-06,Zone,Zone D billed instead of C,-9.9
+SFX3104107227,M05,2026-07-06,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104237590,M07,2026-07-28,Zone,Zone D billed instead of C,-6.3
+SFX3104237590,M07,2026-07-28,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104628679,M08,2026-07-06,COD,Schedule A COD fee used instead of contract COD fee,15.0
+SFX3104889405,M05,2026-07-31,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105150131,M05,2026-07-21,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105280494,M07,2026-07-26,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106323398,M05,2026-07-30,Zone,Zone D billed instead of C,-17.86
+SFX3106323398,M05,2026-07-30,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107366302,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108018117,M05,2026-07-23,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108930658,M07,2026-07-28,Zone,Zone D billed instead of C,-9.9
+SFX3100061021,M11,2026-07-11,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3101103925,M07,2026-07-26,Zone,Zone D billed instead of C,-9.9
+SFX3101234288,M07,2026-07-27,Zone,Zone D billed instead of C,-9.9
+SFX3101886103,M02,2026-07-21,Zone,Zone D billed instead of C,-6.65
+SFX3102016466,M07,2026-07-19,Zone,Zone D billed instead of C,-6.3
+SFX3102016466,M07,2026-07-19,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102798644,M11,2026-07-27,Weight,Volumetric divisor 5000 used instead of 4500,36.1
+SFX3103320096,M08,2026-07-04,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,35.0
+SFX3103450459,M07,2026-07-18,Zone,Zone D billed instead of C,-9.9
+SFX3103971911,M07,2026-07-02,Zone,Zone D billed instead of C,-6.3
+SFX3103971911,M07,2026-07-02,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105014815,M08,2026-07-26,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,1.25
+SFX3105145178,M11,2026-07-25,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3105405904,M08,2026-07-10,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,1.25
+SFX3106188082,M05,2026-07-03,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106970260,M07,2026-07-04,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3107100623,M07,2026-07-12,Zone,Zone D billed instead of C,-9.9
+SFX3107752438,M02,2026-07-20,Zone,Zone D billed instead of C,-14.25
+SFX3107882801,M07,2026-07-13,Weight,Minimum chargeable weight 1 kg not applied,16.2
+SFX3108273890,M05,2026-07-12,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100707883,M06,2026-07-22,Zone,Zone D billed instead of C,-11.0
+SFX3100968609,M06,2026-07-21,Zone,Zone D billed instead of C,-27.0
+SFX3101229335,M08,2026-07-22,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,12.5
+SFX3101620424,M07,2026-07-24,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3102141876,M05,2026-07-26,Zone,Zone D billed instead of C,-10.34
+SFX3102141876,M05,2026-07-26,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102532965,M05,2026-07-05,Zone,Zone D billed instead of C,-21.62
+SFX3102532965,M05,2026-07-05,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103315143,M07,2026-07-27,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3104618773,M05,2026-07-30,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105400951,M05,2026-07-29,Zone,Zone D billed instead of C,-6.58
+SFX3105661677,M07,2026-07-10,Zone,Zone D billed instead of C,-9.9
+SFX3106574218,M07,2026-07-20,Zone,Zone D billed instead of C,-6.3
+SFX3106574218,M07,2026-07-20,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106834944,M11,2026-07-20,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3107356396,M07,2026-07-19,Zone,Zone D billed instead of C,-9.9
+SFX3108138574,M05,2026-07-09,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108268937,M05,2026-07-07,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108790389,M07,2026-07-04,Zone,Zone D billed instead of C,-9.9
+SFX3100051115,M07,2026-07-14,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100702930,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101224382,M07,2026-07-26,Zone,Zone D billed instead of C,-13.5
+SFX3101485108,M07,2026-07-24,Zone,Zone D billed instead of C,-17.1
+SFX3101615471,M05,2026-07-27,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101876197,M08,2026-07-28,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,30.0
+SFX3103831642,M08,2026-07-04,Zone,Zone D billed instead of C,-6.65
+SFX3104744183,M07,2026-07-01,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105135272,M05,2026-07-12,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106438902,M07,2026-07-26,Zone,Zone D billed instead of C,-9.9
+SFX3106699628,M08,2026-07-25,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,23.75
+SFX3106960354,M02,2026-07-10,Zone,Zone D billed instead of C,-14.25
+SFX3107351443,M07,2026-07-11,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3107742532,M08,2026-07-30,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,8.75
+SFX3108394347,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108655073,M08,2026-07-01,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,6.25
+SFX3108785436,M05,2026-07-19,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108915799,M05,2026-07-14,Weight,Chargeable weight billed below measured weight,35.72
+SFX3100958703,M02,2026-07-18,Zone,Zone D billed instead of C,-18.05
+SFX3101219429,M05,2026-07-04,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103044511,M07,2026-07-02,Zone,Zone D billed instead of C,-6.3
+SFX3103044511,M07,2026-07-02,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103565963,M08,2026-07-01,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,2.5
+SFX3103696326,M05,2026-07-10,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105391045,M08,2026-07-02,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,27.5
+SFX3105521408,M05,2026-07-14,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105651771,M11,2026-07-11,Weight,Volumetric divisor 5000 used instead of 4500,79.8
+SFX3105782134,M05,2026-07-23,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106433949,M07,2026-07-25,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3106694675,M05,2026-07-23,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106825038,M05,2026-07-22,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107216127,M05,2026-07-26,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108389394,M08,2026-07-06,Zone,Zone D billed instead of C,-25.65
+SFX3108519757,M05,2026-07-07,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101475202,M08,2026-07-13,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,35.0
+SFX3101735928,M05,2026-07-25,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102257380,M07,2026-07-04,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3102387743,M05,2026-07-10,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102648469,M07,2026-07-18,Zone,Zone D billed instead of C,-6.3
+SFX3102648469,M07,2026-07-18,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103039558,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104603914,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105125366,M05,2026-07-28,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105646818,M05,2026-07-31,Weight,Chargeable weight billed below measured weight,35.72
+SFX3105907544,M07,2026-07-01,Zone,Zone D billed instead of C,-9.9
+SFX3106298633,M08,2026-07-25,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,26.25
+SFX3106689722,M05,2026-07-01,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107341537,M08,2026-07-16,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,10.0
+SFX3107602263,M07,2026-07-10,Zone,Zone D billed instead of C,-6.3
+SFX3107602263,M07,2026-07-10,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107862989,M07,2026-07-10,Zone,Zone D billed instead of C,-9.9
+SFX3108645167,M05,2026-07-21,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101079160,M07,2026-07-26,Zone,Zone D billed instead of C,-6.3
+SFX3101079160,M07,2026-07-26,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101209523,M08,2026-07-10,Zone,Zone D billed instead of C,-21.85
+SFX3101209523,M08,2026-07-10,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,37.5
+SFX3102382790,M05,2026-07-13,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102904242,M05,2026-07-02,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103816783,M07,2026-07-21,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3104338235,M07,2026-07-31,Zone,Zone D billed instead of C,-6.3
+SFX3104338235,M07,2026-07-31,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104859687,M05,2026-07-09,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105381139,M07,2026-07-22,Zone,Zone D billed instead of C,-6.3
+SFX3105381139,M07,2026-07-22,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105641865,M07,2026-07-31,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3107336584,M08,2026-07-07,Zone,Zone D billed instead of C,-25.65
+SFX3107336584,M08,2026-07-07,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,20.0
+SFX3107466947,M07,2026-07-19,Zone,Zone D billed instead of C,-6.3
+SFX3107466947,M07,2026-07-19,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107597310,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107727673,M07,2026-07-03,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3107858036,M01,2026-07-26,Zone,Zone D billed instead of C,-13.8
+SFX3108118762,M05,2026-07-13,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108249125,M07,2026-07-17,Zone,Zone D billed instead of C,-9.9
+SFX3100813481,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100943844,M07,2026-07-30,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3101726022,M11,2026-07-06,Weight,Volumetric divisor 5000 used instead of 4500,13.3
+SFX3101856385,M05,2026-07-31,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104463645,M07,2026-07-13,Zone,Zone D billed instead of C,-6.3
+SFX3104463645,M07,2026-07-13,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104724371,M01,2026-07-11,Zone,Zone D billed instead of C,-10.12
+SFX3105115460,M05,2026-07-14,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105506549,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105767275,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105897638,M07,2026-07-05,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106158364,M07,2026-07-11,Zone,Zone D billed instead of C,-13.5
+SFX3106549453,M05,2026-07-31,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106940542,M08,2026-07-14,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,30.0
+SFX3107331631,M08,2026-07-20,Zone,Zone D billed instead of C,-14.25
+SFX3108244172,M07,2026-07-16,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100547802,M07,2026-07-30,Zone,Zone D billed instead of C,-9.9
+SFX3101199617,M08,2026-07-26,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,16.25
+SFX3101721069,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103676514,M07,2026-07-22,Zone,Zone D billed instead of C,-9.9
+SFX3103806877,M05,2026-07-11,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104849781,M05,2026-07-08,Weight,Chargeable weight billed below measured weight,13.16
+SFX3104980144,M01,2026-07-14,Zone,Zone D billed instead of C,-17.48
+SFX3105110507,M05,2026-07-06,Zone,Zone D billed instead of C,-6.58
+SFX3105110507,M05,2026-07-06,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106153411,M07,2026-07-20,Zone,Zone D billed instead of C,-6.3
+SFX3106153411,M07,2026-07-20,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106674863,M08,2026-07-03,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,18.75
+SFX3106805226,M05,2026-07-03,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107457041,M07,2026-07-20,Zone,Zone D billed instead of C,-9.9
+SFX3108369582,M05,2026-07-13,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108891034,M07,2026-07-31,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3100151760,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100412486,M07,2026-07-04,Zone,Zone D billed instead of C,-6.3
+SFX3100412486,M07,2026-07-04,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100673212,M05,2026-07-27,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101064301,M07,2026-07-12,Zone,Zone D billed instead of C,-6.3
+SFX3101064301,M07,2026-07-12,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101976842,M05,2026-07-25,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102628657,M07,2026-07-24,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3102759020,M05,2026-07-22,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102889383,M05,2026-07-25,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103019746,M07,2026-07-30,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3104193013,M05,2026-07-08,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104453739,M08,2026-07-01,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,30.0
+SFX3104975191,M05,2026-07-30,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107321725,M06,2026-07-30,Zone,Zone D billed instead of C,-51.0
+SFX3107843177,M11,2026-07-18,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3107973540,M08,2026-07-27,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,10.0
+SFX3100668259,M11,2026-07-20,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3100798622,M07,2026-07-01,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3100928985,M07,2026-07-10,Zone,Zone D billed instead of C,-17.1
+SFX3101059348,M01,2026-07-25,Zone,Zone D billed instead of C,-10.12
+SFX3102102252,M07,2026-07-15,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3103014793,M05,2026-07-26,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103536245,M01,2026-07-02,Zone,Zone D billed instead of C,-10.12
+SFX3103796971,M07,2026-07-18,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3104318423,M05,2026-07-22,Weight,Chargeable weight billed below measured weight,13.16
+SFX3104579149,M11,2026-07-02,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3104970238,M08,2026-07-21,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,13.75
+SFX3105361327,M05,2026-07-25,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105491690,M07,2026-07-06,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106925683,M07,2026-07-17,Zone,Zone D billed instead of C,-6.3
+SFX3106925683,M07,2026-07-17,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107707861,M07,2026-07-06,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3108229313,M11,2026-07-28,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3108359676,M05,2026-07-27,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100402580,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100663306,M08,2026-07-03,Zone,Zone D billed instead of C,-6.65
+SFX3100663306,M08,2026-07-03,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,3.75
+SFX3100924032,M07,2026-07-29,Zone,Zone D billed instead of C,-6.3
+SFX3100924032,M07,2026-07-29,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101054395,M08,2026-07-22,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,33.75
+SFX3101315121,M08,2026-07-24,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,26.25
+SFX3101966936,M05,2026-07-01,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102097299,M05,2026-07-25,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102618751,M08,2026-07-11,Zone,Zone D billed instead of C,-18.05
+SFX3103140203,M11,2026-07-22,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3103270566,M07,2026-07-20,Zone,Zone D billed instead of C,-9.9
+SFX3103792018,M02,2026-07-15,Zone,Zone D billed instead of C,-6.65
+SFX3103922381,M05,2026-07-14,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104313470,M05,2026-07-21,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104443833,M07,2026-07-25,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3104574196,M07,2026-07-30,Zone,Zone D billed instead of C,-6.3
+SFX3104574196,M07,2026-07-30,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105356374,M06,2026-07-17,Zone,Zone D billed instead of C,-15.0
+SFX3106660004,M07,2026-07-18,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3107051093,M06,2026-07-01,Zone,Zone D billed instead of C,-35.0
+SFX3107181456,M02,2026-07-11,Zone,Zone D billed instead of C,-10.45
+SFX3107311819,M08,2026-07-10,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,18.75
+SFX3107702908,M08,2026-07-13,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,8.75
+SFX3108615449,M07,2026-07-01,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100136901,M07,2026-07-21,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3100658353,M05,2026-07-21,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102353072,M06,2026-07-22,Zone,Zone D billed instead of C,-23.0
+SFX3102744161,M11,2026-07-02,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3102874524,M07,2026-07-15,Zone,Zone D billed instead of C,-6.3
+SFX3102874524,M07,2026-07-15,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103656702,M11,2026-07-11,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3103917428,M07,2026-07-30,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3105090695,M02,2026-07-24,Zone,Zone D billed instead of C,-109.25
+SFX3105221058,M07,2026-07-25,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106003236,M07,2026-07-07,Zone,Zone D billed instead of C,-6.3
+SFX3106003236,M07,2026-07-07,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106263962,M07,2026-07-20,Zone,Zone D billed instead of C,-9.9
+SFX3107437229,M07,2026-07-27,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3108089044,M07,2026-07-19,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100262311,M11,2026-07-05,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3100653400,M07,2026-07-04,Zone,Zone D billed instead of C,-9.9
+SFX3100783763,M07,2026-07-11,Zone,Zone D billed instead of C,-9.9
+SFX3100914126,M05,2026-07-27,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101174852,M05,2026-07-06,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101305215,M08,2026-07-14,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,36.25
+SFX3101957030,M05,2026-07-27,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102608845,M06,2026-07-28,Zone,Zone D billed instead of C,-7.0
+SFX3102869571,M08,2026-07-18,Zone,Zone D billed instead of C,-40.85
+SFX3103521386,M11,2026-07-13,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3103651749,M08,2026-07-24,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,37.5
+SFX3104564290,M05,2026-07-10,Weight,Chargeable weight billed below measured weight,35.72
+SFX3104694653,M05,2026-07-10,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105737557,M08,2026-07-27,Zone,Zone D billed instead of C,-18.05
+SFX3105737557,M08,2026-07-27,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,17.5
+SFX3105998283,M08,2026-07-13,Zone,Zone D billed instead of C,-14.25
+SFX3105998283,M08,2026-07-13,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,13.75
+SFX3106128646,M05,2026-07-19,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106780461,M08,2026-07-20,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,8.75
+SFX3107301913,M08,2026-07-31,Zone,Zone D billed instead of C,-14.25
+SFX3107823365,M07,2026-07-26,Zone,Zone D billed instead of C,-20.7
+SFX3107953728,M05,2026-07-04,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108214454,M07,2026-07-14,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3108475180,M05,2026-07-27,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101169899,M07,2026-07-14,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101560988,M05,2026-07-17,Weight,Chargeable weight billed below measured weight,13.16
+SFX3102212803,M07,2026-07-19,Zone,Zone D billed instead of C,-6.3
+SFX3102212803,M07,2026-07-19,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102343166,M07,2026-07-24,Zone,Zone D billed instead of C,-17.1
+SFX3102864618,M07,2026-07-21,Zone,Zone D billed instead of C,-6.3
+SFX3102864618,M07,2026-07-21,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103125344,M05,2026-07-15,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103255707,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103907522,M07,2026-07-04,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3104298611,M08,2026-07-25,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,5.0
+SFX3104689700,M06,2026-07-21,Zone,Zone D billed instead of C,-7.0
+SFX3105341515,M08,2026-07-09,Zone,Zone D billed instead of C,-25.65
+SFX3105732604,M05,2026-07-02,Weight,Chargeable weight billed below measured weight,13.16
+SFX3106254056,M07,2026-07-22,Zone,Zone D billed instead of C,-6.3
+SFX3106254056,M07,2026-07-22,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106775508,M07,2026-07-12,Zone,Zone D billed instead of C,-9.9
+SFX3106905871,M05,2026-07-07,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107427323,M08,2026-07-07,Zone,Zone D billed instead of C,-10.45
+SFX3107427323,M08,2026-07-07,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,36.25
+SFX3108470227,M05,2026-07-02,Weight,Chargeable weight billed below measured weight,13.16
+SFX3108600590,M08,2026-07-15,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,20.0
+SFX3108730953,M11,2026-07-24,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3108861316,M02,2026-07-06,Zone,Zone D billed instead of C,-18.05
+SFX3100122042,M07,2026-07-16,Zone,Zone D billed instead of C,-9.9
+SFX3100513131,M05,2026-07-16,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100904220,M07,2026-07-20,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101295309,M07,2026-07-17,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101686398,M07,2026-07-07,Zone,Zone D billed instead of C,-17.1
+SFX3103120391,M07,2026-07-19,Zone,Zone D billed instead of C,-9.9
+SFX3103381117,M05,2026-07-09,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103511480,M05,2026-07-30,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103772206,M07,2026-07-20,Zone,Zone D billed instead of C,-9.9
+SFX3104293658,M05,2026-07-18,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104554384,M05,2026-07-20,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105206199,M07,2026-07-24,Zone,Zone D billed instead of C,-9.9
+SFX3105466925,M05,2026-07-31,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106640192,M07,2026-07-03,Zone,Zone D billed instead of C,-9.9
+SFX3106770555,M08,2026-07-30,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,30.0
+SFX3107683096,M07,2026-07-23,Zone,Zone D billed instead of C,-6.3
+SFX3107683096,M07,2026-07-23,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107943822,M07,2026-07-21,Zone,Zone D billed instead of C,-9.9
+SFX3100247452,M07,2026-07-15,Zone,Zone D billed instead of C,-6.3
+SFX3100247452,M07,2026-07-15,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102072534,M07,2026-07-16,Zone,Zone D billed instead of C,-6.3
+SFX3102072534,M07,2026-07-16,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102593986,M05,2026-07-23,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102985075,M07,2026-07-11,Zone,Zone D billed instead of C,-17.1
+SFX3103636890,M07,2026-07-27,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3103767253,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104158342,M05,2026-07-03,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105461972,M08,2026-07-14,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,26.25
+SFX3105853061,M07,2026-07-07,Zone,Zone D billed instead of C,-9.9
+SFX3106504876,M05,2026-07-05,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107417417,M11,2026-07-10,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3108329958,M06,2026-07-14,Zone,Zone D billed instead of C,-11.0
+SFX3108851410,M05,2026-07-20,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108981773,M05,2026-07-20,Weight,Chargeable weight billed below measured weight,13.16
+SFX3100112136,M05,2026-07-10,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100633588,M08,2026-07-12,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,37.5
+SFX3101415766,M08,2026-07-24,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,7.5
+SFX3101546129,M06,2026-07-21,Zone,Zone D billed instead of C,-43.0
+SFX3102458670,M05,2026-07-13,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102589033,M05,2026-07-18,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102849759,M05,2026-07-02,Zone,Zone D billed instead of C,-25.38
+SFX3102849759,M05,2026-07-02,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104153389,M05,2026-07-12,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104805204,M07,2026-07-28,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105065930,M07,2026-07-30,Zone,Zone D billed instead of C,-6.3
+SFX3105065930,M07,2026-07-30,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105326656,M07,2026-07-03,Weight,Minimum chargeable weight 1 kg not applied,16.2
+SFX3105978471,M07,2026-07-07,Zone,Zone D billed instead of C,-9.9
+SFX3106369560,M07,2026-07-12,Zone,Zone D billed instead of C,-6.3
+SFX3106369560,M07,2026-07-12,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106499923,M07,2026-07-29,Zone,Zone D billed instead of C,-9.9
+SFX3106760649,M08,2026-07-05,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,2.5
+SFX3107282101,M07,2026-07-21,Zone,Zone D billed instead of C,-6.3
+SFX3107282101,M07,2026-07-21,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107412464,M05,2026-07-01,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107673190,M05,2026-07-11,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108194642,M07,2026-07-14,Zone,Zone D billed instead of C,-6.3
+SFX3108194642,M07,2026-07-14,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100107183,M08,2026-07-20,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,1.25
+SFX3101150087,M05,2026-07-15,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103366258,M05,2026-07-08,Weight,Chargeable weight billed below measured weight,13.16
+SFX3103887710,M07,2026-07-21,Zone,Zone D billed instead of C,-6.3
+SFX3103887710,M07,2026-07-21,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104018073,M05,2026-07-28,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104539525,M07,2026-07-27,Zone,Zone D billed instead of C,-13.5
+SFX3106234244,M05,2026-07-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106364607,M05,2026-07-10,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106625333,M07,2026-07-09,Zone,Zone D billed instead of C,-13.5
+SFX3106755696,M05,2026-07-22,Weight,Chargeable weight billed below measured weight,13.16
+SFX3107016422,M07,2026-07-21,Zone,Zone D billed instead of C,-9.9
+SFX3107146785,M07,2026-07-29,Zone,Zone D billed instead of C,-9.9
+SFX3107537874,M05,2026-07-14,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108059326,M07,2026-07-14,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3108711141,M07,2026-07-30,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3101275497,M08,2026-07-08,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,35.0
+SFX3103230942,M07,2026-07-14,Zone,Zone D billed instead of C,-6.3
+SFX3103230942,M07,2026-07-14,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103361305,M05,2026-07-28,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104143483,M05,2026-07-13,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104664935,M07,2026-07-18,Zone,Zone D billed instead of C,-6.3
+SFX3104664935,M07,2026-07-18,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104795298,M11,2026-07-17,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3105447113,M05,2026-07-31,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106359654,M05,2026-07-04,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106620380,M07,2026-07-05,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3106750743,M08,2026-07-15,Zone,Zone D billed instead of C,-10.45
+SFX3106750743,M08,2026-07-15,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,1.25
+SFX3107141832,M07,2026-07-15,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100227640,M07,2026-07-31,Zone,Zone D billed instead of C,-9.9
+SFX3100749092,M05,2026-07-13,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102052722,M08,2026-07-03,Zone,Zone D billed instead of C,-6.65
+SFX3104138530,M07,2026-07-18,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106224338,M07,2026-07-23,Zone,Zone D billed instead of C,-6.3
+SFX3106224338,M07,2026-07-23,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106354701,M11,2026-07-22,Weight,Volumetric divisor 5000 used instead of 4500,36.1
+SFX3106485064,M08,2026-07-07,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,28.75
+SFX3106615427,M05,2026-07-18,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107136879,M07,2026-07-23,Zone,Zone D billed instead of C,-6.3
+SFX3107136879,M07,2026-07-23,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107267242,M05,2026-07-25,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108049420,M08,2026-07-12,Zone,Zone D billed instead of C,-29.45
+SFX3108831598,M02,2026-07-20,Zone,Zone D billed instead of C,-14.25
+SFX3108961961,M08,2026-07-12,Zone,Zone D billed instead of C,-6.65
+SFX3101265591,M08,2026-07-24,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,25.0
+SFX3102438858,M11,2026-07-18,Weight,Volumetric divisor 5000 used instead of 4500,53.2
+SFX3102829947,M07,2026-07-02,Zone,Zone D billed instead of C,-6.3
+SFX3102829947,M07,2026-07-02,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102960310,M07,2026-07-04,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3103090673,M07,2026-07-26,Zone,Zone D billed instead of C,-9.9
+SFX3103221036,M08,2026-07-09,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,3.75
+SFX3103351399,M11,2026-07-15,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3103742488,M07,2026-07-10,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3104133577,M05,2026-07-14,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104394303,M07,2026-07-10,Zone,Zone D billed instead of C,-6.3
+SFX3104394303,M07,2026-07-10,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104785392,M08,2026-07-29,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,33.75
+SFX3104915755,M07,2026-07-15,Zone,Zone D billed instead of C,-13.5
+SFX3105306844,M07,2026-07-11,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105958659,M07,2026-07-29,Zone,Zone D billed instead of C,-9.9
+SFX3106089022,M08,2026-07-08,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,6.25
+SFX3106349748,M07,2026-07-21,Zone,Zone D billed instead of C,-6.3
+SFX3106349748,M07,2026-07-21,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106610474,M05,2026-07-27,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107131926,M07,2026-07-28,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3107262289,M07,2026-07-11,Zone,Zone D billed instead of C,-6.3
+SFX3107262289,M07,2026-07-11,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107392652,M07,2026-07-08,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3107914104,M07,2026-07-06,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3108305193,M05,2026-07-12,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100348097,M07,2026-07-07,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3100478460,M05,2026-07-15,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101782090,M07,2026-07-12,Zone,Zone D billed instead of C,-6.3
+SFX3101782090,M07,2026-07-12,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102303542,M05,2026-07-03,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103998261,M07,2026-07-01,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3104389350,M08,2026-07-17,Zone,Zone D billed instead of C,-10.45
+SFX3104389350,M08,2026-07-17,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,17.5
+SFX3104780439,M05,2026-07-19,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105562617,M08,2026-07-27,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,7.5
+SFX3105692980,M08,2026-07-05,Zone,Zone D billed instead of C,-6.65
+SFX3107648425,M07,2026-07-01,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3108300240,M05,2026-07-15,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108560966,M05,2026-07-07,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108952055,M08,2026-07-09,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,23.75
+SFX3100082418,M07,2026-07-12,Zone,Zone D billed instead of C,-9.9
+SFX3100212781,M05,2026-07-17,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100343144,M11,2026-07-15,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3100473507,M05,2026-07-03,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100734233,M07,2026-07-27,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101646774,M07,2026-07-21,Zone,Zone D billed instead of C,-9.9
+SFX3103211130,M05,2026-07-16,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103471856,M08,2026-07-23,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,5.0
+SFX3103862945,M07,2026-07-21,Zone,Zone D billed instead of C,-6.3
+SFX3103862945,M07,2026-07-21,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105036212,M05,2026-07-12,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105166575,M05,2026-07-15,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105296938,M07,2026-07-07,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105948753,M05,2026-07-01,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106079116,M07,2026-07-30,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106339842,M05,2026-07-14,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106991657,M05,2026-07-22,Weight,Chargeable weight billed below measured weight,13.16
+SFX3107122020,M05,2026-07-30,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107382746,M07,2026-07-09,Weight,Minimum chargeable weight 1 kg not applied,16.2
+SFX3107643472,M05,2026-07-17,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108034561,M07,2026-07-23,Zone,Zone D billed instead of C,-6.3
+SFX3108034561,M07,2026-07-23,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108686376,M08,2026-07-19,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,22.5
+SFX3100077465,M11,2026-07-24,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3100207828,M05,2026-07-04,Weight,Chargeable weight billed below measured weight,13.16
+SFX3100468554,M11,2026-07-20,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3101381095,M05,2026-07-13,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101511458,M07,2026-07-20,Zone,Zone D billed instead of C,-17.1
+SFX3101902547,M02,2026-07-04,Zone,Zone D billed instead of C,-10.45
+SFX3102554362,M08,2026-07-10,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,2.5
+SFX3102815088,M07,2026-07-05,Zone,Zone D billed instead of C,-9.9
+SFX3102945451,M08,2026-07-02,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,22.5
+SFX3105291985,M07,2026-07-04,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105422348,M07,2026-07-25,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105683074,M05,2026-07-08,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105813437,M07,2026-07-23,Zone,Zone D billed instead of C,-9.9
+SFX3106334889,M07,2026-08-04,Zone,Zone D billed instead of C,-9.9
+SFX3106465252,M06,2026-08-14,Zone,Zone D billed instead of C,-11.0
+SFX3106725978,M05,2026-08-04,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107247430,M05,2026-08-07,Zone,Zone D billed instead of C,-6.58
+SFX3107247430,M05,2026-08-07,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108029608,M08,2026-08-25,Zone,Zone D billed instead of C,-6.65
+SFX3108290334,M11,2026-08-14,Weight,Volumetric divisor 5000 used instead of 4500,13.3
+SFX3108681423,M09,2026-08-28,Discount,Discount amendment to 15% not applied (billed 8%),-29.12
+SFX3100072512,M05,2026-08-09,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100202875,M05,2026-08-01,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101506505,M05,2026-08-17,Weight,Chargeable weight billed below measured weight,13.16
+SFX3102158320,M06,2026-08-24,Zone,Zone D billed instead of C,-19.0
+SFX3102419046,M05,2026-08-05,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102679772,M05,2026-08-14,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102810135,M05,2026-08-02,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103592313,M08,2026-08-03,Zone,Zone D billed instead of C,-14.25
+SFX3105156669,M09,2026-08-29,Discount,Discount amendment to 15% not applied (billed 8%),-13.44
+SFX3105678121,M02,2026-08-10,Zone,Zone D billed instead of C,-18.05
+SFX3106069210,M08,2026-08-05,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,31.25
+SFX3106590662,M02,2026-08-29,Zone,Zone D billed instead of C,-10.45
+SFX3107242477,M08,2026-08-12,COD,Schedule A COD fee used instead of contract COD fee,15.0
+SFX3107633566,M07,2026-08-24,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3107894292,M07,2026-08-05,Zone,Zone D billed instead of C,-6.3
+SFX3107894292,M07,2026-08-05,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108676470,M07,2026-08-22,Zone,Zone D billed instead of C,-6.3
+SFX3108676470,M07,2026-08-22,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101631915,M07,2026-08-21,Zone,Zone D billed instead of C,-13.5
+SFX3101762278,M07,2026-08-09,Zone,Zone D billed instead of C,-13.5
+SFX3102414093,M07,2026-08-12,Zone,Zone D billed instead of C,-13.5
+SFX3102544456,M05,2026-08-28,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103326634,M09,2026-08-26,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3103456997,M07,2026-08-16,Zone,Zone D billed instead of C,-6.3
+SFX3103456997,M07,2026-08-16,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104108812,M05,2026-08-10,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104239175,M05,2026-08-24,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104499901,M07,2026-08-18,Zone,Zone D billed instead of C,-9.9
+SFX3105151716,M05,2026-08-03,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105673168,M05,2026-08-02,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105803531,M07,2026-08-23,Zone,Zone D billed instead of C,-9.9
+SFX3105933894,M05,2026-08-31,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106324983,M06,2026-08-15,Zone,Zone D billed instead of C,-7.0
+SFX3106716072,M07,2026-08-04,Zone,Zone D billed instead of C,-9.9
+SFX3106976798,M07,2026-08-01,Zone,Zone D billed instead of C,-9.9
+SFX3107107161,M09,2026-08-25,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3107367887,M07,2026-08-29,Zone,Zone D billed instead of C,-9.9
+SFX3107889339,M06,2026-08-24,Zone,Zone D billed instead of C,-15.0
+SFX3100062606,M08,2026-08-30,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,3.75
+SFX3101366236,M07,2026-08-17,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3102018051,M05,2026-08-24,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102669866,M08,2026-08-16,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,11.25
+SFX3102800229,M09,2026-08-26,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3103712770,M07,2026-08-26,Zone,Zone D billed instead of C,-9.9
+SFX3103843133,M07,2026-08-15,Zone,Zone D billed instead of C,-9.9
+SFX3104103859,M07,2026-08-31,Zone,Zone D billed instead of C,-13.5
+SFX3104625311,M05,2026-08-18,Weight,Chargeable weight billed below measured weight,35.72
+SFX3105668215,M05,2026-08-01,Weight,Chargeable weight billed below measured weight,13.16
+SFX3106189667,M07,2026-08-10,Zone,Zone D billed instead of C,-13.5
+SFX3106450393,M07,2026-08-09,Zone,Zone D billed instead of C,-6.3
+SFX3106450393,M07,2026-08-09,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106711119,M08,2026-08-04,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,21.25
+SFX3107102208,M05,2026-08-02,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107362934,M11,2026-08-15,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3107623660,M08,2026-08-08,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,10.0
+SFX3107754023,M11,2026-08-26,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3107884386,M07,2026-08-15,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3108014749,M01,2026-08-31,Zone,Zone D billed instead of C,-21.16
+SFX3108405838,M08,2026-08-18,Zone,Zone D billed instead of C,-10.45
+SFX3108666564,M05,2026-08-06,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100057653,M08,2026-08-09,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,21.25
+SFX3100579105,M05,2026-08-01,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100709468,M09,2026-08-31,Discount,Discount amendment to 15% not applied (billed 8%),-13.44
+SFX3101230920,M07,2026-08-31,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101361283,M08,2026-08-05,Zone,Zone D billed instead of C,-14.25
+SFX3101361283,M08,2026-08-05,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,20.0
+SFX3101622009,M07,2026-08-30,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3102013098,M05,2026-08-06,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102143461,M07,2026-08-30,Zone,Zone D billed instead of C,-9.9
+SFX3102404187,M07,2026-08-09,Zone,Zone D billed instead of C,-6.3
+SFX3102404187,M07,2026-08-09,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103577454,M05,2026-08-02,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103707817,M06,2026-08-18,Zone,Zone D billed instead of C,-55.0
+SFX3103838180,M07,2026-08-13,Zone,Zone D billed instead of C,-9.9
+SFX3103968543,M07,2026-08-23,Zone,Zone D billed instead of C,-6.3
+SFX3103968543,M07,2026-08-23,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104620358,M05,2026-08-31,Zone,Zone D billed instead of C,-14.1
+SFX3104620358,M05,2026-08-31,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105923988,M05,2026-08-10,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106184714,M07,2026-08-27,Zone,Zone D billed instead of C,-9.9
+SFX3106706166,M07,2026-08-26,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3107357981,M09,2026-08-29,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3108009796,M07,2026-08-11,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3108270522,M07,2026-08-18,Zone,Zone D billed instead of C,-13.5
+SFX3108400885,M05,2026-08-17,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108531248,M07,2026-08-01,Zone,Zone D billed instead of C,-6.3
+SFX3108531248,M07,2026-08-01,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100313426,M07,2026-08-30,Zone,Zone D billed instead of C,-6.3
+SFX3100313426,M07,2026-08-30,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100965241,M08,2026-08-05,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,23.75
+SFX3101747419,M08,2026-08-17,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,1.25
+SFX3102008145,M09,2026-08-31,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3102138508,M07,2026-08-03,Zone,Zone D billed instead of C,-9.9
+SFX3102399234,M08,2026-08-01,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,25.0
+SFX3104224316,M07,2026-08-22,Zone,Zone D billed instead of C,-17.1
+SFX3104745768,M07,2026-08-20,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105136857,M02,2026-08-28,Zone,Zone D billed instead of C,-6.65
+SFX3105658309,M07,2026-08-16,Zone,Zone D billed instead of C,-9.9
+SFX3105788672,M05,2026-08-18,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106310124,M08,2026-08-21,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,25.0
+SFX3107222665,M09,2026-08-30,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3107613754,M05,2026-08-07,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108004843,M06,2026-08-14,Zone,Zone D billed instead of C,-31.0
+SFX3108526295,M05,2026-08-01,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108656658,M05,2026-08-09,Weight,Chargeable weight billed below measured weight,35.72
+SFX3100178110,M08,2026-08-05,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,30.0
+SFX3100569199,M08,2026-08-21,COD,Schedule A COD fee used instead of contract COD fee,15.0
+SFX3101090651,M07,2026-08-21,Zone,Zone D billed instead of C,-6.3
+SFX3101090651,M07,2026-08-21,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102524644,M05,2026-08-28,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103046096,M08,2026-08-29,Zone,Zone D billed instead of C,-10.45
+SFX3104480089,M07,2026-08-27,Zone,Zone D billed instead of C,-9.9
+SFX3104610452,M01,2026-08-01,Zone,Zone D billed instead of C,-13.8
+SFX3105131904,M07,2026-08-23,Zone,Zone D billed instead of C,-6.3
+SFX3105131904,M07,2026-08-23,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105262267,M07,2026-08-09,Zone,Zone D billed instead of C,-6.3
+SFX3105262267,M07,2026-08-09,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105783719,M05,2026-08-10,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106044445,M05,2026-08-06,Zone,Zone D billed instead of C,-14.1
+SFX3106044445,M05,2026-08-06,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106696260,M05,2026-08-05,Zone,Zone D billed instead of C,-6.58
+SFX3106956986,M01,2026-08-13,Zone,Zone D billed instead of C,-10.12
+SFX3100564246,M09,2026-08-30,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3100955335,M05,2026-08-11,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102258965,M07,2026-08-07,Zone,Zone D billed instead of C,-13.5
+SFX3102780417,M09,2026-08-26,Discount,Discount amendment to 15% not applied (billed 8%),-21.28
+SFX3103301869,M11,2026-08-27,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3103953684,M08,2026-08-13,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,12.5
+SFX3104214410,M07,2026-08-21,Zone,Zone D billed instead of C,-6.3
+SFX3104214410,M07,2026-08-21,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104866225,M05,2026-08-24,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104996588,M07,2026-08-13,Zone,Zone D billed instead of C,-9.9
+SFX3105126951,M05,2026-08-01,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105257314,M07,2026-08-11,Zone,Zone D billed instead of C,-13.5
+SFX3105909129,M07,2026-08-23,Zone,Zone D billed instead of C,-6.3
+SFX3105909129,M07,2026-08-23,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106039492,M02,2026-08-10,Zone,Zone D billed instead of C,-10.45
+SFX3106300218,M09,2026-08-25,Discount,Discount amendment to 15% not applied (billed 8%),-27.16
+SFX3106560944,M05,2026-08-22,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106821670,M08,2026-08-26,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,30.0
+SFX3106952033,M07,2026-08-27,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3107994937,M09,2026-08-30,Discount,Discount amendment to 15% not applied (billed 8%),-13.44
+SFX3108646752,M07,2026-08-05,Zone,Zone D billed instead of C,-9.9
+SFX3108907478,M07,2026-08-16,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100298567,M07,2026-08-27,Zone,Zone D billed instead of C,-13.5
+SFX3101080745,M05,2026-08-15,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102123649,M08,2026-08-19,Zone,Zone D billed instead of C,-6.65
+SFX3102123649,M08,2026-08-19,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,6.25
+SFX3102384375,M07,2026-08-25,Zone,Zone D billed instead of C,-6.3
+SFX3102384375,M07,2026-08-25,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103166553,M05,2026-08-21,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103296916,M08,2026-08-27,Zone,Zone D billed instead of C,-10.45
+SFX3103427279,M08,2026-08-23,Zone,Zone D billed instead of C,-10.45
+SFX3103818368,M05,2026-08-03,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104209457,M05,2026-08-30,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105252361,M07,2026-08-08,Zone,Zone D billed instead of C,-6.3
+SFX3105252361,M07,2026-08-08,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105643450,M07,2026-08-14,Zone,Zone D billed instead of C,-6.3
+SFX3105643450,M07,2026-08-14,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105773813,M05,2026-08-09,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106295265,M07,2026-08-11,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3106947080,M01,2026-08-04,Zone,Zone D billed instead of C,-32.2
+SFX3108120347,M08,2026-08-19,Zone,Zone D billed instead of C,-14.25
+SFX3108120347,M08,2026-08-19,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,2.5
+SFX3108381073,M05,2026-08-15,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108772162,M01,2026-08-28,Zone,Zone D billed instead of C,-6.44
+SFX3100032888,M08,2026-08-27,Zone,Zone D billed instead of C,-18.05
+SFX3100032888,M08,2026-08-27,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,30.0
+SFX3101727607,M08,2026-08-04,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,22.5
+SFX3102379422,M08,2026-08-22,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,1.25
+SFX3103422326,M07,2026-08-25,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3103683052,M07,2026-08-27,Zone,Zone D billed instead of C,-13.5
+SFX3104465230,M08,2026-08-16,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,28.75
+SFX3104856319,M01,2026-08-26,Zone,Zone D billed instead of C,-10.12
+SFX3105247408,M05,2026-08-30,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105899223,M05,2026-08-10,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106029586,M07,2026-08-01,Zone,Zone D billed instead of C,-6.3
+SFX3106029586,M07,2026-08-01,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106551038,M07,2026-08-13,Zone,Zone D billed instead of C,-9.9
+SFX3106942127,M09,2026-08-25,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3107202853,M09,2026-08-29,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3107333216,M08,2026-08-01,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,30.0
+SFX3107463579,M07,2026-08-05,Zone,Zone D billed instead of C,-9.9
+SFX3108115394,M05,2026-08-05,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100027935,M02,2026-08-26,Zone,Zone D billed instead of C,-10.45
+SFX3100810113,M05,2026-08-25,Weight,Chargeable weight billed below measured weight,13.16
+SFX3100940476,M05,2026-08-31,Zone,Zone D billed instead of C,-10.34
+SFX3100940476,M05,2026-08-31,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101722654,M07,2026-08-21,Zone,Zone D billed instead of C,-6.3
+SFX3101722654,M07,2026-08-21,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102244106,M07,2026-08-29,Zone,Zone D billed instead of C,-20.7
+SFX3102504832,M07,2026-08-20,Zone,Zone D billed instead of C,-6.3
+SFX3102504832,M07,2026-08-20,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103287010,M05,2026-08-24,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104329914,M05,2026-08-31,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104590640,M07,2026-08-06,Zone,Zone D billed instead of C,-6.3
+SFX3104590640,M07,2026-08-06,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107197900,M05,2026-08-04,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107458626,M07,2026-08-23,Zone,Zone D billed instead of C,-9.9
+SFX3107588989,M05,2026-08-24,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107849715,M05,2026-08-24,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108762256,M07,2026-08-27,Zone,Zone D billed instead of C,-6.3
+SFX3108762256,M07,2026-08-27,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100414071,M05,2026-08-10,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101717701,M08,2026-08-27,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,16.25
+SFX3101848064,M08,2026-08-23,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,7.5
+SFX3102108790,M05,2026-08-21,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102239153,M05,2026-08-17,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102369516,M05,2026-08-10,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102890968,M07,2026-08-11,Zone,Zone D billed instead of C,-13.5
+SFX3103412420,M07,2026-08-08,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3103933872,M08,2026-08-06,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,27.5
+SFX3104064235,M07,2026-08-06,Zone,Zone D billed instead of C,-20.7
+SFX3104324961,M07,2026-08-25,Zone,Zone D billed instead of C,-9.9
+SFX3104846413,M05,2026-08-04,Zone,Zone D billed instead of C,-14.1
+SFX3104846413,M05,2026-08-04,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105107139,M07,2026-08-30,Zone,Zone D billed instead of C,-13.5
+SFX3105628591,M05,2026-08-30,Zone,Zone D billed instead of C,-6.58
+SFX3105628591,M05,2026-08-30,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105889317,M11,2026-08-25,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3106280406,M08,2026-08-15,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,12.5
+SFX3106410769,M07,2026-08-22,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106932221,M07,2026-08-29,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3108105488,M09,2026-08-29,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3108366214,M05,2026-08-02,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108626940,M07,2026-08-04,Zone,Zone D billed instead of C,-6.3
+SFX3108626940,M07,2026-08-04,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108887666,M07,2026-08-08,Zone,Zone D billed instead of C,-9.9
+SFX3101191296,M07,2026-08-12,Zone,Zone D billed instead of C,-9.9
+SFX3101321659,M07,2026-08-30,Zone,Zone D billed instead of C,-9.9
+SFX3101582385,M09,2026-08-26,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3101973474,M07,2026-08-02,Zone,Zone D billed instead of C,-6.3
+SFX3101973474,M07,2026-08-02,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102234200,M08,2026-08-20,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,36.25
+SFX3102494926,M07,2026-08-13,Zone,Zone D billed instead of C,-9.9
+SFX3102886015,M05,2026-08-22,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103277104,M11,2026-08-04,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3103668193,M05,2026-08-09,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103928919,M07,2026-08-01,Zone,Zone D billed instead of C,-6.3
+SFX3103928919,M07,2026-08-01,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104189645,M07,2026-08-04,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3104580734,M09,2026-08-27,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3104711097,M07,2026-08-07,Weight,Minimum chargeable weight 1 kg not applied,16.2
+SFX3104841460,M08,2026-08-19,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,35.0
+SFX3105232549,M07,2026-08-26,Zone,Zone D billed instead of C,-6.3
+SFX3105232549,M07,2026-08-26,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105754001,M11,2026-08-22,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3106405816,M01,2026-08-16,Zone,Zone D billed instead of C,-6.44
+SFX3106927268,M08,2026-08-05,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,6.25
+SFX3107839809,M07,2026-08-24,Zone,Zone D billed instead of C,-9.9
+SFX3108100535,M07,2026-08-04,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3108491624,M05,2026-08-16,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100404165,M07,2026-08-24,Zone,Zone D billed instead of C,-9.9
+SFX3102620336,M07,2026-08-29,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3103011425,M05,2026-08-23,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103141788,M07,2026-08-21,Zone,Zone D billed instead of C,-6.3
+SFX3103141788,M07,2026-08-21,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103402514,M08,2026-08-16,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,3.75
+SFX3103923966,M05,2026-08-05,Weight,Chargeable weight billed below measured weight,13.16
+SFX3104966870,M07,2026-08-15,Zone,Zone D billed instead of C,-9.9
+SFX3105357959,M07,2026-08-20,Zone,Zone D billed instead of C,-6.3
+SFX3105357959,M07,2026-08-20,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106140137,M07,2026-08-02,Zone,Zone D billed instead of C,-6.3
+SFX3106140137,M07,2026-08-02,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106661589,M07,2026-08-13,Zone,Zone D billed instead of C,-6.3
+SFX3106661589,M07,2026-08-13,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106922315,M08,2026-08-22,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,27.5
+SFX3107183041,M08,2026-08-13,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,5.0
+SFX3107313404,M02,2026-08-19,Zone,Zone D billed instead of C,-14.25
+SFX3107443767,M05,2026-08-12,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108356308,M05,2026-08-25,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108617034,M07,2026-08-17,Zone,Zone D billed instead of C,-6.3
+SFX3108617034,M07,2026-08-17,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108747397,M07,2026-08-13,Zone,Zone D billed instead of C,-6.3
+SFX3108747397,M07,2026-08-13,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100399212,M06,2026-08-05,Zone,Zone D billed instead of C,-35.0
+SFX3100659938,M07,2026-08-21,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100920664,M02,2026-08-06,Zone,Zone D billed instead of C,-29.45
+SFX3101572479,M07,2026-08-10,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101963568,M07,2026-08-19,Zone,Zone D billed instead of C,-6.3
+SFX3101963568,M07,2026-08-19,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102615383,M07,2026-08-21,Zone,Zone D billed instead of C,-6.3
+SFX3102615383,M07,2026-08-21,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104961917,M08,2026-08-14,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,8.75
+SFX3106004821,M05,2026-08-16,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106135184,M08,2026-08-25,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,33.75
+SFX3106265547,M05,2026-08-07,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106395910,M05,2026-08-08,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106526273,M07,2026-08-28,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106656636,M08,2026-08-28,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,12.5
+SFX3107178088,M05,2026-08-09,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107829903,M05,2026-08-05,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108220992,M07,2026-08-30,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3108481718,M05,2026-08-08,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108612081,M07,2026-08-15,Zone,Zone D billed instead of C,-6.3
+SFX3108612081,M07,2026-08-15,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108742444,M08,2026-08-11,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,31.25
+SFX3100263896,M07,2026-08-08,Zone,Zone D billed instead of C,-6.3
+SFX3100263896,M07,2026-08-08,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100524622,M07,2026-08-20,Zone,Zone D billed instead of C,-13.5
+SFX3101046074,M08,2026-08-15,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,23.75
+SFX3101958615,M06,2026-08-29,Zone,Zone D billed instead of C,-15.0
+SFX3102088978,M05,2026-08-16,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102219341,M07,2026-08-29,Zone,Zone D billed instead of C,-9.9
+SFX3102610430,M05,2026-08-13,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103522971,M11,2026-08-25,Weight,Volumetric divisor 5000 used instead of 4500,36.1
+SFX3103653334,M05,2026-08-24,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103783697,M05,2026-08-25,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104174786,M05,2026-08-11,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104826601,M05,2026-08-04,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105348053,M07,2026-08-24,Weight,Minimum chargeable weight 1 kg not applied,16.2
+SFX3105739142,M07,2026-08-30,Zone,Zone D billed instead of C,-13.5
+SFX3106260594,M05,2026-08-04,Weight,Chargeable weight billed below measured weight,35.72
+SFX3106912409,M05,2026-08-13,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108476765,M05,2026-08-11,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100128580,M08,2026-08-11,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,31.25
+SFX3100650032,M05,2026-08-12,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100780395,M02,2026-08-06,Zone,Zone D billed instead of C,-14.25
+SFX3101301847,M05,2026-08-27,Weight,Chargeable weight billed below measured weight,35.72
+SFX3101432210,M01,2026-08-11,Zone,Zone D billed instead of C,-13.8
+SFX3101692936,M05,2026-08-19,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101953662,M07,2026-08-29,Zone,Zone D billed instead of C,-9.9
+SFX3102084025,M08,2026-08-31,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,2.5
+SFX3102735840,M05,2026-08-06,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103387655,M07,2026-08-14,Zone,Zone D billed instead of C,-6.3
+SFX3103387655,M07,2026-08-14,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103648381,M07,2026-08-12,Zone,Zone D billed instead of C,-6.3
+SFX3103648381,M07,2026-08-12,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104300196,M07,2026-08-30,Zone,Zone D billed instead of C,-20.7
+SFX3104560922,M07,2026-08-02,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3104821648,M07,2026-08-19,Zone,Zone D billed instead of C,-6.3
+SFX3104821648,M07,2026-08-19,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105212737,M09,2026-08-31,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3105343100,M05,2026-08-13,Weight,Chargeable weight billed below measured weight,35.72
+SFX3105473463,M07,2026-08-08,Zone,Zone D billed instead of C,-6.3
+SFX3105473463,M07,2026-08-08,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105864552,M07,2026-08-22,Zone,Zone D billed instead of C,-6.3
+SFX3105864552,M07,2026-08-22,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105994915,M05,2026-08-27,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106125278,M08,2026-08-07,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,3.75
+SFX3106907456,M07,2026-08-16,Zone,Zone D billed instead of C,-9.9
+SFX3107168182,M09,2026-08-31,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3108080723,M07,2026-08-05,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3108211086,M07,2026-08-05,Zone,Zone D billed instead of C,-13.5
+SFX3108471812,M07,2026-08-12,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3100253990,M07,2026-08-26,Zone,Zone D billed instead of C,-9.9
+SFX3100514716,M07,2026-08-11,Zone,Zone D billed instead of C,-9.9
+SFX3100775442,M05,2026-08-31,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101818346,M07,2026-08-10,Zone,Zone D billed instead of C,-6.3
+SFX3101818346,M07,2026-08-10,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102600524,M06,2026-08-31,Zone,Zone D billed instead of C,-11.0
+SFX3103643428,M05,2026-08-02,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104295243,M05,2026-08-18,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104425606,M07,2026-08-30,Zone,Zone D billed instead of C,-6.3
+SFX3104425606,M07,2026-08-30,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104816695,M08,2026-08-26,Zone,Zone D billed instead of C,-18.05
+SFX3105338147,M05,2026-08-28,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106250688,M11,2026-08-12,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3106381051,M07,2026-08-21,Zone,Zone D billed instead of C,-9.9
+SFX3106511414,M01,2026-08-23,Zone,Zone D billed instead of C,-50.6
+SFX3106902503,M11,2026-08-17,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3107032866,M07,2026-08-28,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3107554318,M09,2026-08-26,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3107684681,M07,2026-08-11,Zone,Zone D billed instead of C,-20.7
+SFX3107815044,M07,2026-08-24,Zone,Zone D billed instead of C,-6.3
+SFX3107815044,M07,2026-08-24,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108075770,M07,2026-08-07,Zone,Zone D billed instead of C,-6.3
+SFX3108075770,M07,2026-08-07,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108466859,M08,2026-08-20,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,5.0
+SFX3100379400,M08,2026-08-14,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,8.75
+SFX3100640126,M05,2026-08-16,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100770489,M07,2026-08-17,Zone,Zone D billed instead of C,-9.9
+SFX3101552667,M02,2026-08-11,Zone,Zone D billed instead of C,-14.25
+SFX3104159927,M07,2026-08-04,Zone,Zone D billed instead of C,-6.3
+SFX3104159927,M07,2026-08-04,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104420653,M07,2026-08-14,Zone,Zone D billed instead of C,-9.9
+SFX3104551016,M07,2026-08-18,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3104681379,M08,2026-08-14,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,17.5
+SFX3105593920,M05,2026-08-23,Weight,Chargeable weight billed below measured weight,13.16
+SFX3105724283,M07,2026-08-10,Zone,Zone D billed instead of C,-6.3
+SFX3105724283,M07,2026-08-10,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106115372,M08,2026-08-25,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,37.5
+SFX3106506461,M08,2026-08-20,Zone,Zone D billed instead of C,-25.65
+SFX3107027913,M08,2026-08-11,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,18.75
+SFX3107419002,M05,2026-08-17,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108983358,M07,2026-08-06,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101026262,M05,2026-08-05,Zone,Zone D billed instead of C,-6.58
+SFX3101026262,M05,2026-08-05,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101156625,M05,2026-08-25,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101417351,M08,2026-08-02,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,26.25
+SFX3101808440,M08,2026-08-19,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,16.25
+SFX3102199529,M09,2026-08-26,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3102981707,M07,2026-08-19,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3103242433,M05,2026-08-07,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103372796,M05,2026-08-25,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104415700,M05,2026-08-25,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104676426,M05,2026-08-14,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105458604,M07,2026-08-22,Zone,Zone D billed instead of C,-6.3
+SFX3105458604,M07,2026-08-22,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105719330,M07,2026-08-29,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3106371145,M07,2026-08-19,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106762234,M07,2026-08-05,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3108196227,M07,2026-08-24,Zone,Zone D billed instead of C,-6.3
+SFX3108196227,M07,2026-08-24,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108456953,M05,2026-08-12,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108587316,M07,2026-08-20,Zone,Zone D billed instead of C,-9.9
+SFX3108848042,M05,2026-08-22,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101151672,M02,2026-08-10,Zone,Zone D billed instead of C,-10.45
+SFX3101542761,M08,2026-08-01,Zone,Zone D billed instead of C,-37.05
+SFX3101542761,M08,2026-08-01,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,25.0
+SFX3102455302,M07,2026-08-06,Zone,Zone D billed instead of C,-6.3
+SFX3102455302,M07,2026-08-06,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102846391,M07,2026-08-17,Zone,Zone D billed instead of C,-6.3
+SFX3102846391,M07,2026-08-17,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104541110,M07,2026-08-10,Zone,Zone D billed instead of C,-6.3
+SFX3104541110,M07,2026-08-10,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105192925,M07,2026-08-04,Zone,Zone D billed instead of C,-6.3
+SFX3105192925,M07,2026-08-04,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105584014,M07,2026-08-03,Zone,Zone D billed instead of C,-20.7
+SFX3105844740,M07,2026-08-21,Zone,Zone D billed instead of C,-6.3
+SFX3105844740,M07,2026-08-21,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105975103,M05,2026-08-10,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106105466,M07,2026-08-18,Zone,Zone D billed instead of C,-9.9
+SFX3106366192,M05,2026-08-05,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106757281,M05,2026-08-12,Weight,Chargeable weight billed below measured weight,35.72
+SFX3107669822,M05,2026-08-27,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108191274,M05,2026-08-23,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108712726,M08,2026-08-29,Zone,Zone D billed instead of C,-10.45
+SFX3108843089,M05,2026-08-08,Weight,Chargeable weight billed below measured weight,35.72
+SFX3100234178,M05,2026-08-27,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100364541,M05,2026-08-05,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101277082,M07,2026-08-21,Zone,Zone D billed instead of C,-6.3
+SFX3101277082,M07,2026-08-21,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101407445,M07,2026-08-12,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101537808,M09,2026-08-31,Discount,Discount amendment to 15% not applied (billed 8%),-17.36
+SFX3101798534,M05,2026-08-13,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102189623,M05,2026-08-16,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102450349,M01,2026-08-06,Zone,Zone D billed instead of C,-10.12
+SFX3102971801,M05,2026-08-30,Zone,Zone D billed instead of C,-6.58
+SFX3103753979,M05,2026-08-07,Zone,Zone D billed instead of C,-6.58
+SFX3104405794,M05,2026-08-12,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104536157,M09,2026-08-26,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3104927246,M08,2026-08-20,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,28.75
+SFX3105057609,M05,2026-08-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105187972,M07,2026-08-16,Zone,Zone D billed instead of C,-9.9
+SFX3105709424,M02,2026-08-11,Zone,Zone D billed instead of C,-10.45
+SFX3106752328,M05,2026-08-14,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108577410,M05,2026-08-11,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108838136,M07,2026-08-29,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100098862,M07,2026-08-09,Zone,Zone D billed instead of C,-6.3
+SFX3100098862,M07,2026-08-09,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100750677,M07,2026-08-03,Zone,Zone D billed instead of C,-6.3
+SFX3100750677,M07,2026-08-03,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101011403,M05,2026-08-04,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101532855,M08,2026-08-29,Zone,Zone D billed instead of C,-14.25
+SFX3101532855,M08,2026-08-29,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,16.25
+SFX3101793581,M11,2026-08-02,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3102315033,M07,2026-08-02,Zone,Zone D billed instead of C,-13.5
+SFX3102575759,M07,2026-08-12,Zone,Zone D billed instead of C,-9.9
+SFX3105052656,M05,2026-08-21,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105443745,M07,2026-08-01,Zone,Zone D billed instead of C,-9.9
+SFX3106486649,M11,2026-08-28,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3106617012,M09,2026-08-27,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3106877738,M07,2026-08-23,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3107008101,M07,2026-08-05,Zone,Zone D billed instead of C,-6.3
+SFX3107008101,M07,2026-08-05,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100093909,M07,2026-08-21,Zone,Zone D billed instead of C,-17.1
+SFX3100745724,M05,2026-08-21,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101788628,M05,2026-08-15,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102179717,M07,2026-08-30,Zone,Zone D billed instead of C,-6.3
+SFX3102179717,M07,2026-08-30,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102310080,M05,2026-08-11,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102961895,M07,2026-08-14,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3103092258,M07,2026-08-28,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3103744073,M01,2026-08-14,Zone,Zone D billed instead of C,-10.12
+SFX3104395888,M09,2026-08-31,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3105047703,M08,2026-08-22,Zone,Zone D billed instead of C,-6.65
+SFX3105047703,M08,2026-08-22,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,25.0
+SFX3105569155,M05,2026-08-03,Zone,Zone D billed instead of C,-6.58
+SFX3105569155,M05,2026-08-03,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107003148,M11,2026-08-09,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3107263874,M08,2026-08-15,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,5.0
+SFX3107785326,M11,2026-08-13,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3108306778,M08,2026-08-29,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,8.75
+SFX3100219319,M07,2026-08-28,Zone,Zone D billed instead of C,-9.9
+SFX3100610408,M06,2026-08-31,Zone,Zone D billed instead of C,-51.0
+SFX3100740771,M07,2026-08-02,Zone,Zone D billed instead of C,-9.9
+SFX3101001497,M11,2026-08-08,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3102044401,M08,2026-08-11,COD,Schedule A COD fee used instead of contract COD fee,15.0
+SFX3102305127,M01,2026-08-12,Zone,Zone D billed instead of C,-24.84
+SFX3102565853,M05,2026-08-12,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102826579,M05,2026-08-22,Weight,Chargeable weight billed below measured weight,35.72
+SFX3103608757,M07,2026-08-03,Zone,Zone D billed instead of C,-6.3
+SFX3103608757,M07,2026-08-03,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103739120,M07,2026-08-24,Zone,Zone D billed instead of C,-6.3
+SFX3103739120,M07,2026-08-24,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104912387,M07,2026-08-16,Zone,Zone D billed instead of C,-9.9
+SFX3105173113,M07,2026-08-07,Zone,Zone D billed instead of C,-6.3
+SFX3105173113,M07,2026-08-07,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105564202,M05,2026-08-04,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105955291,M05,2026-08-20,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106346380,M06,2026-08-04,Zone,Zone D billed instead of C,-7.0
+SFX3106476743,M07,2026-08-14,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106737469,M05,2026-08-21,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107258921,M05,2026-08-18,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107519647,M07,2026-08-25,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3107910736,M07,2026-08-16,Zone,Zone D billed instead of C,-9.9
+SFX3108823277,M11,2026-08-09,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3100084003,M05,2026-08-21,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100344729,M02,2026-08-08,Zone,Zone D billed instead of C,-6.65
+SFX3100735818,M07,2026-08-19,Zone,Zone D billed instead of C,-13.5
+SFX3101387633,M11,2026-08-01,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3101648359,M08,2026-08-22,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,7.5
+SFX3102039448,M07,2026-08-03,Zone,Zone D billed instead of C,-6.3
+SFX3102039448,M07,2026-08-03,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102560900,M05,2026-08-04,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102951989,M05,2026-08-31,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103082352,M07,2026-08-23,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3103212715,M07,2026-08-04,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3103864530,M07,2026-08-18,Zone,Zone D billed instead of C,-6.3
+SFX3103864530,M07,2026-08-18,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104646708,M07,2026-08-18,Zone,Zone D billed instead of C,-6.3
+SFX3104646708,M07,2026-08-18,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104907434,M05,2026-08-08,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105037797,M08,2026-08-22,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,26.25
+SFX3105559249,M08,2026-08-23,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,13.75
+SFX3106602153,M05,2026-08-11,Weight,Chargeable weight billed below measured weight,13.16
+SFX3106732516,M02,2026-08-20,Zone,Zone D billed instead of C,-10.45
+SFX3107384331,M05,2026-08-31,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107775420,M02,2026-08-02,Zone,Zone D billed instead of C,-21.85
+SFX3107905783,M07,2026-08-28,Zone,Zone D billed instead of C,-6.3
+SFX3107905783,M07,2026-08-28,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108687961,M07,2026-08-29,Zone,Zone D billed instead of C,-6.3
+SFX3108687961,M07,2026-08-29,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101252317,M07,2026-08-29,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101382680,M05,2026-08-30,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101643406,M07,2026-08-23,Zone,Zone D billed instead of C,-6.3
+SFX3101643406,M07,2026-08-23,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102816673,M02,2026-08-22,Zone,Zone D billed instead of C,-6.65
+SFX3103077399,M08,2026-08-23,Zone,Zone D billed instead of C,-10.45
+SFX3103598851,M05,2026-08-31,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104902481,M07,2026-08-13,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105815022,M05,2026-08-11,Zone,Zone D billed instead of C,-6.58
+SFX3106597200,M07,2026-08-18,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3107379378,M05,2026-08-27,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108161556,M07,2026-08-31,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3108291919,M07,2026-08-01,Zone,Zone D billed instead of C,-9.9
+SFX3108813371,M08,2026-08-26,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,20.0
+SFX3108943734,M07,2026-08-11,Zone,Zone D billed instead of C,-9.9
+SFX3100725912,M05,2026-08-07,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100986638,M05,2026-08-27,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101117001,M07,2026-08-10,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3101638453,M05,2026-08-08,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101899179,M08,2026-08-14,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,2.5
+SFX3102029542,M05,2026-08-22,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102811720,M05,2026-08-30,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102942083,M05,2026-08-24,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103072446,M08,2026-08-10,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,35.0
+SFX3103202809,M05,2026-08-17,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103593898,M11,2026-08-09,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3103724261,M07,2026-08-11,Zone,Zone D billed instead of C,-6.3
+SFX3103724261,M07,2026-08-11,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103984987,M05,2026-08-08,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105027891,M05,2026-08-30,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106070795,M07,2026-08-22,Zone,Zone D billed instead of C,-6.3
+SFX3106070795,M07,2026-08-22,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106852973,M07,2026-08-06,Zone,Zone D billed instead of C,-9.9
+SFX3106983336,M05,2026-08-29,Weight,Chargeable weight billed below measured weight,13.16
+SFX3108547692,M05,2026-08-18,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108938781,M11,2026-08-18,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3100720959,M01,2026-08-28,Zone,Zone D billed instead of C,-17.48
+SFX3101633500,M05,2026-08-18,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102676404,M05,2026-08-12,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103980034,M05,2026-08-13,Zone,Zone D billed instead of C,-10.34
+SFX3103980034,M05,2026-08-13,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104110397,M08,2026-08-06,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,30.0
+SFX3104240760,M07,2026-08-20,Zone,Zone D billed instead of C,-13.5
+SFX3104631849,M05,2026-08-04,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105674753,M05,2026-08-23,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106456931,M07,2026-08-20,Zone,Zone D billed instead of C,-9.9
+SFX3106848020,M08,2026-08-17,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,10.0
+SFX3107108746,M05,2026-08-08,Weight,Chargeable weight billed below measured weight,13.16
+SFX3107239109,M05,2026-08-07,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107499835,M11,2026-08-26,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3108282013,M07,2026-08-17,Zone,Zone D billed instead of C,-6.3
+SFX3108282013,M07,2026-08-17,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100324917,M09,2026-08-25,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3100846369,M08,2026-08-27,Zone,Zone D billed instead of C,-10.45
+SFX3101107095,M07,2026-08-06,Zone,Zone D billed instead of C,-6.3
+SFX3101107095,M07,2026-08-06,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101498184,M08,2026-08-21,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,33.75
+SFX3102019636,M07,2026-08-27,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3102541088,M05,2026-08-02,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102671451,M07,2026-08-12,Zone,Zone D billed instead of C,-9.9
+SFX3103844718,M07,2026-08-19,Zone,Zone D billed instead of C,-6.3
+SFX3103844718,M07,2026-08-19,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104366170,M09,2026-08-28,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3104626896,M09,2026-08-28,Discount,Discount amendment to 15% not applied (billed 8%),-21.28
+SFX3104887622,M05,2026-08-05,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105278711,M07,2026-08-10,Zone,Zone D billed instead of C,-17.1
+SFX3105409074,M07,2026-08-09,Zone,Zone D billed instead of C,-9.9
+SFX3105669800,M07,2026-08-07,Zone,Zone D billed instead of C,-6.3
+SFX3105669800,M07,2026-08-07,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106191252,M05,2026-08-04,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106582341,M05,2026-08-24,Weight,Chargeable weight billed below measured weight,13.16
+SFX3107625245,M05,2026-08-15,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100059238,M01,2026-08-14,Zone,Zone D billed instead of C,-28.52
+SFX3100189601,M07,2026-08-26,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100711053,M05,2026-08-22,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101493231,M06,2026-08-25,Zone,Zone D billed instead of C,-7.0
+SFX3101753957,M07,2026-08-23,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3103187950,M07,2026-08-25,Zone,Zone D billed instead of C,-6.3
+SFX3103187950,M07,2026-08-25,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103448676,M07,2026-08-05,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3103709402,M05,2026-08-26,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103970128,M07,2026-08-08,Zone,Zone D billed instead of C,-9.9
+SFX3104752306,M08,2026-08-29,Zone,Zone D billed instead of C,-18.05
+SFX3106447025,M07,2026-08-28,Zone,Zone D billed instead of C,-6.3
+SFX3106447025,M07,2026-08-28,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106707751,M05,2026-08-02,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106838114,M05,2026-08-05,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107489929,M08,2026-08-27,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,16.25
+SFX3107620292,M05,2026-08-12,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107750655,M05,2026-08-15,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108011381,M07,2026-08-24,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3108532833,M07,2026-08-07,Zone,Zone D billed instead of C,-9.9
+SFX3108663196,M08,2026-08-07,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,37.5
+SFX3100054285,M11,2026-08-15,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3100445374,M07,2026-08-28,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100836463,M07,2026-08-19,Zone,Zone D billed instead of C,-6.3
+SFX3100836463,M07,2026-08-19,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100966826,M07,2026-08-27,Zone,Zone D billed instead of C,-9.9
+SFX3101097189,M05,2026-08-27,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101227552,M11,2026-08-08,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3101749004,M08,2026-08-08,Zone,Zone D billed instead of C,-21.85
+SFX3102009730,M07,2026-08-17,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3102531182,M11,2026-08-12,Weight,Volumetric divisor 5000 used instead of 4500,53.2
+SFX3102922271,M07,2026-08-18,Zone,Zone D billed instead of C,-9.9
+SFX3103965175,M05,2026-08-09,Zone,Zone D billed instead of C,-6.58
+SFX3103965175,M05,2026-08-09,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104356264,M07,2026-08-05,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3104486627,M07,2026-08-06,Zone,Zone D billed instead of C,-6.3
+SFX3104486627,M07,2026-08-06,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105268805,M05,2026-08-08,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106181346,M07,2026-08-27,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106572435,M08,2026-08-16,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,10.0
+SFX3108918969,M07,2026-08-25,Zone,Zone D billed instead of C,-17.1
+SFX3101483325,M05,2026-08-14,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103308407,M11,2026-08-01,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3104481674,M02,2026-08-10,Zone,Zone D billed instead of C,-6.65
+SFX3105003126,M05,2026-08-27,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105263852,M08,2026-08-22,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,7.5
+SFX3105524578,M08,2026-08-03,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,5.0
+SFX3105654941,M05,2026-08-20,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108783653,M05,2026-08-01,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101217646,M07,2026-08-29,Zone,Zone D billed instead of C,-6.3
+SFX3101217646,M07,2026-08-29,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101739098,M05,2026-08-03,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101999824,M09,2026-08-29,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3102260550,M09,2026-08-30,Discount,Discount amendment to 15% not applied (billed 8%),-27.16
+SFX3102651639,M07,2026-08-29,Zone,Zone D billed instead of C,-17.1
+SFX3102782002,M05,2026-08-25,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103694543,M07,2026-08-22,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3104085632,M05,2026-08-16,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104867810,M08,2026-08-04,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,11.25
+SFX3105128536,M01,2026-08-28,Zone,Zone D billed instead of C,-24.84
+SFX3105649988,M05,2026-08-10,Weight,Chargeable weight billed below measured weight,13.16
+SFX3105780351,M06,2026-08-07,Zone,Zone D billed instead of C,-31.0
+SFX3105910714,M07,2026-08-12,Zone,Zone D billed instead of C,-6.3
+SFX3105910714,M07,2026-08-12,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107475070,M05,2026-08-19,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107605433,M07,2026-08-12,Zone,Zone D billed instead of C,-6.3
+SFX3107605433,M07,2026-08-12,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107996522,M05,2026-08-14,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100039426,M05,2026-08-11,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100560878,M05,2026-08-12,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100691241,M07,2026-08-19,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3100821604,M05,2026-08-04,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100951967,M06,2026-08-06,Zone,Zone D billed instead of C,-15.0
+SFX3101343056,M07,2026-08-09,Zone,Zone D billed instead of C,-6.3
+SFX3101343056,M07,2026-08-09,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101994871,M07,2026-08-06,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3102125234,M09,2026-08-30,Discount,Discount amendment to 15% not applied (billed 8%),-15.4
+SFX3102777049,M01,2026-08-30,Zone,Zone D billed instead of C,-17.48
+SFX3102907412,M02,2026-08-22,Zone,Zone D billed instead of C,-10.45
+SFX3103298501,M05,2026-08-22,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103559227,M05,2026-08-31,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103689590,M11,2026-08-07,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3103950316,M05,2026-08-14,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104211042,M05,2026-08-24,Weight,Chargeable weight billed below measured weight,13.16
+SFX3104993220,M09,2026-08-25,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3105123583,M08,2026-08-11,Zone,Zone D billed instead of C,-10.45
+SFX3105905761,M06,2026-08-20,Zone,Zone D billed instead of C,-15.0
+SFX3106036124,M05,2026-08-09,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106296850,M05,2026-08-19,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106557576,M05,2026-08-20,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106818302,M07,2026-08-02,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3107079028,M08,2026-08-23,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,38.75
+SFX3107209391,M07,2026-08-12,Zone,Zone D billed instead of C,-9.9
+SFX3107339754,M05,2026-08-29,Weight,Chargeable weight billed below measured weight,35.72
+SFX3107600480,M09,2026-08-29,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3108513021,M05,2026-08-02,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108643384,M07,2026-08-03,Zone,Zone D billed instead of C,-6.3
+SFX3108643384,M07,2026-08-03,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100034473,M09,2026-08-26,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3101468466,M05,2026-08-15,Weight,Chargeable weight billed below measured weight,13.16
+SFX3103032822,M07,2026-08-10,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3103163185,M08,2026-08-25,Zone,Zone D billed instead of C,-10.45
+SFX3103163185,M08,2026-08-25,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,2.5
+SFX3103423911,M05,2026-08-13,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104075726,M08,2026-08-31,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,11.25
+SFX3104857904,M09,2026-08-29,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3104988267,M07,2026-08-06,Zone,Zone D billed instead of C,-13.5
+SFX3105248993,M08,2026-08-01,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,5.0
+SFX3106161534,M09,2026-08-29,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3106422260,M05,2026-08-02,Weight,Chargeable weight billed below measured weight,35.72
+SFX3106552623,M05,2026-08-14,Zone,Zone D billed instead of C,-10.34
+SFX3106552623,M05,2026-08-14,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107204438,M11,2026-08-16,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3108377705,M05,2026-08-02,Zone,Zone D billed instead of C,-6.58
+SFX3100290246,M05,2026-08-10,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100550972,M07,2026-08-30,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101202787,M05,2026-08-05,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101463513,M11,2026-08-12,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3101854602,M05,2026-08-23,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102636780,M06,2026-08-06,Zone,Zone D billed instead of C,-23.0
+SFX3103418958,M05,2026-08-20,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103549321,M07,2026-08-13,Zone,Zone D billed instead of C,-6.3
+SFX3103549321,M07,2026-08-13,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103810047,M05,2026-08-22,Weight,Chargeable weight billed below measured weight,35.72
+SFX3103940410,M11,2026-08-10,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3104331499,M07,2026-08-07,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3105374403,M07,2026-08-13,Zone,Zone D billed instead of C,-6.3
+SFX3105374403,M07,2026-08-13,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105504766,M08,2026-08-02,Zone,Zone D billed instead of C,-18.05
+SFX3105895855,M07,2026-08-21,Zone,Zone D billed instead of C,-9.9
+SFX3106156581,M05,2026-08-26,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106417307,M09,2026-08-29,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3106938759,M05,2026-08-03,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107199485,M05,2026-08-06,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107329848,M02,2026-08-26,Zone,Zone D billed instead of C,-10.45
+SFX3107460211,M07,2026-08-17,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3107720937,M07,2026-08-27,Zone,Zone D billed instead of C,-9.9
+SFX3108112026,M05,2026-08-22,Weight,Chargeable weight billed below measured weight,13.16
+SFX3108242389,M02,2026-08-15,Zone,Zone D billed instead of C,-10.45
+SFX3108503115,M11,2026-08-09,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3101197834,M05,2026-08-13,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101588923,M02,2026-08-02,Zone,Zone D billed instead of C,-37.05
+SFX3101980012,M08,2026-08-19,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,13.75
+SFX3103153279,M05,2026-08-15,Zone,Zone D billed instead of C,-14.1
+SFX3103153279,M05,2026-08-15,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103283642,M07,2026-08-19,Zone,Zone D billed instead of C,-9.9
+SFX3103805094,M08,2026-08-30,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,20.0
+SFX3103935457,M05,2026-08-27,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104587272,M05,2026-08-17,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104847998,M05,2026-08-14,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104978361,M07,2026-08-02,Zone,Zone D billed instead of C,-6.3
+SFX3104978361,M07,2026-08-02,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105499813,M08,2026-08-26,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,13.75
+SFX3106803443,M05,2026-08-02,Zone,Zone D billed instead of C,-6.58
+SFX3107455258,M07,2026-08-07,Zone,Zone D billed instead of C,-9.9
+SFX3107846347,M05,2026-08-18,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107976710,M07,2026-08-24,Zone,Zone D billed instead of C,-6.3
+SFX3107976710,M07,2026-08-24,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108237436,M08,2026-08-17,COD,Schedule A COD fee used instead of contract COD fee,15.0
+SFX3108628525,M05,2026-08-02,Zone,Zone D billed instead of C,-17.86
+SFX3108628525,M05,2026-08-02,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100280340,M07,2026-08-02,Zone,Zone D billed instead of C,-9.9
+SFX3101844696,M05,2026-08-19,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103148326,M08,2026-09-02,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,16.25
+SFX3103278689,M08,2026-09-19,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,20.0
+SFX3103800141,M03,2026-09-05,Weight,Chargeable weight billed below measured weight,25.2
+SFX3104843045,M09,2026-09-08,Discount,Discount amendment to 15% not applied (billed 8%),-13.44
+SFX3105364497,M11,2026-09-13,Weight,Chargeable weight billed below measured weight,39.9
+SFX3105625223,M05,2026-09-22,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106016312,M02,2026-09-16,Weight,Chargeable weight billed below measured weight,53.2
+SFX3106537764,M05,2026-09-22,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107319942,M08,2026-09-03,Weight,Chargeable weight billed below measured weight,13.3
+SFX3107319942,M08,2026-09-03,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,10.0
+SFX3107450305,M05,2026-09-26,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107580668,M05,2026-09-17,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107841394,M11,2026-09-02,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3108362846,M07,2026-09-18,Zone,Zone D billed instead of C,-9.9
+SFX3108493209,M08,2026-09-15,Weight,Chargeable weight billed below measured weight,26.6
+SFX3108493209,M08,2026-09-15,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,12.5
+SFX3108753935,M05,2026-09-22,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108884298,M06,2026-09-10,Weight,Chargeable weight billed below measured weight,28.0
+SFX3100145024,M08,2026-09-30,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,16.25
+SFX3100666476,M05,2026-09-11,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101057565,M07,2026-09-14,Zone,Zone D billed instead of C,-9.9
+SFX3101187928,M11,2026-09-23,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3101448654,M08,2026-09-18,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,33.75
+SFX3101970106,M06,2026-09-05,Weight,Chargeable weight billed below measured weight,28.0
+SFX3102230832,M05,2026-09-22,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102361195,M08,2026-09-09,Weight,Chargeable weight billed below measured weight,45.6
+SFX3102361195,M08,2026-09-09,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,31.25
+SFX3102752284,M02,2026-09-30,Zone,Zone D billed instead of C,-6.65
+SFX3103143373,M05,2026-09-01,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103534462,M05,2026-09-26,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104055914,M09,2026-09-29,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3104316640,M08,2026-09-05,Weight,Chargeable weight billed below measured weight,26.6
+SFX3104577366,M09,2026-09-17,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3104707729,M05,2026-09-24,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105098818,M11,2026-09-08,Weight,Chargeable weight billed below measured weight,26.6
+SFX3105229181,M05,2026-09-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105620270,M05,2026-09-03,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105750633,M11,2026-09-03,Weight,Chargeable weight billed below measured weight,26.6
+SFX3106272085,M02,2026-09-16,Zone,Zone D billed instead of C,-10.45
+SFX3106402448,M07,2026-09-26,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106663174,M09,2026-09-08,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3106793537,M08,2026-09-06,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,33.75
+SFX3106923900,M08,2026-09-25,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,20.0
+SFX3107054263,M07,2026-09-20,Zone,Zone D billed instead of C,-13.5
+SFX3107445352,M09,2026-09-11,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3107575715,M11,2026-09-23,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3107706078,M07,2026-09-27,Zone,Zone D billed instead of C,-9.9
+SFX3108357893,M09,2026-09-08,Weight,Chargeable weight billed below measured weight,25.76
+SFX3108357893,M09,2026-09-08,Discount,Discount amendment to 15% not applied (billed 8%),-15.4
+SFX3108488256,M08,2026-09-05,Weight,Chargeable weight billed below measured weight,26.6
+SFX3100400797,M02,2026-09-16,Weight,Chargeable weight billed below measured weight,22.8
+SFX3100661523,M07,2026-09-29,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101313338,M05,2026-09-30,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101574064,M07,2026-09-07,Zone,Zone D billed instead of C,-6.3
+SFX3101574064,M07,2026-09-07,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101704427,M07,2026-09-06,Zone,Zone D billed instead of C,-6.3
+SFX3101704427,M07,2026-09-06,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102225879,M01,2026-09-08,Zone,Zone D billed instead of C,-17.48
+SFX3102356242,M05,2026-09-26,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103138420,M05,2026-09-17,Weight,Chargeable weight billed below measured weight,13.16
+SFX3103529509,M09,2026-09-26,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3104311687,M06,2026-09-18,Zone,Zone D billed instead of C,-11.0
+SFX3104702776,M09,2026-09-23,Discount,Discount amendment to 15% not applied (billed 8%),-13.44
+SFX3104833139,M05,2026-09-19,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104963502,M05,2026-09-25,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105093865,M07,2026-09-06,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105484954,M08,2026-09-15,Zone,Zone D billed instead of C,-6.65
+SFX3105484954,M08,2026-09-15,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,1.25
+SFX3106267132,M11,2026-09-04,Weight,Chargeable weight billed below measured weight,53.2
+SFX3106658221,M07,2026-09-21,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106788584,M10,2026-09-10,Weight,Chargeable weight billed below measured weight,26.04
+SFX3107179673,M05,2026-09-05,Weight,Chargeable weight billed below measured weight,13.16
+SFX3107570762,M12,2026-09-14,Weight,Chargeable weight billed below measured weight,25.2
+SFX3108222577,M08,2026-09-12,COD,Schedule A COD fee used instead of contract COD fee,15.0
+SFX3108483303,M09,2026-09-05,Weight,Chargeable weight billed below measured weight,25.76
+SFX3108483303,M09,2026-09-05,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3100265481,M06,2026-09-24,Zone,Zone D billed instead of C,-7.0
+SFX3100395844,M08,2026-09-08,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,26.25
+SFX3100656570,M05,2026-09-04,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100917296,M07,2026-09-10,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3101178022,M02,2026-09-03,Weight,Chargeable weight billed below measured weight,22.8
+SFX3101829837,M11,2026-09-09,Weight,Chargeable weight billed below measured weight,26.6
+SFX3101960200,M11,2026-09-22,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3102742378,M12,2026-09-10,Weight,Chargeable weight billed below measured weight,25.2
+SFX3103003104,M05,2026-09-08,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103394193,M09,2026-09-27,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3103524556,M07,2026-09-14,Zone,Zone D billed instead of C,-6.3
+SFX3103524556,M07,2026-09-14,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103915645,M07,2026-09-25,Zone,Zone D billed instead of C,-6.3
+SFX3103915645,M07,2026-09-25,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104697823,M09,2026-09-28,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3104828186,M11,2026-09-14,Weight,Chargeable weight billed below measured weight,26.6
+SFX3105610364,M01,2026-09-01,Zone,Zone D billed instead of C,-10.12
+SFX3105740727,M11,2026-09-18,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3106522905,M05,2026-09-25,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106783631,M08,2026-09-12,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,27.5
+SFX3107305083,M12,2026-09-09,Weight,Chargeable weight billed below measured weight,25.2
+SFX3107826535,M07,2026-09-04,Zone,Zone D billed instead of C,-6.3
+SFX3107826535,M07,2026-09-04,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107956898,M05,2026-09-07,Weight,Chargeable weight billed below measured weight,52.64
+SFX3108087261,M08,2026-09-26,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,36.25
+SFX3108608713,M05,2026-09-18,Weight,Chargeable weight billed below measured weight,35.72
+SFX3108739076,M02,2026-09-03,Weight,Chargeable weight billed below measured weight,22.8
+SFX3100130165,M07,2026-09-28,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100260528,M09,2026-09-23,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3100521254,M09,2026-09-11,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3101042706,M08,2026-09-25,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,21.25
+SFX3101173069,M11,2026-09-08,Weight,Chargeable weight billed below measured weight,53.2
+SFX3101303432,M09,2026-09-11,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3101433795,M05,2026-09-30,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102737425,M07,2026-09-10,Zone,Zone D billed instead of C,-17.1
+SFX3102867788,M07,2026-09-03,Zone,Zone D billed instead of C,-9.9
+SFX3102998151,M07,2026-09-21,Zone,Zone D billed instead of C,-6.3
+SFX3102998151,M07,2026-09-21,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103389240,M09,2026-09-23,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3104041055,M07,2026-09-21,Zone,Zone D billed instead of C,-6.3
+SFX3104041055,M07,2026-09-21,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104562507,M01,2026-09-14,Zone,Zone D billed instead of C,-10.12
+SFX3104823233,M05,2026-09-02,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105214322,M02,2026-09-24,Zone,Zone D billed instead of C,-6.65
+SFX3105344685,M02,2026-09-07,Weight,Chargeable weight billed below measured weight,22.8
+SFX3105475048,M07,2026-09-14,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3105735774,M07,2026-09-09,Zone,Zone D billed instead of C,-9.9
+SFX3105996500,M09,2026-09-17,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3106126863,M09,2026-09-11,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3106257226,M05,2026-09-25,Weight,Chargeable weight billed below measured weight,13.16
+SFX3106517952,M02,2026-09-15,Weight,Chargeable weight billed below measured weight,26.6
+SFX3107430493,M02,2026-09-04,Weight,Chargeable weight billed below measured weight,22.8
+SFX3107691219,M09,2026-09-21,Discount,Discount amendment to 15% not applied (billed 8%),-21.28
+SFX3107951945,M05,2026-09-21,Weight,Chargeable weight billed below measured weight,26.32
+SFX3108082308,M11,2026-09-05,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3108343034,M09,2026-09-13,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3108473397,M08,2026-09-22,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,13.75
+SFX3108603760,M07,2026-09-29,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3108734123,M07,2026-09-09,Zone,Zone D billed instead of C,-6.3
+SFX3108734123,M07,2026-09-09,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100255575,M07,2026-09-16,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3100385938,M05,2026-09-19,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100777027,M07,2026-09-11,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101298479,M08,2026-09-16,Weight,Chargeable weight billed below measured weight,22.8
+SFX3101559205,M07,2026-09-25,Zone,Zone D billed instead of C,-6.3
+SFX3101559205,M07,2026-09-25,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101950294,M05,2026-09-30,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102341383,M08,2026-09-09,Zone,Zone D billed instead of C,-10.45
+SFX3102732472,M08,2026-09-27,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,28.75
+SFX3102862835,M05,2026-09-19,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103253924,M05,2026-09-20,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103384287,M09,2026-09-23,Discount,Discount amendment to 15% not applied (billed 8%),-13.44
+SFX3103775376,M09,2026-09-17,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3104166465,M08,2026-09-06,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,20.0
+SFX3104687917,M01,2026-09-03,Weight,Chargeable weight billed below measured weight,22.08
+SFX3104948643,M02,2026-09-11,Weight,Chargeable weight billed below measured weight,26.6
+SFX3105079006,M03,2026-09-10,Weight,Chargeable weight billed below measured weight,25.2
+SFX3105209369,M05,2026-09-07,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105600458,M07,2026-09-25,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105861184,M05,2026-09-27,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106382636,M08,2026-09-18,Zone,Zone D billed instead of C,-21.85
+SFX3106382636,M08,2026-09-18,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,37.5
+SFX3106904088,M07,2026-09-13,Zone,Zone D billed instead of C,-6.3
+SFX3106904088,M07,2026-09-13,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107425540,M08,2026-09-05,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,36.25
+SFX3107686266,M06,2026-09-09,Weight,Chargeable weight billed below measured weight,280.0
+SFX3108729170,M07,2026-09-18,Zone,Zone D billed instead of C,-13.5
+SFX3108989896,M07,2026-09-09,Zone,Zone D billed instead of C,-6.3
+SFX3108989896,M07,2026-09-09,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100120259,M08,2026-09-21,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,21.25
+SFX3101423889,M09,2026-09-29,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3101554252,M09,2026-09-25,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3102075704,M08,2026-09-11,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,10.0
+SFX3102206067,M09,2026-09-27,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3102466793,M07,2026-09-07,Zone,Zone D billed instead of C,-6.3
+SFX3102466793,M07,2026-09-07,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102597156,M07,2026-09-30,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3103640060,M08,2026-09-02,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,17.5
+SFX3104031149,M11,2026-09-16,Weight,Chargeable weight billed below measured weight,79.8
+SFX3104552601,M07,2026-09-14,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3104682964,M07,2026-09-22,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105074053,M09,2026-09-17,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3105334779,M11,2026-09-04,Weight,Chargeable weight billed below measured weight,26.6
+SFX3105725868,M08,2026-09-29,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,7.5
+SFX3105856231,M07,2026-09-26,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105986594,M07,2026-09-03,Zone,Zone D billed instead of C,-9.9
+SFX3106377683,M12,2026-09-03,Weight,Chargeable weight billed below measured weight,25.2
+SFX3106508046,M05,2026-09-23,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107029498,M09,2026-09-19,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3107159861,M08,2026-09-09,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,27.5
+SFX3107550950,M11,2026-09-03,Weight,Chargeable weight billed below measured weight,39.9
+SFX3107942039,M09,2026-09-24,Discount,Discount amendment to 15% not applied (billed 8%),-20.86
+SFX3108333128,M08,2026-09-20,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,26.25
+SFX3108463491,M09,2026-09-02,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3108854580,M11,2026-09-23,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3100506395,M07,2026-09-28,Zone,Zone D billed instead of C,-9.9
+SFX3100636758,M03,2026-09-14,Weight,Chargeable weight billed below measured weight,25.2
+SFX3100767121,M07,2026-09-19,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101549299,M05,2026-09-18,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101810025,M07,2026-09-18,Zone,Zone D billed instead of C,-9.9
+SFX3101940388,M09,2026-09-23,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3102070751,M05,2026-09-08,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102331477,M05,2026-09-29,Zone,Zone D billed instead of C,-6.58
+SFX3102331477,M05,2026-09-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102592203,M09,2026-09-08,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3102722566,M07,2026-09-16,Zone,Zone D billed instead of C,-9.9
+SFX3103113655,M08,2026-09-28,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,5.0
+SFX3103504744,M01,2026-09-03,Weight,Chargeable weight billed below measured weight,25.76
+SFX3103765470,M07,2026-09-01,Zone,Zone D billed instead of C,-9.9
+SFX3104026196,M09,2026-09-30,Discount,Discount amendment to 15% not applied (billed 8%),-17.36
+SFX3104678011,M02,2026-09-13,Zone,Zone D billed instead of C,-14.25
+SFX3105199463,M09,2026-09-08,Weight,Chargeable weight billed below measured weight,25.76
+SFX3105199463,M09,2026-09-08,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3105329826,M09,2026-09-29,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3105981641,M07,2026-09-12,Zone,Zone D billed instead of C,-6.3
+SFX3105981641,M07,2026-09-12,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106112004,M05,2026-09-01,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106242367,M05,2026-09-21,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106372730,M07,2026-09-23,Zone,Zone D billed instead of C,-9.9
+SFX3106503093,M11,2026-09-08,Weight,Chargeable weight billed below measured weight,26.6
+SFX3106633456,M07,2026-09-23,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106763819,M04,2026-09-16,Weight,Chargeable weight billed below measured weight,24.64
+SFX3106894182,M07,2026-09-06,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3107024545,M07,2026-09-22,Zone,Zone D billed instead of C,-6.3
+SFX3107024545,M07,2026-09-22,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107285271,M02,2026-09-11,Weight,Chargeable weight billed below measured weight,79.8
+SFX3107545997,M09,2026-09-28,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3107676360,M07,2026-09-22,Zone,Zone D billed instead of C,-6.3
+SFX3107676360,M07,2026-09-22,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107806723,M09,2026-09-20,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3107937086,M08,2026-09-16,Weight,Chargeable weight billed below measured weight,13.3
+SFX3108458538,M07,2026-09-14,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3100110353,M05,2026-09-25,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100371079,M08,2026-09-20,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,3.75
+SFX3100501442,M07,2026-09-07,Zone,Zone D billed instead of C,-17.1
+SFX3100501442,M07,2026-09-07,Weight,Chargeable weight billed below measured weight,21.6
+SFX3100631805,M05,2026-09-09,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100762168,M05,2026-09-23,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101283620,M07,2026-09-13,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101413983,M06,2026-09-12,Weight,Chargeable weight billed below measured weight,18.0
+SFX3101674709,M07,2026-09-23,Zone,Zone D billed instead of C,-13.5
+SFX3101805072,M09,2026-09-17,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3102196161,M05,2026-09-25,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102326524,M05,2026-09-29,Weight,Chargeable weight billed below measured weight,35.72
+SFX3102587250,M05,2026-09-02,Zone,Zone D billed instead of C,-21.62
+SFX3102587250,M05,2026-09-02,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102847976,M11,2026-09-13,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3103239065,M09,2026-09-17,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3103760517,M07,2026-09-04,Zone,Zone D billed instead of C,-6.3
+SFX3103760517,M07,2026-09-04,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104151606,M08,2026-09-08,Weight,Chargeable weight billed below measured weight,13.3
+SFX3104281969,M07,2026-09-03,Zone,Zone D billed instead of C,-6.3
+SFX3104281969,M07,2026-09-03,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104412332,M05,2026-09-24,Zone,Zone D billed instead of C,-21.62
+SFX3104412332,M05,2026-09-24,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104542695,M10,2026-09-09,Weight,Chargeable weight billed below measured weight,52.08
+SFX3104803421,M05,2026-09-07,Weight,Chargeable weight billed below measured weight,35.72
+SFX3105194510,M07,2026-09-13,Zone,Zone D billed instead of C,-9.9
+SFX3105715962,M05,2026-09-13,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105846325,M03,2026-09-08,Weight,Chargeable weight billed below measured weight,12.6
+SFX3106367777,M07,2026-09-24,Zone,Zone D billed instead of C,-6.3
+SFX3106367777,M07,2026-09-24,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106498140,M07,2026-09-01,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106628503,M07,2026-09-23,Zone,Zone D billed instead of C,-6.3
+SFX3106628503,M07,2026-09-23,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107019592,M05,2026-09-08,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107280318,M09,2026-09-16,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3107410681,M09,2026-09-13,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3107541044,M09,2026-09-14,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3107671407,M08,2026-09-22,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,26.25
+SFX3108062496,M07,2026-09-20,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3108714311,M01,2026-09-13,Weight,Chargeable weight billed below measured weight,51.52
+SFX3108844674,M05,2026-09-23,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100235763,M09,2026-09-03,Weight,Chargeable weight billed below measured weight,25.76
+SFX3100235763,M09,2026-09-03,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3100496489,M08,2026-09-08,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,7.5
+SFX3100757215,M07,2026-09-28,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101017941,M07,2026-09-05,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101148304,M02,2026-09-03,Weight,Chargeable weight billed below measured weight,17.1
+SFX3101278667,M09,2026-09-22,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3101800119,M08,2026-09-07,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,17.5
+SFX3102321571,M09,2026-09-14,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3102712660,M11,2026-09-09,Weight,Chargeable weight billed below measured weight,79.8
+SFX3103494838,M05,2026-09-01,Zone,Zone D billed instead of C,-10.34
+SFX3103494838,M05,2026-09-01,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104016290,M05,2026-09-05,Weight,Chargeable weight billed below measured weight,13.16
+SFX3104798468,M09,2026-09-24,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3104928831,M07,2026-09-01,Zone,Zone D billed instead of C,-13.5
+SFX3105059194,M05,2026-09-18,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105189557,M07,2026-09-13,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105450283,M07,2026-09-23,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105711009,M07,2026-09-26,Zone,Zone D billed instead of C,-9.9
+SFX3105841372,M11,2026-09-25,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3106102098,M05,2026-09-11,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106232461,M07,2026-09-05,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106753913,M09,2026-09-15,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3107014639,M01,2026-09-04,Zone,Zone D billed instead of C,-21.16
+SFX3107014639,M01,2026-09-04,Weight,Chargeable weight billed below measured weight,22.08
+SFX3107405728,M09,2026-09-21,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3108839721,M08,2026-09-04,Zone,Zone D billed instead of C,-14.25
+SFX3108839721,M08,2026-09-04,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,28.75
+SFX3108970084,M07,2026-09-27,Zone,Zone D billed instead of C,-9.9
+SFX3100491536,M08,2026-09-11,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,33.75
+SFX3100621899,M05,2026-09-09,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100752262,M09,2026-09-27,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3100882625,M05,2026-09-17,Zone,Zone D billed instead of C,-25.38
+SFX3100882625,M05,2026-09-17,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101012988,M05,2026-09-01,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101404077,M05,2026-09-28,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101664803,M07,2026-09-15,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3101795166,M11,2026-09-06,Weight,Chargeable weight billed below measured weight,106.4
+SFX3102186255,M08,2026-09-06,Weight,Chargeable weight billed below measured weight,26.6
+SFX3102316618,M05,2026-09-23,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102446981,M09,2026-09-26,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3103229159,M08,2026-09-01,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,7.5
+SFX3103359522,M08,2026-09-09,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,13.75
+SFX3103489885,M09,2026-09-11,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3103750611,M04,2026-09-14,Weight,Chargeable weight billed below measured weight,24.64
+SFX3103880974,M08,2026-09-07,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,18.75
+SFX3104141700,M01,2026-09-01,Zone,Zone D billed instead of C,-13.8
+SFX3104402426,M09,2026-09-13,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3104663152,M02,2026-09-10,Zone,Zone D billed instead of C,-14.25
+SFX3104663152,M02,2026-09-10,Weight,Chargeable weight billed below measured weight,22.8
+SFX3104793515,M05,2026-09-03,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104923878,M09,2026-09-16,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3105184604,M05,2026-09-24,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105314967,M11,2026-09-04,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3105445330,M09,2026-09-08,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3106227508,M07,2026-09-18,Zone,Zone D billed instead of C,-9.9
+SFX3106748960,M05,2026-09-26,Weight,Chargeable weight billed below measured weight,35.72
+SFX3106879323,M07,2026-09-15,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3107270412,M07,2026-09-17,Zone,Zone D billed instead of C,-6.3
+SFX3107270412,M07,2026-09-17,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107531138,M05,2026-09-16,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107922227,M10,2026-09-10,Weight,Chargeable weight billed below measured weight,26.04
+SFX3108052590,M03,2026-09-10,Weight,Chargeable weight billed below measured weight,50.4
+SFX3108313316,M02,2026-09-02,Zone,Zone D billed instead of C,-10.45
+SFX3108834768,M05,2026-09-28,Zone,Zone D billed instead of C,-10.34
+SFX3108834768,M05,2026-09-28,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100356220,M03,2026-09-04,Weight,Chargeable weight billed below measured weight,25.2
+SFX3101008035,M10,2026-09-07,Weight,Chargeable weight billed below measured weight,52.08
+SFX3101268761,M01,2026-09-14,Zone,Zone D billed instead of C,-10.12
+SFX3101399124,M01,2026-09-19,Zone,Zone D billed instead of C,-6.44
+SFX3101920576,M05,2026-09-27,Zone,Zone D billed instead of C,-14.1
+SFX3101920576,M05,2026-09-27,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102050939,M12,2026-09-15,Weight,Chargeable weight billed below measured weight,25.2
+SFX3102702754,M08,2026-09-04,Zone,Zone D billed instead of C,-6.65
+SFX3102963480,M09,2026-09-15,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3103615295,M05,2026-09-26,Weight,Chargeable weight billed below measured weight,35.72
+SFX3103745658,M12,2026-09-13,Weight,Chargeable weight billed below measured weight,50.4
+SFX3105179651,M01,2026-09-17,Zone,Zone D billed instead of C,-43.24
+SFX3105310014,M08,2026-09-21,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,13.75
+SFX3105440377,M09,2026-09-23,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3105570740,M07,2026-09-30,Zone,Zone D billed instead of C,-6.3
+SFX3105570740,M07,2026-09-30,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105831466,M09,2026-09-17,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3105961829,M08,2026-09-04,Weight,Chargeable weight billed below measured weight,13.3
+SFX3106222555,M11,2026-09-30,Weight,Volumetric divisor 5000 used instead of 4500,53.2
+SFX3106483281,M12,2026-09-03,Weight,Chargeable weight billed below measured weight,50.4
+SFX3106874370,M09,2026-09-06,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3107265459,M09,2026-09-13,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3107786911,M05,2026-09-08,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108308363,M12,2026-09-11,Weight,Chargeable weight billed below measured weight,25.2
+SFX3108438726,M07,2026-09-04,Zone,Zone D billed instead of C,-9.9
+SFX3108699452,M03,2026-09-04,Weight,Chargeable weight billed below measured weight,25.2
+SFX3100742356,M05,2026-09-22,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101394171,M08,2026-09-06,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,1.25
+SFX3101524534,M11,2026-09-11,Weight,Chargeable weight billed below measured weight,79.8
+SFX3101785260,M07,2026-09-27,Zone,Zone D billed instead of C,-13.5
+SFX3102045986,M02,2026-09-07,Weight,Chargeable weight billed below measured weight,26.6
+SFX3102306712,M12,2026-09-09,Weight,Chargeable weight billed below measured weight,25.2
+SFX3102697801,M05,2026-09-03,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102958527,M09,2026-09-07,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3103219253,M07,2026-09-14,Zone,Zone D billed instead of C,-6.3
+SFX3103219253,M07,2026-09-14,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104131794,M05,2026-09-28,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104262157,M09,2026-09-14,Weight,Chargeable weight billed below measured weight,25.76
+SFX3104262157,M09,2026-09-14,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3104653246,M09,2026-09-11,Weight,Chargeable weight billed below measured weight,25.76
+SFX3104653246,M09,2026-09-11,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3104913972,M07,2026-09-14,Weight,Minimum chargeable weight 1 kg not applied,16.2
+SFX3105565787,M05,2026-09-24,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105696150,M09,2026-09-11,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3105956876,M11,2026-09-23,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3106217602,M05,2026-09-29,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106347965,M05,2026-09-28,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106739054,M07,2026-09-28,Zone,Zone D billed instead of C,-6.3
+SFX3106739054,M07,2026-09-28,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106999780,M05,2026-09-18,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107130143,M05,2026-09-04,Weight,Chargeable weight billed below measured weight,35.72
+SFX3107390869,M12,2026-09-10,Weight,Chargeable weight billed below measured weight,50.4
+SFX3107521232,M07,2026-09-18,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3107912321,M07,2026-09-04,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3108173047,M08,2026-09-02,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,20.0
+SFX3108303410,M07,2026-09-20,Zone,Zone D billed instead of C,-9.9
+SFX3108433773,M09,2026-09-13,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3108694499,M07,2026-09-22,Zone,Zone D billed instead of C,-6.3
+SFX3108694499,M07,2026-09-22,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100085588,M07,2026-09-27,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3100998129,M07,2026-09-09,Weight,Chargeable weight billed below measured weight,25.2
+SFX3101128492,M11,2026-09-18,Weight,Volumetric divisor 5000 used instead of 4500,53.2
+SFX3101519581,M07,2026-09-23,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3101780307,M07,2026-09-27,Zone,Zone D billed instead of C,-9.9
+SFX3101910670,M07,2026-09-01,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3102692848,M07,2026-09-01,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3102953574,M07,2026-09-24,Zone,Zone D billed instead of C,-6.3
+SFX3102953574,M07,2026-09-24,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103605389,M08,2026-09-10,Weight,Chargeable weight billed below measured weight,79.8
+SFX3103605389,M08,2026-09-10,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,3.75
+SFX3104257204,M09,2026-09-08,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3104387567,M07,2026-09-28,Zone,Zone D billed instead of C,-9.9
+SFX3105300108,M10,2026-09-07,Weight,Chargeable weight billed below measured weight,13.02
+SFX3105560834,M07,2026-09-09,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105821560,M07,2026-09-03,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105951923,M06,2026-09-09,Weight,Chargeable weight billed below measured weight,38.0
+SFX3106473375,M07,2026-09-30,Zone,Zone D billed instead of C,-20.7
+SFX3107255553,M08,2026-09-22,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,3.75
+SFX3107385916,M07,2026-09-13,Zone,Zone D billed instead of C,-6.3
+SFX3107385916,M07,2026-09-13,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107516279,M03,2026-09-04,Weight,Chargeable weight billed below measured weight,25.2
+SFX3107646642,M05,2026-09-21,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108168094,M05,2026-09-03,Zone,Zone D billed instead of C,-6.58
+SFX3108428820,M10,2026-09-10,Weight,Chargeable weight billed below measured weight,26.04
+SFX3108559183,M06,2026-09-16,Weight,Chargeable weight billed below measured weight,24.0
+SFX3108689546,M11,2026-09-09,Weight,Chargeable weight billed below measured weight,26.6
+SFX3108819909,M09,2026-09-20,Discount,Discount amendment to 15% not applied (billed 8%),-23.24
+SFX3108950272,M09,2026-09-26,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3100341361,M09,2026-09-28,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3100471724,M05,2026-09-18,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100602087,M07,2026-09-11,Zone,Zone D billed instead of C,-6.3
+SFX3100602087,M07,2026-09-11,Weight,Chargeable weight billed below measured weight,21.6
+SFX3101123539,M05,2026-09-09,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102036080,M05,2026-09-17,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102166443,M01,2026-09-12,Weight,Chargeable weight billed below measured weight,25.76
+SFX3102296806,M09,2026-09-25,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3102687895,M05,2026-09-04,Weight,Chargeable weight billed below measured weight,35.72
+SFX3103470073,M11,2026-09-13,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3104121888,M09,2026-09-03,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3104512977,M07,2026-09-21,Zone,Zone D billed instead of C,-9.9
+SFX3104773703,M01,2026-09-02,Zone,Zone D billed instead of C,-21.16
+SFX3105034429,M05,2026-09-02,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105295155,M08,2026-09-18,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,13.75
+SFX3105425518,M05,2026-09-22,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106077333,M09,2026-09-19,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3106338059,M05,2026-09-20,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106859511,M07,2026-09-03,Zone,Zone D billed instead of C,-6.3
+SFX3106859511,M07,2026-09-03,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106989874,M05,2026-09-07,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107511326,M09,2026-09-24,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3108163141,M12,2026-09-13,Weight,Chargeable weight billed below measured weight,25.2
+SFX3108293504,M05,2026-09-04,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108554230,M09,2026-09-29,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3108814956,M07,2026-09-04,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3100075682,M05,2026-09-17,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100336408,M07,2026-09-22,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3100466771,M04,2026-09-16,Weight,Chargeable weight billed below measured weight,24.64
+SFX3100597134,M06,2026-09-09,Weight,Chargeable weight billed below measured weight,28.0
+SFX3100988223,M09,2026-09-06,Weight,Chargeable weight billed below measured weight,25.76
+SFX3100988223,M09,2026-09-06,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3101248949,M05,2026-09-24,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101379312,M09,2026-09-03,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3101509675,M09,2026-09-07,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3101900764,M05,2026-09-20,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102031127,M08,2026-09-21,Zone,Zone D billed instead of C,-18.05
+SFX3102161490,M07,2026-09-25,Zone,Zone D billed instead of C,-9.9
+SFX3102422216,M07,2026-09-03,Zone,Zone D billed instead of C,-9.9
+SFX3102682942,M05,2026-09-01,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102943668,M07,2026-09-07,Zone,Zone D billed instead of C,-6.3
+SFX3102943668,M07,2026-09-07,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3103595483,M07,2026-09-10,Zone,Zone D billed instead of C,-9.9
+SFX3103986572,M09,2026-09-27,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3104508024,M05,2026-09-20,Weight,Chargeable weight billed below measured weight,35.72
+SFX3104638387,M05,2026-09-08,Zone,Zone D billed instead of C,-10.34
+SFX3104638387,M05,2026-09-08,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106333106,M05,2026-09-10,Weight,Chargeable weight billed below measured weight,52.64
+SFX3106724195,M07,2026-09-19,Zone,Zone D billed instead of C,-9.9
+SFX3106854558,M09,2026-09-19,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3107506373,M07,2026-09-19,Zone,Zone D billed instead of C,-9.9
+SFX3107897462,M07,2026-09-30,Zone,Zone D billed instead of C,-6.3
+SFX3107897462,M07,2026-09-30,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108027825,M06,2026-09-09,Weight,Chargeable weight billed below measured weight,48.0
+SFX3108158188,M01,2026-09-09,Weight,Chargeable weight billed below measured weight,25.76
+SFX3108288551,M08,2026-09-15,Weight,Chargeable weight billed below measured weight,68.4
+SFX3108810003,M09,2026-09-01,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3100592181,M07,2026-09-29,Zone,Zone D billed instead of C,-6.3
+SFX3100592181,M07,2026-09-29,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100983270,M04,2026-09-14,Weight,Chargeable weight billed below measured weight,24.64
+SFX3101374359,M08,2026-09-16,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,6.25
+SFX3101765448,M05,2026-09-28,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102286900,M09,2026-09-08,Discount,Discount amendment to 15% not applied (billed 8%),-13.44
+SFX3102417263,M07,2026-09-03,Zone,Zone D billed instead of C,-9.9
+SFX3103590530,M08,2026-09-24,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,28.75
+SFX3103851256,M09,2026-09-21,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3103981619,M02,2026-09-06,Weight,Chargeable weight billed below measured weight,26.6
+SFX3104242345,M07,2026-09-05,Zone,Zone D billed instead of C,-6.3
+SFX3104242345,M07,2026-09-05,Weight,Chargeable weight billed below measured weight,21.6
+SFX3104633434,M05,2026-09-06,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104894160,M07,2026-09-29,Zone,Zone D billed instead of C,-9.9
+SFX3105154886,M09,2026-09-29,Discount,Discount amendment to 15% not applied (billed 8%),-21.28
+SFX3105285249,M02,2026-09-07,Weight,Chargeable weight billed below measured weight,36.1
+SFX3105415612,M10,2026-09-15,Weight,Chargeable weight billed below measured weight,26.04
+SFX3105806701,M08,2026-09-13,Weight,Chargeable weight billed below measured weight,13.3
+SFX3105937064,M11,2026-09-25,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3106849605,M08,2026-09-03,Weight,Chargeable weight billed below measured weight,22.8
+SFX3106849605,M08,2026-09-03,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,38.75
+SFX3107240694,M09,2026-09-22,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3107371057,M05,2026-09-05,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107631783,M07,2026-09-10,Zone,Zone D billed instead of C,-9.9
+SFX3107762146,M07,2026-09-21,Zone,Zone D billed instead of C,-9.9
+SFX3108153235,M02,2026-09-10,Weight,Chargeable weight billed below measured weight,22.8
+SFX3108283598,M07,2026-09-14,Zone,Zone D billed instead of C,-6.3
+SFX3108283598,M07,2026-09-14,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108413961,M09,2026-09-27,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3108544324,M09,2026-09-24,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3108805050,M09,2026-09-11,Discount,Discount amendment to 15% not applied (billed 8%),-13.44
+SFX3108935413,M05,2026-09-19,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100065776,M07,2026-09-21,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3101630132,M05,2026-09-08,Zone,Zone D billed instead of C,-14.1
+SFX3101630132,M05,2026-09-08,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101890858,M04,2026-09-14,Weight,Chargeable weight billed below measured weight,24.64
+SFX3102933762,M09,2026-09-05,Discount,Discount amendment to 15% not applied (billed 8%),-4.9
+SFX3103194488,M09,2026-09-02,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3103585577,M02,2026-09-14,Weight,Chargeable weight billed below measured weight,26.6
+SFX3103715940,M06,2026-09-03,Zone,Zone D billed instead of C,-15.0
+SFX3103846303,M05,2026-09-03,Zone,Zone D billed instead of C,-10.34
+SFX3103846303,M05,2026-09-03,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103976666,M01,2026-09-26,Zone,Zone D billed instead of C,-24.84
+SFX3104367755,M05,2026-09-17,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105801748,M07,2026-09-25,Zone,Zone D billed instead of C,-6.3
+SFX3105801748,M07,2026-09-25,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105932111,M09,2026-09-15,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3106062474,M07,2026-09-16,Zone,Zone D billed instead of C,-6.3
+SFX3106062474,M07,2026-09-16,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106192837,M07,2026-09-24,Zone,Zone D billed instead of C,-6.3
+SFX3106192837,M07,2026-09-24,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106975015,M06,2026-09-12,Weight,Chargeable weight billed below measured weight,28.0
+SFX3107105378,M07,2026-09-20,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3107366104,M07,2026-09-18,Zone,Zone D billed instead of C,-6.3
+SFX3107366104,M07,2026-09-18,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108148282,M01,2026-09-04,Zone,Zone D billed instead of C,-28.52
+SFX3108148282,M01,2026-09-04,Weight,Chargeable weight billed below measured weight,44.16
+SFX3108278645,M05,2026-09-15,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108930460,M05,2026-09-21,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100191186,M04,2026-09-05,Weight,Chargeable weight billed below measured weight,24.64
+SFX3100321549,M08,2026-09-14,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,21.25
+SFX3100582275,M09,2026-09-22,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3101103727,M08,2026-09-13,Weight,Chargeable weight billed below measured weight,22.8
+SFX3101364453,M08,2026-09-15,Weight,Chargeable weight billed below measured weight,22.8
+SFX3101885905,M01,2026-09-01,Zone,Zone D billed instead of C,-13.8
+SFX3103189535,M05,2026-09-06,Weight,Chargeable weight billed below measured weight,26.32
+SFX3104232439,M11,2026-09-15,Weight,Chargeable weight billed below measured weight,26.6
+SFX3104362802,M05,2026-09-13,Weight,Chargeable weight billed below measured weight,45.12
+SFX3104493165,M08,2026-09-10,Zone,Zone D billed instead of C,-10.45
+SFX3105014617,M05,2026-09-08,Weight,Chargeable weight billed below measured weight,13.16
+SFX3105144980,M09,2026-09-01,Discount,Discount amendment to 15% not applied (billed 8%),-25.2
+SFX3105275343,M05,2026-09-09,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105405706,M07,2026-09-18,Zone,Zone D billed instead of C,-6.3
+SFX3105405706,M07,2026-09-18,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105536069,M07,2026-09-10,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106448610,M05,2026-09-24,Weight,Chargeable weight billed below measured weight,13.16
+SFX3106839699,M05,2026-09-04,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107230788,M05,2026-09-01,Weight,Chargeable weight billed below measured weight,13.16
+SFX3107361151,M09,2026-09-11,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3107621877,M05,2026-09-08,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108012966,M09,2026-09-08,Discount,Discount amendment to 15% not applied (billed 8%),-15.4
+SFX3100186233,M03,2026-09-11,Weight,Chargeable weight billed below measured weight,25.2
+SFX3100316596,M08,2026-09-01,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,23.75
+SFX3100707685,M01,2026-09-03,Weight,Chargeable weight billed below measured weight,22.08
+SFX3100838048,M08,2026-09-04,Weight,Chargeable weight billed below measured weight,22.8
+SFX3100838048,M08,2026-09-04,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,2.5
+SFX3100968411,M06,2026-09-04,Weight,Chargeable weight billed below measured weight,28.0
+SFX3101098774,M09,2026-09-17,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3101750589,M05,2026-09-15,Weight,Chargeable weight billed below measured weight,52.64
+SFX3102011315,M10,2026-09-11,Weight,Chargeable weight billed below measured weight,52.08
+SFX3102663130,M07,2026-09-25,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3103445308,M09,2026-09-21,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3104227486,M08,2026-09-16,Zone,Zone D billed instead of C,-6.65
+SFX3105140027,M07,2026-09-15,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3105270390,M09,2026-09-28,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3105661479,M02,2026-09-12,Weight,Chargeable weight billed below measured weight,34.2
+SFX3106443657,M08,2026-09-02,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,17.5
+SFX3106574020,M09,2026-09-06,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3106834746,M09,2026-09-08,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3107486561,M07,2026-09-29,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3107877650,M05,2026-09-21,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108008013,M07,2026-09-25,Zone,Zone D billed instead of C,-6.3
+SFX3108008013,M07,2026-09-25,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108268739,M01,2026-09-29,Zone,Zone D billed instead of C,-17.48
+SFX3108659828,M05,2026-09-23,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100050917,M04,2026-09-15,Weight,Chargeable weight billed below measured weight,24.64
+SFX3100181280,M09,2026-09-21,Discount,Discount amendment to 15% not applied (billed 8%),-31.08
+SFX3102006362,M08,2026-09-25,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,22.5
+SFX3102397451,M05,2026-09-15,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102527814,M07,2026-09-24,Zone,Zone D billed instead of C,-6.3
+SFX3102527814,M07,2026-09-24,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3102658177,M05,2026-09-10,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102788540,M07,2026-09-10,Zone,Zone D billed instead of C,-9.9
+SFX3103049266,M08,2026-09-10,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,12.5
+SFX3103309992,M08,2026-09-09,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,23.75
+SFX3103440355,M05,2026-09-18,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103961807,M02,2026-09-11,Zone,Zone D billed instead of C,-21.85
+SFX3104222533,M03,2026-09-06,Weight,Chargeable weight billed below measured weight,25.2
+SFX3104743985,M07,2026-09-29,Zone,Zone D billed instead of C,-6.3
+SFX3104743985,M07,2026-09-29,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105656526,M05,2026-09-02,Zone,Zone D billed instead of C,-17.86
+SFX3105656526,M05,2026-09-02,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105786889,M05,2026-09-21,Weight,Chargeable weight billed below measured weight,22.56
+SFX3106177978,M05,2026-09-28,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107220882,M09,2026-09-20,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3107481608,M05,2026-09-13,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107611971,M07,2026-09-13,Weight,Chargeable weight billed below measured weight,25.2
+SFX3107742334,M09,2026-09-27,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3108133423,M11,2026-09-13,Weight,Chargeable weight billed below measured weight,53.2
+SFX3108654875,M07,2026-09-28,Zone,Zone D billed instead of C,-6.3
+SFX3108654875,M07,2026-09-28,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108915601,M01,2026-09-29,Zone,Zone D billed instead of C,-13.8
+SFX3100306690,M05,2026-09-23,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101479957,M06,2026-09-05,Weight,Chargeable weight billed below measured weight,24.0
+SFX3101740683,M04,2026-09-04,Weight,Chargeable weight billed below measured weight,24.64
+SFX3102131772,M08,2026-09-01,Zone,Zone D billed instead of C,-14.25
+SFX3102653224,M02,2026-09-25,Zone,Zone D billed instead of C,-10.45
+SFX3103044313,M11,2026-09-15,Weight,Chargeable weight billed below measured weight,106.4
+SFX3103305039,M05,2026-09-23,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103565765,M05,2026-09-24,Weight,Chargeable weight billed below measured weight,26.32
+SFX3103956854,M06,2026-09-10,Weight,Chargeable weight billed below measured weight,28.0
+SFX3104217580,M07,2026-09-12,Zone,Zone D billed instead of C,-6.3
+SFX3104217580,M07,2026-09-12,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104999758,M09,2026-09-26,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3105651573,M09,2026-09-24,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3105912299,M04,2026-09-16,Weight,Chargeable weight billed below measured weight,49.28
+SFX3106173025,M02,2026-09-10,Weight,Chargeable weight billed below measured weight,13.3
+SFX3106955203,M05,2026-09-05,Weight,Chargeable weight billed below measured weight,26.32
+SFX3107085566,M09,2026-09-09,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3107737381,M05,2026-09-23,Weight,Chargeable weight billed below measured weight,13.16
+SFX3108128470,M05,2026-09-20,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108389196,M09,2026-09-21,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3108649922,M05,2026-09-19,Weight,Chargeable weight billed below measured weight,22.56
+SFX3108780285,M07,2026-09-15,Zone,Zone D billed instead of C,-9.9
+SFX3101083915,M09,2026-09-11,Discount,Discount amendment to 15% not applied (billed 8%),-5.18
+SFX3101214278,M07,2026-09-22,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3101475004,M11,2026-09-11,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3101605367,M05,2026-09-17,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101996456,M11,2026-09-08,Weight,Chargeable weight billed below measured weight,13.3
+SFX3102257182,M08,2026-09-27,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,38.75
+SFX3102648271,M07,2026-09-16,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3103039360,M02,2026-09-04,Weight,Chargeable weight billed below measured weight,26.6
+SFX3104342990,M08,2026-09-04,Zone,Zone D billed instead of C,-37.05
+SFX3104342990,M08,2026-09-04,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,8.75
+SFX3104603716,M07,2026-09-09,Weight,Minimum chargeable weight 1 kg not applied,34.2
+SFX3104734079,M05,2026-09-13,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104994805,M05,2026-09-01,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105776983,M02,2026-09-06,Zone,Zone D billed instead of C,-14.25
+SFX3106298435,M05,2026-09-18,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106559161,M09,2026-09-06,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3106819887,M09,2026-09-07,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3106950250,M09,2026-09-27,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3108514606,M07,2026-09-26,Zone,Zone D billed instead of C,-6.3
+SFX3108514606,M07,2026-09-26,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108775332,M07,2026-09-05,Zone,Zone D billed instead of C,-6.3
+SFX3108775332,M07,2026-09-05,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3100036058,M07,2026-09-08,Zone,Zone D billed instead of C,-13.5
+SFX3100036058,M07,2026-09-08,Weight,Chargeable weight billed below measured weight,21.6
+SFX3100687873,M05,2026-09-22,Weight,Chargeable weight billed below measured weight,13.16
+SFX3101078962,M05,2026-09-28,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101209325,M11,2026-09-29,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3101600414,M07,2026-09-25,Zone,Zone D billed instead of C,-6.3
+SFX3101600414,M07,2026-09-25,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101730777,M09,2026-09-24,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3102121866,M05,2026-09-02,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103295133,M05,2026-09-18,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103555859,M09,2026-09-25,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3104207674,M05,2026-09-08,Weight,Chargeable weight billed below measured weight,22.56
+SFX3104468400,M02,2026-09-08,Zone,Zone D billed instead of C,-10.45
+SFX3104859489,M09,2026-09-20,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3104989852,M11,2026-09-09,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3105120215,M07,2026-09-10,Zone,Zone D billed instead of C,-6.3
+SFX3105120215,M07,2026-09-10,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3105250578,M11,2026-09-15,Weight,Volumetric divisor 5000 used instead of 4500,26.6
+SFX3105380941,M08,2026-09-04,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,32.5
+SFX3105772030,M08,2026-09-14,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,11.25
+SFX3105902393,M05,2026-09-29,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106163119,M10,2026-09-07,Weight,Chargeable weight billed below measured weight,26.04
+SFX3106423845,M05,2026-09-22,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106684571,M01,2026-09-13,Zone,Zone D billed instead of C,-10.12
+SFX3107206023,M07,2026-09-23,Zone,Zone D billed instead of C,-6.3
+SFX3107206023,M07,2026-09-23,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107857838,M07,2026-09-20,Zone,Zone D billed instead of C,-6.3
+SFX3107857838,M07,2026-09-20,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3108379290,M09,2026-09-25,Discount,Discount amendment to 15% not applied (billed 8%),-9.52
+SFX3108509653,M07,2026-09-12,Weight,Minimum chargeable weight 1 kg not applied,12.6
+SFX3100031105,M01,2026-09-03,Weight,Chargeable weight billed below measured weight,51.52
+SFX3100422194,M05,2026-09-04,Zone,Zone D billed instead of C,-6.58
+SFX3100422194,M05,2026-09-04,Weight,Chargeable weight billed below measured weight,22.56
+SFX3100943646,M05,2026-09-14,Weight,Chargeable weight billed below measured weight,22.56
+SFX3101074009,M09,2026-09-15,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3101204372,M04,2026-09-11,Weight,Chargeable weight billed below measured weight,24.64
+SFX3101725824,M05,2026-09-24,Weight,Chargeable weight billed below measured weight,26.32
+SFX3101986550,M05,2026-09-26,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102116913,M08,2026-09-07,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,8.75
+SFX3102377639,M05,2026-09-29,Weight,Chargeable weight billed below measured weight,26.32
+SFX3102508002,M08,2026-09-06,Weight,Chargeable weight billed below measured weight,144.4
+SFX3102508002,M08,2026-09-06,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,5.0
+SFX3103290180,M05,2026-09-29,Weight,Chargeable weight billed below measured weight,22.56
+SFX3103550906,M09,2026-09-13,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3103681269,M08,2026-09-22,Zone,Zone D billed instead of C,-14.25
+SFX3103681269,M08,2026-09-22,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,11.25
+SFX3104333084,M09,2026-09-01,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3104593810,M07,2026-09-16,Zone,Zone D billed instead of C,-6.3
+SFX3104593810,M07,2026-09-16,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3104724173,M09,2026-09-11,Discount,Discount amendment to 15% not applied (billed 8%),-31.08
+SFX3104984899,M05,2026-09-16,Weight,Chargeable weight billed below measured weight,26.32
+SFX3105245625,M02,2026-09-11,Weight,Chargeable weight billed below measured weight,13.3
+SFX3106027803,M05,2026-09-07,Weight,Chargeable weight billed below measured weight,26.32
+SFX3106679618,M10,2026-09-16,Weight,Chargeable weight billed below measured weight,26.04
+SFX3106809981,M01,2026-09-10,Weight,Chargeable weight billed below measured weight,22.08
+SFX3107070707,M12,2026-09-14,Weight,Chargeable weight billed below measured weight,25.2
+SFX3107201070,M05,2026-09-23,Weight,Chargeable weight billed below measured weight,22.56
+SFX3107331433,M07,2026-09-24,Zone,Zone D billed instead of C,-6.3
+SFX3107331433,M07,2026-09-24,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3107592159,M09,2026-09-15,Discount,Discount amendment to 15% not applied (billed 8%),-3.64
+SFX3108765426,M09,2026-09-25,Discount,Discount amendment to 15% not applied (billed 8%),-17.36
+SFX3108895789,M05,2026-09-22,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100286878,M08,2026-09-30,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,23.75
+SFX3100417241,M07,2026-09-04,Zone,Zone D billed instead of C,-9.9
+SFX3100547604,M11,2026-09-05,Weight,Chargeable weight billed below measured weight,53.2
+SFX3101069056,M05,2026-09-11,Weight,Chargeable weight billed below measured weight,52.64
+SFX3102372686,M05,2026-09-18,Zone,Zone D billed instead of C,-6.58
+SFX3102372686,M05,2026-09-18,Weight,Chargeable weight billed below measured weight,22.56
+SFX3102503049,M08,2026-09-10,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,37.5
+SFX3102763775,M02,2026-09-08,Zone,Zone D billed instead of C,-6.65
+SFX3102894138,M02,2026-09-08,Weight,Chargeable weight billed below measured weight,22.8
+SFX3103154864,M06,2026-09-22,Zone,Zone D billed instead of C,-19.0
+SFX3103415590,M07,2026-09-09,Weight,Chargeable weight billed below measured weight,25.2
+SFX3103545953,M08,2026-09-06,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,6.25
+SFX3103676316,M07,2026-09-19,Zone,Zone D billed instead of C,-17.1
+SFX3103937042,M09,2026-09-14,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3104328131,M06,2026-09-15,Weight,Chargeable weight billed below measured weight,28.0
+SFX3104849583,M05,2026-09-16,Weight,Chargeable weight billed below measured weight,22.56
+SFX3105240672,M09,2026-09-23,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3105631761,M07,2026-09-21,Weight,Minimum chargeable weight 1 kg not applied,25.2
+SFX3106283576,M07,2026-09-12,Zone,Zone D billed instead of C,-6.3
+SFX3106283576,M07,2026-09-12,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3106413939,M02,2026-09-29,Zone,Zone D billed instead of C,-10.45
+SFX3106544302,M09,2026-09-14,Discount,Discount amendment to 15% not applied (billed 8%),-7.56
+SFX3106805028,M05,2026-09-06,Weight,Chargeable weight billed below measured weight,67.68
+SFX3107065754,M07,2026-09-03,Zone,Zone D billed instead of C,-9.9
+SFX3107587206,M09,2026-09-06,Discount,Discount amendment to 15% not applied (billed 8%),-11.48
+SFX3108499747,M07,2026-09-01,Weight,Minimum chargeable weight 1 kg not applied,16.2
+SFX3108630110,M07,2026-09-01,Zone,Zone D billed instead of C,-13.5
+SFX3108760473,M07,2026-09-15,Zone,Zone D billed instead of C,-9.9
+SFX3108890836,M05,2026-09-04,Weight,Chargeable weight billed below measured weight,26.32
+SFX3100021199,M01,2026-09-06,Zone,Zone D billed instead of C,-10.12
+SFX3100281925,M08,2026-09-24,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,26.25
+SFX3100673014,M09,2026-09-09,Discount,Discount amendment to 15% not applied (billed 8%),-5.6
+SFX3101194466,M07,2026-09-18,Zone,Zone D billed instead of C,-6.3
+SFX3101194466,M07,2026-09-18,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101324829,M07,2026-09-17,Zone,Zone D billed instead of C,-6.3
+SFX3101324829,M07,2026-09-17,Weight,Minimum chargeable weight 1 kg not applied,21.6
+SFX3101455192,M08,2026-09-16,COD,Contract COD fee (higher of ₹35 or 2.5%) not applied,2.5
+SFX3101715918,M09,2026-09-07,Discount,Discount amendment to 15% not applied (billed 8%),-11.06
+SFX3102237370,M02,2026-09-02,Zone,Zone D billed instead of C,-25.65

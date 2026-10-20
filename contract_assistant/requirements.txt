@@ -1,0 +1,9 @@
+anthropic>=1.15
+google-genai
+langgraph>=1.2
+fastembed>=0.9
+rank-bm25>=0.2.2
+numpy
+pydantic>=2
+python-dotenv
+streamlit

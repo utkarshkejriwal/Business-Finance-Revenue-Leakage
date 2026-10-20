@@ -1,0 +1,6 @@
+priority,zone,condition
+1,A,Origin and destination are the same city
+2,E,Destination is in a Special Region state
+3,B,Origin and destination are in the same state
+4,C,Origin and destination are both Metro cities
+5,D,All other shipments

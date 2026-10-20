@@ -1,0 +1,43 @@
+Validation (train: 1 Jul-15 Aug, test: 16-31 Aug)
+                         roc_auc  pr_auc  ...     f1  predicted_rate
+model                                    ...                       
+logistic_regression       0.776   0.504  ...  0.472           0.183
+logistic_elastic_net      0.777   0.506  ...  0.477           0.139
+random_forest             0.755   0.500  ...  0.482           0.163
+gradient_boosting         0.756   0.519  ...  0.488           0.211
+baseline_is_overbilled    0.682   0.395  ...  0.513           0.091
+
+[5 rows x 7 columns] 
+
+Best model by PR-AUC: gradient_boosting
+
+Top features (permutation importance on 16-31 Aug):
+ overbill_pct            0.1065
+freight_gap             0.0422
+merchant_id             0.0231
+billed_cod_fee          0.0196
+billed_freight          0.0154
+vol_wt_kg               0.0126
+declared_wt_kg          0.0125
+is_overbilled           0.0108
+billed_chargeable_kg    0.0070
+dead_wt_kg              0.0068
+cod_value               0.0057
+zone_mismatch           0.0021
+dtype: float64 
+
+September (train: July+Aug) - 1800 shipments, 367 flagged (20.4%)
+             shipments  flagged  mean_risk_score  flagged_rate
+merchant_id                                                   
+M01                176       38            0.461         0.216
+M02                184       13            0.259         0.071
+M03                149       22            0.428         0.148
+M04                109       12            0.417         0.110
+M05                177       10            0.241         0.056
+M06                107       21            0.445         0.196
+M07                208       67            0.512         0.322
+M08                167       36            0.422         0.216
+M09                123      116            0.894         0.943
+M10                146        7            0.275         0.048
+M11                134       23            0.414         0.172
+M12                120        2            0.265         0.017

@@ -1,0 +1,6 @@
+model,roc_auc,pr_auc,threshold,precision,recall,f1,predicted_rate
+logistic_regression,0.7764,0.5036,0.56,0.4575,0.4871,0.4718,0.1832
+logistic_elastic_net,0.7767,0.5064,0.6,0.5348,0.431,0.4773,0.1387
+random_forest,0.7552,0.4998,0.54,0.4955,0.4698,0.4823,0.1632
+gradient_boosting,0.756,0.5191,0.54,0.4437,0.5431,0.4884,0.2107
+baseline_is_overbilled,0.6818,0.3948,0.5,0.7398,0.3922,0.5127,0.0912
